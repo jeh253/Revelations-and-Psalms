@@ -1,1 +1,1 @@
-# Revelations-and-Pslams
+# Revelations-and-Psalms
