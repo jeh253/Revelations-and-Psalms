@@ -1,0 +1,7 @@
+1/10/22 Meeting notes:
+-Finding a version of public domain version of the bible and the XML used as well
+
+https://raw.githubusercontent.com/seven1m/open-bibles/master/eng-bbe.usfx.xml
+Messaging the XML creator to see if his XML is public domain as well
+Went through several versions to try and see which format  that we like.
+Going with the Philosowaffle XML of the WEB Bible, which is  public domain
