@@ -51,27 +51,27 @@
 			<v id="1" bcv="PSA.5.1"><emo_lang emotion="contentment" tone="petitioning">Give ear to my words, Yahweh. Consider my meditation</emo_lang>.</v>
 			<v id="2" bcv="PSA.5.2"><emo_lang emotion="fear" tone="pleading">Listen to the voice of my cry, my King and my God;for I pray to you</emo_lang>.</v>
 			<v id="3" bcv="PSA.5.3">Yahweh, in the morning <emo_lang emotion="contentment" tone ="petitioning">you shall hear my voice</emo_lang>. In the morning <emo_lang emotion="contentment" tone="petitioning">I will lay my requests before you</emo_lang>, and will <emo_lang emotion="contentment" tone="petitioning">watch expectantly</emo_lang>.</v>
-			<v id="4" bcv="PSA.5.4">For you are not a God who has pleasure in wickedness. Evil can’t live with you.</v>
-			<v id="5" bcv="PSA.5.5">The arrogant shall not stand in your sight. You hate all workers of iniquity.</v>
-			<v id="6" bcv="PSA.5.6">You will destroy those who speak lies. Yahweh abhors the bloodthirsty and deceitful man.</v>
-			<v id="7" bcv="PSA.5.7">But as for me, in the abundance of your loving kindness I will come into your house. I will bow toward your holy temple in reverence of you.</v>
-			<v id="8" bcv="PSA.5.8">Lead me, Yahweh, in your righteousness because of my enemies. Make your way straight before my face.</v>
-			<v id="9" bcv="PSA.5.9">For there is no faithfulness in their mouth. Their heart is destruction. Their throat is an open tomb. They flatter with their tongue.</v>
-			<v id="10" bcv="PSA.5.10">Hold them guilty, God. Let them fall by their own counsels;Thrust them out in the multitude of their transgressions,for they have rebelled against you.</v>
-			<v id="11" bcv="PSA.5.11">But let all those who take refuge in you rejoice,Let them always shout for joy, because you defend them. Let them also who love your name be joyful in you.</v>
-			<v id="12" bcv="PSA.5.12">For you will bless the righteous. Yahweh, you will surround him with favor as with a shield.</v>
+			<v id="4" bcv="PSA.5.4">For <emo_lang emotion="joy" tone="praise">you are not a God who has pleasure in wickedness</emo_lang>. <emo_lang emotion="joy" tone="praise">Evil can’t live with you</emo_lang>.</v>
+			<v id="5" bcv="PSA.5.5"><emo_lang emotion="joy" tone="righteousness">The arrogant shall not stand in your sight</emo_lang>. <emo_lang emotion="joy" tone="violence">You hate all workers of iniquity</emo_lang>.</v>
+			<v id="6" bcv="PSA.5.6"><emo_lang emotion="joy" tone="violence">You will destroy those who speak lies</emo_lang>. <emo_lang emotion="anger" tone="violence">Yahweh abhors the bloodthirsty and deceitful man</emo_lang>.</v>
+			<v id="7" bcv="PSA.5.7">But as for me, in the <emo_lang emotion="joy" tone="praise">abundance of your loving kindness</emo_lang> I will come into your house. <emo_lang emotion="joy" tone="praise">I will bow toward your holy temple in reverence of you</emo_lang>.</v>
+			<v id="8" bcv="PSA.5.8">Lead me, Yahweh, <emo_lang emotion="anger" tone="righteousnes">in your righteousness because of my enemies</emo_lang>. Make your way straight before my face.</v>
+			<v id="9" bcv="PSA.5.9"><emo_lang emotion="anger" tone="righteousness">For there is no faithfulness in their mouth</emo_lang>. <emo_lang emotion="anger" tone="violence">Their heart is destruction</emo_lang>. Their throat is an open tomb. They flatter with their tongue.</v>
+			<v id="10" bcv="PSA.5.10"><emo_lang emotion="anger" tone="righteousness">Hold them guilty</emo_lang>, God. <emo_lang emotion="anger" tone="righteousness">Let them fall by their own counsels</emo_lang>;<emo_lang emotion="anger" tone="violence">Thrust them out</emo_lang> in the multitude of their transgressions,for they have rebelled against you.</v>
+			<v id="11" bcv="PSA.5.11">But let all those who take refuge in you <emo_lang emotion="joy" tone="praise">rejoice</emo_lang>,Let them always <emo_lang emotion="joy" tone="praise">shout for joy</emo_lang>, because you <emo_lang emotion="joy" tone="righteousness">defend</emo_lang> them. <emo_lang emotion="joy" tone="praise">Let them also who love your name be joyful in you</emo_lang>.</v>
+			<v id="12" bcv="PSA.5.12">For you will <emo_lang emotion="joy" tone="praise">bless the righteous</emo_lang>. Yahweh, you will <emo_lang emotion="joy" tone="righteousness">surround him with favor as with a shield</emo_lang>.</v>
 		</c>
 		<c id="6">
-			<v id="1" bcv="PSA.6.1">Yahweh, don’t rebuke me in your anger,neither discipline me in your wrath.</v>
-			<v id="2" bcv="PSA.6.2">Have mercy on me, Yahweh, for I am faint. Yahweh, heal me, for my bones are troubled.</v>
-			<v id="3" bcv="PSA.6.3">My soul is also in great anguish. But you, Yahweh—how long?</v>
-			<v id="4" bcv="PSA.6.4">Return, Yahweh. Deliver my soul,and save me for your loving kindness’ sake.</v>
-			<v id="5" bcv="PSA.6.5">For in death there is no memory of you. In Sheol, who shall give you thanks?</v>
-			<v id="6" bcv="PSA.6.6">I am weary with my groaning. Every night I flood my bed. I drench my couch with my tears.</v>
-			<v id="7" bcv="PSA.6.7">My eye wastes away because of grief. It grows old because of all my adversaries.</v>
-			<v id="8" bcv="PSA.6.8">Depart from me, all you workers of iniquity,for Yahweh has heard the voice of my weeping.</v>
-			<v id="9" bcv="PSA.6.9">Yahweh has heard my supplication. Yahweh accepts my prayer.</v>
-			<v id="10" bcv="PSA.6.10">May all my enemies be ashamed and dismayed. They shall turn back, they shall be disgraced suddenly.</v>
+			<v id="1" bcv="PSA.6.1">Yahweh, <emo_lang emotion="fear" tone="pleading">don’t rebuke me in your anger</emo_lang>,<emo_lang emotion="fear" tone="pleading">neither discipline me in your wrath</emo_lang>.</v>
+			<v id="2" bcv="PSA.6.2"><emo_lang emotion="fear" tone="pleading">Have mercy on me</emo_lang>, Yahweh, for I am <emo_lang emotion="fear" tone="fear">faint</emo_lang>. Yahweh, <emo_lang emotion="fear" tone="pleading">heal me</emo_lang>, for <emo_lang emotion="sorrow" tone="anxiety">my bones are troubled</emo_lang>.</v>
+			<v id="3" bcv="PSA.6.3">My soul is also in <emo_lang emotion="fear" tone="anxiety">great anguish</emo_lang>. But you, Yahweh—how long?</v>
+			<v id="4" bcv="PSA.6.4">Return, Yahweh. <emo_lang emotion="fear" tone="pleading">Deliver my soul</emo_lang>,and <emo_lang emotion="sorrow" tone="pleading">save me for your loving kindness’ sake</emo_lang>.</v>
+			<v id="5" bcv="PSA.6.5"><emo_lang emotion="sorrow" tone="anxiety">For in death there is no memory of you</emo_lang>. In Sheol, who shall give you thanks?</v>
+			<v id="6" bcv="PSA.6.6"><emo_lang emotion="sorrow" tone="anxiety">I am weary with my groaning</emo_lang>. <emo_lang emotion="sorrow" tone="violence">Every night I flood my bed. I drench my couch with my tears</emo_lang>.</v>
+			<v id="7" bcv="PSA.6.7"><emo_lang emotion="sorrow" tone="violence">My eye wastes away because of grief</emo_lang>. It grows old because of all my adversaries.</v>
+			<v id="8" bcv="PSA.6.8"><emo_lang emotion="contentment" tone="praise">Depart from me, all you workers of iniquity,for Yahweh has heard the voice of my weeping</emo_lang>.</v>
+			<v id="9" bcv="PSA.6.9"><emo_lang emotion="joy" tone="praise">Yahweh has heard my supplication. Yahweh accepts my prayer</emo_lang>.</v>
+			<v id="10" bcv="PSA.6.10"><emo_lang emotion="anger" tone="righteousness">May all my enemies be ashamed and dismayed</emo_lang>. <emo_lang emotion="anger" tone="righteousness">They shall turn back</emo_lang>, <emo_lang emotion="anger" tone="violence">they shall be disgraced suddenly</emo_lang>.</v>
 		</c>
 		<c id="7">
 			<v id="1" bcv="PSA.7.1">Yahweh, my God, I take refuge in you. Save me from all those who pursue me, and deliver me,</v>
