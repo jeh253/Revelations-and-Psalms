@@ -48,9 +48,9 @@
 			<v id="8" bcv="PSA.4.8">In <emo_lang emotion="contentment" tone="praise">peace</emo_lang> I will both lay myself down and sleep,for you, Yahweh alone, <emo_lang emotion="contentment" tone="petitioning">make me live in safety</emo_lang>.</v>
 		</c>
 		<c id="5">
-			<v id="1" bcv="PSA.5.1">Give ear to my words, Yahweh. Consider my meditation.</v>
-			<v id="2" bcv="PSA.5.2">Listen to the voice of my cry, my King and my God;for I pray to you.</v>
-			<v id="3" bcv="PSA.5.3">Yahweh, in the morning you shall hear my voice. In the morning I will lay my requests before you, and will watch expectantly.</v>
+			<v id="1" bcv="PSA.5.1"><emo_lang emotion="contentment" tone="petitioning">Give ear to my words, Yahweh. Consider my meditation</emo_lang>.</v>
+			<v id="2" bcv="PSA.5.2"><emo_lang emotion="fear" tone="pleading">Listen to the voice of my cry, my King and my God;for I pray to you</emo_lang>.</v>
+			<v id="3" bcv="PSA.5.3">Yahweh, in the morning <emo_lang emotion="contentment" tone ="petitioning">you shall hear my voice</emo_lang>. In the morning <emo_lang emotion="contentment" tone="petitioning">I will lay my requests before you</emo_lang>, and will <emo_lang emotion="contentment" tone="petitioning">watch expectantly</emo_lang>.</v>
 			<v id="4" bcv="PSA.5.4">For you are not a God who has pleasure in wickedness. Evil can’t live with you.</v>
 			<v id="5" bcv="PSA.5.5">The arrogant shall not stand in your sight. You hate all workers of iniquity.</v>
 			<v id="6" bcv="PSA.5.6">You will destroy those who speak lies. Yahweh abhors the bloodthirsty and deceitful man.</v>
