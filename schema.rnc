@@ -1,0 +1,10 @@
+start = root
+root = element root {book+}
+book = element book {c+,id+}
+c = element c {v+,id+}
+v = element v {mixed{id+, bcv+, (emo_lang)*}}
+id = attribute id {text}
+bcv = attribute bcv {text}
+emo_lang = element emo_lang {mixed{(emo_lang | emotion | tone)*}}
+emotion = attribute emotion {text}
+tone = attribute tone {text}
