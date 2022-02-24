@@ -1,59 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?><root>
 	<book id="REV">
-			<c id="1">
-				<v id="1" bcv="REV.1.1">This is the Revelation of Jesus Christ, which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel to his servant, John,</v>
-				<v id="2" bcv="REV.1.2">who testified to God’s word and of the testimony of Jesus Christ, about everything that he saw.</v>
-				<v id="3" bcv="REV.1.3">Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it, for the time is at hand.</v>
-				<v id="4" bcv="REV.1.4">John, to the seven assemblies that are in Asia: Grace to you and peace from God, who is and who was and who is to come; and from the seven Spirits who are before his throne;</v>
-				<v id="5" bcv="REV.1.5">and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To him who loves us, and washed us from our sins by his blood—</v>
-				<v id="6" bcv="REV.1.6">and he made us to be a Kingdom, priests to his God and Father—to him be the glory and the dominion forever and ever. Amen.</v>
-				<v id="7" bcv="REV.1.7">Behold, he is coming with the clouds, and every eye will see him, including those who pierced him. All the tribes of the earth will mourn over him. Even so, Amen.</v>
-				<v id="8" bcv="REV.1.8">“I am the Alpha and the Omega,“who is and who was and who is to come, the Almighty.”</v>
-				<v id="9" bcv="REV.1.9">I John, your brother and partner with you in the oppression, Kingdom, and perseverance in Christ Jesus, was on the isle that is called Patmos because of God’s Word and the testimony of Jesus Christ.</v>
-				<v id="10" bcv="REV.1.10">I was in the Spirit on the Lord’s day, and I heard behind me a loud voice, like a trumpet</v>
-				<v id="11" bcv="REV.1.11">saying,
- to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and to Laodicea.”</v>
-				<v id="12" bcv="REV.1.12">I turned to see the voice that spoke with me. Having turned, I saw seven golden lamp stands.</v>
-				<v id="13" bcv="REV.1.13">And among the lamp stands was one like a son of man, clothed with a robe reaching down to his feet, and with a golden sash around his chest.</v>
-				<v id="14" bcv="REV.1.14">His head and his hair were white as white wool, like snow. His eyes were like a flame of fire.</v>
-				<v id="15" bcv="REV.1.15">His feet were like burnished brass, as if it had been refined in a furnace. His voice was like the voice of many waters.</v>
-				<v id="16" bcv="REV.1.16">He had seven stars in his right hand. Out of his mouth proceeded a sharp two-edged sword. His face was like the sun shining at its brightest.</v>
-				<v id="17" bcv="REV.1.17">When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying,“Don’t be afraid. I am the first and the last,</v>
-				<v id="18" bcv="REV.1.18">and the Living one. I was dead, and behold, I am alive forever and ever. Amen. I have the keys of Death and of Hades.</v>
-				<v id="19" bcv="REV.1.19">Write therefore the things which you have seen, and the things which are, and the things which will happen hereafter.</v>
-				<v id="20" bcv="REV.1.20">The mystery of the seven stars which you saw in my right hand, and the seven golden lamp stands is this: The seven stars are the angelsof the seven assemblies. The seven lamp stands are seven assemblies.</v>
-			</c>
-			<c id="2">
-				<v id="1" bcv="REV.2.1">“To the angel of the assembly in Ephesus write:“He who holds the seven stars in his right hand, he who walks among the seven golden lamp stands says these things:</v>
-				<v id="2" bcv="REV.2.2">“I know your works, and your toil and perseverance, and that you can’t tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false.</v>
-				<v id="3" bcv="REV.2.3">You have perseverance and have endured for my name’s sake, and havenot grown weary.</v>
-				<v id="4" bcv="REV.2.4">But I have this against you, that you left your first love.</v>
-				<v id="5" bcv="REV.2.5">Remember therefore from where you have fallen, and repent and do the first works; or else I am coming to you swiftly, and will move your lamp stand out of its place, unless you repent.</v>
-				<v id="6" bcv="REV.2.6">But this you have, that you hate the works of the Nicolaitans, which I also hate.</v>
-				<v id="7" bcv="REV.2.7">He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes I will give to eat from the tree of life, which is in the Paradise of my God.</v>
-				<v id="8" bcv="REV.2.8">“To the angel of the assembly in Smyrna write:“The first and the last, who was dead, and has come to life says these things:</v>
-				<v id="9" bcv="REV.2.9">“I know your works, oppression, and your poverty (but you are rich), and the blasphemy of those who say they are Jews, and they are not, but are a synagogue of Satan.</v>
-				<v id="10" bcv="REV.2.10">Don’t be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested; and you will have oppression for ten days. Be faithful to death, and I will give you the crown of life.</v>
-				<v id="11" bcv="REV.2.11">He who has an ear, let him hear what the Spirit says to the assemblies. He who overcomes won’t be harmed by the second death.</v>
-				<v id="12" bcv="REV.2.12">“To the angel of the assembly in Pergamum write:“He who has the sharp two-edged sword says these things:</v>
-				<v id="13" bcv="REV.2.13">“I know your works and where you dwell, where Satan’s throne is. You hold firmly to my name, and didn’t deny my faith in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwells.</v>
-				<v id="14" bcv="REV.2.14">But I have a few things against you, because you have there some who hold the teaching of Balaam, who taught Balak to throw a stumbling block before the children of Israel, to eat things sacrificed to idols, and to commit sexual immorality.</v>
-				<v id="15" bcv="REV.2.15">So you also have some who hold to the teaching of the Nicolaitans likewise.</v>
-				<v id="16" bcv="REV.2.16">Repent therefore, or else I am coming to you quickly, and I will make war against them with the sword of my mouth.</v>
-				<v id="17" bcv="REV.2.17">He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes, to him I will give of the hidden manna,and I will give him a white stone, and on the stone a new name written, which no one knows but he who receives it.</v>
-				<v id="18" bcv="REV.2.18">“To the angel of the assembly in Thyatira write:“The Son of God, who has his eyes like a flame of fire, and his feet are like burnished brass, says these things:</v>
-				<v id="19" bcv="REV.2.19">“I know your works, your love, faith, service, patient endurance, and that your last works are more than the first.</v>
-				<v id="20" bcv="REV.2.20">But I have this against you, that you tolerate yourwoman, Jezebel, who calls herself a prophetess. She teaches and seduces my servants to commit sexual immorality, and to eat things sacrificed to idols.</v>
-				<v id="21" bcv="REV.2.21">I gave her time to repent, but she refuses to repent of her sexual immorality.</v>
-				<v id="22" bcv="REV.2.22">Behold, I will throw her into a bed, and those who commit adultery with her into great oppression, unless they repent of her works.</v>
-				<v id="23" bcv="REV.2.23">I will kill her children with Death, and all the assemblies will know that I am he who searches the minds and hearts. I will give to each one of you according to your deeds.</v>
-				<v id="24" bcv="REV.2.24">But to you I say, to the rest who are in Thyatira, as many as don’t have this teaching, who don’t know what some call ‘the deep things of Satan,’ to you I say, I am not putting any other burden on you.</v>
-				<v id="25" bcv="REV.2.25">Nevertheless, hold that which you have firmly until I come.</v>
-				<v id="26" bcv="REV.2.26">He who overcomes, and he who keeps my works to the end, to him I will give authority over the nations.</v>
-				<v id="27" bcv="REV.2.27">He will rule them with a rod of iron, shattering them like clay pots;as I also have received of my Father:</v>
-				<v id="28" bcv="REV.2.28">and I will give him the morning star.</v>
-				<v id="29" bcv="REV.2.29">He who has an ear, let him hear what the Spirit says to the assemblies.</v>
-			</c>
+		<c id="1">
+			<v id="1" bcv="REV.1.1">This is the Revelation of Jesus Christ, which God gave him to
+				show to his servants the things which must happen soon, which he sent and made known
+				by his angel to his servant, John,</v>
+			<v id="2" bcv="REV.1.2">who testified to God’s word and of the testimony of Jesus
+				Christ, about everything that he saw.</v>
+			<v id="3" bcv="REV.1.3">
+				<emo_lang emotion="joy" tone="praise">Blessed is he who reads and those who hear the
+					words of the prophecy, and keep the things that are written in it, for the time
+					is at hand.</emo_lang>
+			</v>
+			<v id="4" bcv="REV.1.4">John, to the seven assemblies that are in Asia: Grace to you and
+				peace from God, who is and who was and who is to come; and from the seven Spirits
+				who are before his throne;</v>
+			<v id="5" bcv="REV.1.5">and from Jesus Christ, the faithful witness, the firstborn of
+				the dead, and the ruler of the kings of the earth. To him who loves us, and washed
+				us from our sins by his blood—</v>
+			<v id="6" bcv="REV.1.6">and he made us to be a Kingdom, priests to his God and
+				Father—<emo_lang emotion="joy" tone="praise">to him be the glory and the
+					dominion forever and ever.</emo_lang> Amen.</v>
+			<v id="7" bcv="REV.1.7">Behold, he is coming with the clouds, and every eye will see
+				him, including those who pierced him. <emo_lang emotion="sorrow"
+					tone="righteousness">All the tribes of the earth will mourn over him.</emo_lang>
+				Even so, Amen.</v>
+			<v id="8" bcv="REV.1.8">“I am the Alpha and the Omega,“who is and who was and who is to
+				come, the Almighty.”</v>
+			<v id="9" bcv="REV.1.9">I John, your brother and partner with you in the oppression,
+				Kingdom, and perseverance in Christ Jesus, was on the isle that is called Patmos
+				because of God’s Word and the testimony of Jesus Christ.</v>
+			<v id="10" bcv="REV.1.10">I was in the Spirit on the Lord’s day, and I heard behind me a
+				loud voice, like a trumpet</v>
+			<v id="11" bcv="REV.1.11">saying, to Ephesus, Smyrna, Pergamum, Thyatira, Sardis,
+				Philadelphia, and to Laodicea.”</v>
+			<v id="12" bcv="REV.1.12">I turned to see the voice that spoke with me. Having turned, I
+				saw seven golden lamp stands.</v>
+			<v id="13" bcv="REV.1.13">And among the lamp stands was one like a son of man, clothed
+				with a robe reaching down to his feet, and with a golden sash around his chest.</v>
+			<v id="14" bcv="REV.1.14">His head and his hair were white as white wool, like snow. His
+				eyes were like a flame of fire.</v>
+			<v id="15" bcv="REV.1.15">His feet were like burnished brass, as if it had been refined
+				in a furnace. His voice was like the voice of many waters.</v>
+			<v id="16" bcv="REV.1.16">He had seven stars in his right hand. <emo_lang
+				emotion="anger" tone="violence">Out of his mouth proceeded a sharp two-edged
+				sword.</emo_lang> His face was like the sun shining at its brightest.</v>
+			<v id="17" bcv="REV.1.17">When I saw him, <emo_lang emotion="?" tone="praise">I fell at
+				his feet like a dead man.</emo_lang> He laid his right hand on me,
+				saying,“<emo_lang emotion="contentment" tone="petitioning">Don’t be
+					afraid.</emo_lang> I am the first and the last,</v>
+			<v id="18" bcv="REV.1.18">and the Living one. I was dead, and behold, I am alive forever
+				and ever. Amen. I have the keys of Death and of Hades.</v>
+			<v id="19" bcv="REV.1.19">Write therefore the things which you have seen, and the things
+				which are, and the things which will happen hereafter.</v>
+			<v id="20" bcv="REV.1.20">The mystery of the seven stars which you saw in my right hand,
+				and the seven golden lamp stands is this: The seven stars are the angelsof the seven
+				assemblies. The seven lamp stands are seven assemblies.</v>
+		</c>
+		<c id="2">
+			<v id="1" bcv="REV.2.1">“To the angel of the assembly in Ephesus write:“He who holds the
+				seven stars in his right hand, he who walks among the seven golden lamp stands says
+				these things:</v>
+			<v id="2" bcv="REV.2.2">“I know your works, and your <emo_lang emotion="sorror"
+				>toil</emo_lang> and <emo_lang emotion="contentment">perseverance</emo_lang>,
+				and that <emo_lang emotion="anger" tone="righteousness">you can’t tolerate evil men,
+					and have tested those who call themselves apostles, and they are not, and found
+					them false.</emo_lang></v>
+			<v id="3" bcv="REV.2.3"><emo_lang emotion="joy" tone="praise">You have perseverance and have endured for my name’s sake, and
+				havenot grown weary.</emo_lang></v>
+			<v id="4" bcv="REV.2.4"><emo_lang emotion="anger" tone="righteousness">But I have this against you, that you left your first love.</emo_lang></v>
+			<v id="5" bcv="REV.2.5"><emo_lang emotion="anger" tone="violence">Remember therefore from where you have fallen, and repent and do
+				the first works; or else I am coming to you swiftly, and will move your lamp stand
+				out of its place, unless you repent.</emo_lang></v>
+			<v id="6" bcv="REV.2.6"><emo_lang emotion="anger" tone="righteousness">But this you have, that you hate the works of the Nicolaitans,
+				which I also hate.</emo_lang></v>
+			<v id="7" bcv="REV.2.7">He who has an ear, let him hear what the Spirit says to the
+				assemblies. <emo_lang emotion="joy" tone="praise?">To him who overcomes I will give to eat from the tree of life, which is
+					in the Paradise of my God.</emo_lang></v>
+			<v id="8" bcv="REV.2.8">“To the angel of the assembly in Smyrna write:“The first and the
+				last, who was dead, and has come to life says these things:</v>
+			<v id="9" bcv="REV.2.9">“I know your works, oppression, and your poverty (but you are
+				rich), and the blasphemy of those who say they are Jews, and they are not, but are a
+				synagogue of Satan.</v>
+			<v id="10" bcv="REV.2.10">Don’t be afraid of the things which you are about to suffer.
+				<emo_lang emotion="sorrow" tone="violence">Behold, the devil is about to throw some of you into prison, that you may be tested;
+					and you will have oppression for ten days.</emo_lang> <emo_lang emotion="contentment" tone="petitioning">Be faithful to death, and I will give you
+						the crown of life.</emo_lang></v>
+			<v id="11" bcv="REV.2.11">He who has an ear, let him hear what the Spirit says to the
+				assemblies. <emo_lang emotion="joy" tone="boasting">He who overcomes won’t be harmed by the second death.</emo_lang></v>
+			<v id="12" bcv="REV.2.12">“To the angel of the assembly in Pergamum write:“He who has
+				the sharp two-edged sword says these things:</v>
+			<v id="13" bcv="REV.2.13">“I know your works and where you dwell, where Satan’s throne
+				is. You hold firmly to my name, and didn’t deny my faith in the days of Antipas my
+				witness, my faithful one, who was killed among you, where Satan dwells.</v>
+			<v id="14" bcv="REV.2.14"><emo_lang emotion="anger" tone="righteousness">But I have a few things against you, because you have there
+				some who hold the teaching of Balaam, who taught Balak to throw a stumbling block
+				before the children of Israel, to eat things sacrificed to idols, and to commit
+				sexual immorality.</emo_lang></v>
+			<v id="15" bcv="REV.2.15">So you also have some who hold to the teaching of the
+				Nicolaitans likewise.</v>
+			<v id="16" bcv="REV.2.16"><emo_lang emotion="anger" tone="violence">Repent therefore, or else I am coming to you quickly, and I
+				will make war against them with the sword of my mouth.</emo_lang></v>
+			<v id="17" bcv="REV.2.17">He who has an ear, let him hear what the Spirit says to the
+				assemblies. To him who overcomes, to him I will give of the hidden manna,and I will
+				give him a white stone, and on the stone a new name written, which no one knows but
+				he who receives it.</v>
+			<v id="18" bcv="REV.2.18">“To the angel of the assembly in Thyatira write:“The Son of
+				God, who has his eyes like a flame of fire, and his feet are like burnished brass,
+				says these things:</v>
+			<v id="19" bcv="REV.2.19">“I know your works, your love, faith, service, patient
+				endurance, and that your last works are more than the first.</v>
+			<v id="20" bcv="REV.2.20"><emo_lang emotion="anger" tone="righteousness">But I have this against you, that you tolerate yourwoman,
+				Jezebel, who calls herself a prophetess. She teaches and seduces my servants to
+				commit sexual immorality, and to eat things sacrificed to idols.</emo_lang></v>
+			<v id="21" bcv="REV.2.21"><emo_lang emotion="anger" tone="righteousness">I gave her time to repent, but she refuses to repent of her
+				sexual immorality.</emo_lang></v>
+			<v id="22" bcv="REV.2.22"><emo_lang emotion="anger" tone="violence">Behold, I will throw her into a bed, and those who commit
+				adultery with her into great oppression, unless they repent of her works.</emo_lang></v>
+			<v id="23" bcv="REV.2.23"><emo_lang emotion="anger" tone="violence">I will kill her children with Death, and all the assemblies
+				will know that I am he who searches the minds and hearts. I will give to each one of
+				you according to your deeds.</emo_lang></v>
+			<v id="24" bcv="REV.2.24">But to you I say, to the rest who are in Thyatira, as many as
+				don’t have this teaching, who don’t know what some call ‘the deep things of Satan,’
+				to you I say, <emo_lang emotion="contentment">I am not putting any other burden on you.</emo_lang></v>
+			<v id="25" bcv="REV.2.25">Nevertheless, hold that which you have firmly until I
+				come.</v>
+			<v id="26" bcv="REV.2.26"><emo_lang emotion="contentment" tone="praise">He who overcomes, and he who keeps my works to the end, to him
+				I will give authority over the nations.</emo_lang></v>
+			<v id="27" bcv="REV.2.27"><emo_lang emotion="anger" tone="violence">He will rule them with a rod of iron, shattering them like
+				clay pots</emo_lang>;as I also have received of my Father:</v>
+			<v id="28" bcv="REV.2.28">and I will give him the morning star.</v>
+			<v id="29" bcv="REV.2.29">He who has an ear, let him hear what the Spirit says to the
+				assemblies.</v>
+		</c>
 			<c id="3">
 				<v id="1" bcv="REV.3.1">“And to the angel of the assembly in Sardis write:“He who has the seven Spirits of God, and the seven stars says these things:“I know your works, that you have a reputation of being alive, but you are dead.</v>
 				<v id="2" bcv="REV.3.2">Wake up, and keep the things that remain, which you were about to throw away, for I have found no works of yours perfected before my God.</v>
