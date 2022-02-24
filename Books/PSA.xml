@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><root>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
 	<book id="PSA">
 		<c id="1">
 			<v id="1" bcv="PSA.1.1"><emo_lang emotion="joy" tone="praise">Blessed</emo_lang> is the man who <emo_lang emotion="joy" tone="righteousness">doesn’t walk in the counsel of the wicked</emo_lang>,<emo_lang emotion="joy" tone="righteousness">nor stand on the path of sinners</emo_lang>,<emo_lang emotion="joy" tone="righteousness">nor sit in the seat of scoffers</emo_lang>;</v>
@@ -11,7 +12,7 @@
 		<c id="2">
 			<v id="1" bcv="PSA.2.1">Why do the nations <emo_lang emotion="anger" tone="fear">rage</emo_lang>,and the peoples <emo_lang emotion="anger" tone="anxiety">plot a vain thing</emo_lang>?</v>
 			<v id="2" bcv="PSA.2.2"><emo_lang emotion="anger" tone="anxiety">The kings of the earth take a stand,and the rulers take counsel together,against Yahweh, and against his Anointed</emo_lang>, saying,</v>
-			<v id="3" bcv="PSA.2.3">“Let’s <emo_lang emtion="anger" tone="violence">break</emo_lang> their bonds apart,and <emo_lang emotion="anger" tone="violence">cast</emo_lang> their cords from us.”</v>
+			<v id="3" bcv="PSA.2.3">“Let’s <emo_lang emotion="anger" tone="violence">break</emo_lang> their bonds apart,and <emo_lang emotion="anger" tone="violence">cast</emo_lang> their cords from us.”</v>
 			<v id="4" bcv="PSA.2.4"><emo_lang emotion="contenment" tone="righteousness">He who sits in the heavens will laugh. The Lord will have them in derision</emo_lang>.</v>
 			<v id="5" bcv="PSA.2.5">Then <emo_lang emotion="anger" tone="righteousness">he will speak to them in his anger</emo_lang>,and <emo_lang emotion="anger" tone="violence">terrify them in his wrath</emo_lang></v>
 			<v id="6" bcv="PSA.2.6">“Yet I have set my King on my holy hill of Zion.”</v>

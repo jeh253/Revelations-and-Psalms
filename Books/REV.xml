@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><root>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
 	<book id="REV">
 		<c id="1">
 			<v id="1" bcv="REV.1.1">This is the Revelation of Jesus Christ, which God gave him to
