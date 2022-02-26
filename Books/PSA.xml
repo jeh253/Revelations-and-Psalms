@@ -303,20 +303,20 @@
 			<v id="9" bcv="PSA.20.9">Save, Yahweh!Let the King answer us when we call!</v>
 		</c>
 		<c id="21">
-			<v id="1" bcv="PSA.21.1">The king rejoices in your strength, Yahweh!How greatly he rejoices in your salvation!</v>
-			<v id="2" bcv="PSA.21.2">You have given him his heart’s desire,and have not withheld the request of his lips. 
+			<v id="1" bcv="PSA.21.1"><emo_lang emotion="joy" tone="praise">The king rejoices in your strength</emo_lang>, Yahweh!<emo_lang emotion="joy" tone="praise">How greatly he rejoices in your salvation</emo_lang>!</v>
+			<v id="2" bcv="PSA.21.2"><emo_lang emotion="joy" tone="praise">You have given him his heart’s desire,and have not withheld the request of his lips</emo_lang>. 
 			</v>
-			<v id="3" bcv="PSA.21.3">For you meet him with the blessings of goodness. You set a crown of fine gold on his head.</v>
-			<v id="4" bcv="PSA.21.4">He asked life of you, you gave it to him,even length of days forever and ever.</v>
-			<v id="5" bcv="PSA.21.5">His glory is great in your salvation. You lay honor and majesty on him.</v>
-			<v id="6" bcv="PSA.21.6">For you make him most blessed forever. You make him glad with joy in your presence.</v>
-			<v id="7" bcv="PSA.21.7">For the king trusts in Yahweh. Through the loving kindness of the Most High, he shall not be moved.</v>
-			<v id="8" bcv="PSA.21.8">Your hand will find out all of your enemies. Your right hand will find out those who hate you.</v>
-			<v id="9" bcv="PSA.21.9">You will make them as a fiery furnace in the time of your anger. Yahweh will swallow them up in his wrath. The fire shall devour them.</v>
-			<v id="10" bcv="PSA.21.10">You will destroy their descendants from the earth,their posterity from among the children of men.</v>
-			<v id="11" bcv="PSA.21.11">For they intended evil against you. They plotted evil against you which cannot succeed.</v>
-			<v id="12" bcv="PSA.21.12">For you will make them turn their back,when you aim drawn bows at their face.</v>
-			<v id="13" bcv="PSA.21.13">Be exalted, Yahweh, in your strength,so we will sing and praise your power.</v>
+			<v id="3" bcv="PSA.21.3">For you meet him with the <emo_lang emotion="joy" tone="praise">blessings of goodness</emo_lang>. <emo_lang emotion="joy" tone="praise">You set a crown of fine gold on his head</emo_lang>.</v>
+			<v id="4" bcv="PSA.21.4">He asked life of you, <emo_lang emotion="joy" tone="praise">you gave it to him</emo_lang>,even length of days forever and ever.</v>
+			<v id="5" bcv="PSA.21.5"><emo_lang emotion="joy" tone="praise">His glory is great in your salvation. You lay honor and majesty on him</emo_lang>.</v>
+			<v id="6" bcv="PSA.21.6"><emo_lang emotion="joy" tone="praise">For you make him most blessed forever. You make him glad with joy in your presence</emo_lang>.</v>
+			<v id="7" bcv="PSA.21.7">For the king trusts in Yahweh. Through the <emo_lang emotion="joy" tone="praise">loving kindness</emo_lang> of the Most High, he shall not be moved.</v>
+			<v id="8" bcv="PSA.21.8"><emo_lang emotion="joy" tone="praise" tone2="violence">Your hand will find out all of your enemies. Your right hand will find out those who hate you</emo_lang>.</v>
+			<v id="9" bcv="PSA.21.9"><emo_lang emotion="joy" tone="praise" tone2="violence">You will make them as a fiery furnace in the time of your anger. Yahweh will swallow them up in his wrath. The fire shall devour them</emo_lang>.</v>
+			<v id="10" bcv="PSA.21.10"><emo_lang emotion="joy" tone="praise" tone2="violence">You will destroy their descendants from the earth,their posterity from among the children of men</emo_lang>.</v>
+			<v id="11" bcv="PSA.21.11">For <emo_lang emotion="anger" tone="violence">they intended evil against you</emo_lang>. <emo_lang emotion="anger" tone="violence" tone2="righteousness">They plotted evil against you which cannot succeed</emo_lang>.</v>
+			<v id="12" bcv="PSA.21.12">For you will make them turn their back,<emo_lang emotion="joy" tone="violence">when you aim drawn bows at their face</emo_lang>.</v>
+			<v id="13" bcv="PSA.21.13"><emo_lang emotion="joy" tone="praise">Be exalted, Yahweh, in your strength,so we will sing and praise your power</emo_lang>.</v>
 		</c>
 		<c id="22">
 			<v id="1" bcv="PSA.22.1">My God, my God, why have you forsaken me?Why are you so far from helping me, and from the words of my groaning?</v>
