@@ -177,20 +177,20 @@
 			<v id="6" bcv="PSA.13.6"><emo_lang emotion="joy" tone="praise">I will sing to Yahweh,because he has been good to me</emo_lang>.</v>
 		</c>
 		<c id="14">
-			<v id="1" bcv="PSA.14.1">The fool has said in his heart, “There is no God.”They are corrupt. They have done abominable deeds. There is no one who does good.</v>
+			<v id="1" bcv="PSA.14.1">The fool has said in his heart, “<emo_lang emotion="anger" tone="boasting">There is no God</emo_lang>.”<emo_lang emotion="anger" tone="righteousness" tone2="fear">They are corrupt. They have done abominable deeds. There is no one who does good</emo_lang>.</v>
 			<v id="2" bcv="PSA.14.2">Yahweh looked down from heaven on the children of men,to see if there were any who understood,who sought after God.</v>
-			<v id="3" bcv="PSA.14.3">They have all gone aside. They have together become corrupt. There is no one who does good, no, not one.</v>
-			<v id="4" bcv="PSA.14.4">Have all the workers of iniquity no knowledge,who eat up my people as they eat bread,and don’t call on Yahweh?</v>
+			<v id="3" bcv="PSA.14.3"><emo_lang emotion="anger" tone="fear">They have all gone aside. They have together become corrupt. There is no one who does good, no, not one.</emo_lang></v>
+			<v id="4" bcv="PSA.14.4"><emo_lang emotion="anger" tone="pleading" tone2="anxiety">Have all the workers of iniquity no knowledge,who eat up my people as they eat bread,and don’t call on Yahweh</emo_lang>?</v>
 			<v id="5" bcv="PSA.14.5">There they were in great fear,for God is in the generation of the righteous.</v>
-			<v id="6" bcv="PSA.14.6">You frustrate the plan of the poor,because Yahweh is his refuge.</v>
-			<v id="7" bcv="PSA.14.7">Oh that the salvation of Israel would come out of Zion!When Yahweh restores the fortunes of his people,then Jacob shall rejoice, and Israel shall be glad.</v>
+			<v id="6" bcv="PSA.14.6"><emo_lang emotion="joy" tone="praise">You frustrate the plan of the poor,because Yahweh is his refuge</emo_lang>.</v>
+			<v id="7" bcv="PSA.14.7"><emo_lang emotion="joy" tone="pleading">Oh that the salvation of Israel would come out of Zion</emo_lang>!<emo_lang emotion="joy" tone="praise">When Yahweh restores the fortunes of his people,then Jacob shall rejoice, and Israel shall be glad</emo_lang>.</v>
 		</c>
 		<c id="15">
 			<v id="1" bcv="PSA.15.1">Yahweh, who shall dwell in your sanctuary?Who shall live on your holy hill?</v>
-			<v id="2" bcv="PSA.15.2">He who walks blamelessly and does what is right,and speaks truth in his heart;</v>
-			<v id="3" bcv="PSA.15.3">he who doesn’t slander with his tongue,nor does evil to his friend,nor casts slurs against his fellow man;</v>
-			<v id="4" bcv="PSA.15.4">in whose eyes a vile man is despised,but who honors those who fear Yahweh;he who keeps an oath even when it hurts, and doesn’t change;</v>
-			<v id="5" bcv="PSA.15.5">he who doesn’t lend out his money for usury,nor take a bribe against the innocent. He who does these things shall never be shaken.</v>
+			<v id="2" bcv="PSA.15.2"><emo_lang emotion="contentment" tone="righteousness">He who walks blamelessly and does what is right,and speaks truth in his heart</emo_lang>;</v>
+			<v id="3" bcv="PSA.15.3"><emo_lang emotion="contentment" tone="righteousness" tone2="violence">he who doesn’t slander with his tongue,nor does evil to his friend,nor casts slurs against his fellow man</emo_lang>;</v>
+			<v id="4" bcv="PSA.15.4"><emo_lang emotion="contentment" tone="righteousness" tone2="praise">in whose eyes a vile man is despised,but who honors those who fear Yahweh;he who keeps an oath even when it hurts, and doesn’t change</emo_lang>;</v>
+			<v id="5" bcv="PSA.15.5"><emo_lang emotion="contentment" tone="righteousness" tone2="praise">he who doesn’t lend out his money for usury,nor take a bribe against the innocent</emo_lang>. <emo_lang emotion="joy" tone="righteousness" tone2="praise">He who does these things shall never be shaken</emo_lang>.</v>
 		</c>
 		<c id="16">
 			<v id="1" bcv="PSA.16.1">Preserve me, God, for I take refuge in you.</v>
