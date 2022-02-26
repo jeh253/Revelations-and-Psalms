@@ -159,22 +159,22 @@
 			<v id="7" bcv="PSA.11.7"><emo_lang emotion="joy" tone="praise">For Yahweh is righteous. He loves righteousness. The upright shall see his face</emo_lang>.</v>
 		</c>
 		<c id="12">
-			<v id="1" bcv="PSA.12.1">Help, Yahweh; for the godly man ceases. For the faithful fail from among the children of men.</v>
-			<v id="2" bcv="PSA.12.2">Everyone lies to his neighbor. They speak with flattering lips, and with a double heart.</v>
-			<v id="3" bcv="PSA.12.3">May Yahweh cut off all flattering lips,and the tongue that boasts,</v>
-			<v id="4" bcv="PSA.12.4">who have said, “With our tongue we will prevail. Our lips are our own. Who is lord over us?”</v>
-			<v id="5" bcv="PSA.12.5">“Because of the oppression of the weak and because of the groaning of the needy,I will now arise,” says Yahweh;“I will set him in safety from those who malign him.”</v>
-			<v id="6" bcv="PSA.12.6">Yahweh’s words are flawless words,as silver refined in a clay furnace, purified seven times.</v>
-			<v id="7" bcv="PSA.12.7">You will keep them, Yahweh. You will preserve them from this generation forever.</v>
-			<v id="8" bcv="PSA.12.8">The wicked walk on every side,when what is vile is exalted among the sons of men.</v>
+			<v id="1" bcv="PSA.12.1"><emo_lang emotion="fear" tone="pleading">Help, Yahweh</emo_lang>; for the godly man ceases. For <emo_lang emotion="anger" tone="fear">the faithful fail from among the children of men</emo_lang>.</v>
+			<v id="2" bcv="PSA.12.2"><emo_lang emotion="anger" tone="fear">Everyone lies to his neighbor. They speak with flattering lips, and with a double heart</emo_lang>.</v>
+			<v id="3" bcv="PSA.12.3"><emo_lang emotion="anger" tone="violence" tone2="righteousness">May Yahweh cut off all flattering lips,and the tongue that boasts</emo_lang>,</v>
+			<v id="4" bcv="PSA.12.4">who have said, “<emo_lang emotion="anger" tone="boasting">With our tongue we will prevail. Our lips are our own. Who is lord over us</emo_lang>?”</v>
+			<v id="5" bcv="PSA.12.5">“Because of the oppression of the weak and because of the groaning of the needy,I will now arise,” says Yahweh;“<emo_lang emotion="anger" tone="righteousness">I will set him in safety from those who malign him</emo_lang>.”</v>
+			<v id="6" bcv="PSA.12.6"><emo_lang emotion="joy" tone="praise">Yahweh’s words are flawless words,as silver refined in a clay furnace, purified seven times</emo_lang>.</v>
+			<v id="7" bcv="PSA.12.7">You will keep them, Yahweh. <emo_lang emotion="joy" tone="petitioning">You will preserve them from this generation forever</emo_lang>.</v>
+			<v id="8" bcv="PSA.12.8"><emo_lang emotion="anger" tone="fear">The wicked walk on every side,when what is vile is exalted among the sons of men</emo_lang>.</v>
 		</c>
 		<c id="13">
-			<v id="1" bcv="PSA.13.1">How long, Yahweh?Will you forget me forever?How long will you hide your face from me?</v>
-			<v id="2" bcv="PSA.13.2">How long shall I take counsel in my soul,having sorrow in my heart every day?How long shall my enemy triumph over me?</v>
-			<v id="3" bcv="PSA.13.3">Behold, and answer me, Yahweh, my God. Give light to my eyes, lest I sleep in death;</v>
+			<v id="1" bcv="PSA.13.1"><emo_lang emotion="sorrow" tone="pleading">How long, Yahweh?Will you forget me forever?How long will you hide your face from me</emo_lang>?</v>
+			<v id="2" bcv="PSA.13.2"><emo_lang emotion="sorrow" tone="pleading">How long shall I take counsel in my soul,having sorrow in my heart every day?How long shall my enemy triumph over me</emo_lang>?</v>
+			<v id="3" bcv="PSA.13.3"><emo_lang emotion="fear" tone="petitioning">Behold, and answer me, Yahweh, my God. Give light to my eyes, lest I sleep in death</emo_lang>;</v>
 			<v id="4" bcv="PSA.13.4">lest my enemy say, “I have prevailed against him;”lest my adversaries rejoice when I fall.</v>
-			<v id="5" bcv="PSA.13.5">But I trust in your loving kindness. My heart rejoices in your salvation.</v>
-			<v id="6" bcv="PSA.13.6">I will sing to Yahweh,because he has been good to me.</v>
+			<v id="5" bcv="PSA.13.5"><emo_lang emotion="contentment" tone="righteousness">But I trust in your loving kindness</emo_lang>. <emo_lang emotion="joy" tone="praise">My heart rejoices in your salvation</emo_lang>.</v>
+			<v id="6" bcv="PSA.13.6"><emo_lang emotion="joy" tone="praise">I will sing to Yahweh,because he has been good to me</emo_lang>.</v>
 		</c>
 		<c id="14">
 			<v id="1" bcv="PSA.14.1">The fool has said in his heart, “There is no God.”They are corrupt. They have done abominable deeds. There is no one who does good.</v>
