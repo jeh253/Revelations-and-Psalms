@@ -193,34 +193,34 @@
 			<v id="5" bcv="PSA.15.5"><emo_lang emotion="contentment" tone="righteousness" tone2="praise">he who doesn’t lend out his money for usury,nor take a bribe against the innocent</emo_lang>. <emo_lang emotion="joy" tone="righteousness" tone2="praise">He who does these things shall never be shaken</emo_lang>.</v>
 		</c>
 		<c id="16">
-			<v id="1" bcv="PSA.16.1">Preserve me, God, for I take refuge in you.</v>
-			<v id="2" bcv="PSA.16.2">My soul, you have said to Yahweh, “You are my Lord. Apart from you I have no good thing.”</v>
-			<v id="3" bcv="PSA.16.3">As for the saints who are in the earth,they are the excellent ones in whom is all my delight.</v>
-			<v id="4" bcv="PSA.16.4">Their sorrows shall be multiplied who give gifts to another god. Their drink offerings of blood I will not offer,nor take their names on my lips.</v>
-			<v id="5" bcv="PSA.16.5">Yahweh assigned my portion and my cup. You made my lot secure.</v>
-			<v id="6" bcv="PSA.16.6">The lines have fallen to me in pleasant places. Yes, I have a good inheritance.</v>
-			<v id="7" bcv="PSA.16.7">I will bless Yahweh, who has given me counsel. Yes, my heart instructs me in the night seasons.</v>
-			<v id="8" bcv="PSA.16.8">I have set Yahweh always before me. Because he is at my right hand, I shall not be moved.</v>
-			<v id="9" bcv="PSA.16.9">Therefore my heart is glad, and my tongue rejoices. My body shall also dwell in safety.</v>
-			<v id="10" bcv="PSA.16.10">For you will not leave my soul in Sheol,neither will you allow your holy one to see corruption.</v>
-			<v id="11" bcv="PSA.16.11">You will show me the path of life. In your presence is fullness of joy. In your right hand there are pleasures forever more.</v>
+			<v id="1" bcv="PSA.16.1"><emo_lang emotion="fear" tone="petitioning" tone2="praise">Preserve me, God, for I take refuge in you</emo_lang>.</v>
+			<v id="2" bcv="PSA.16.2">My soul, you have said to Yahweh, “<emo_lang emotion="joy" tone="praise">You are my Lord. Apart from you I have no good thing</emo_lang>.”</v>
+			<v id="3" bcv="PSA.16.3">As for the saints who are in the earth,<emo_lang emotion="joy" tone="praise">they are the excellent ones in whom is all my delight</emo_lang>.</v>
+			<v id="4" bcv="PSA.16.4"><emo_lang emotion="anger" tone="righteousness" tone2="violence">Their sorrows shall be multiplied who give gifts to another god. Their drink offerings of blood I will not offer,nor take their names on my lips.</emo_lang></v>
+			<v id="5" bcv="PSA.16.5"><emo_lang emotion="joy" tone="praise" tone2="righteousness">Yahweh assigned my portion and my cup. You made my lot secure</emo_lang>.</v>
+			<v id="6" bcv="PSA.16.6"><emo_lang emotion="joy" tone="praise">The lines have fallen to me in pleasant places. Yes, I have a good inheritance</emo_lang>.</v>
+			<v id="7" bcv="PSA.16.7"><emo_lang emotion="joy" tone="praise">I will bless Yahweh</emo_lang>, who has given me counsel. Yes, my heart instructs me in the night seasons.</v>
+			<v id="8" bcv="PSA.16.8">I have set Yahweh always before me. <emo_lang emotion="joy" tone="praise" tone2="righteousness">Because he is at my right hand, I shall not be moved</emo_lang>.</v>
+			<v id="9" bcv="PSA.16.9"><emo_lang emotion="joy" tone="praise">Therefore my heart is glad, and my tongue rejoices. My body shall also dwell in safety</emo_lang>.</v>
+			<v id="10" bcv="PSA.16.10"><emo_lang emotion="joy" tone="praise">For you will not leave my soul in Sheol,neither will you allow your holy one to see corruption</emo_lang>.</v>
+			<v id="11" bcv="PSA.16.11"><emo_lang emotion="joy" tone="praise">You will show me the path of life. In your presence is fullness of joy. In your right hand there are pleasures forever more</emo_lang>.</v>
 		</c>
 		<c id="17">
-			<v id="1" bcv="PSA.17.1">Hear, Yahweh, my righteous plea;Give ear to my prayer, that doesn’t go out of deceitful lips.</v>
-			<v id="2" bcv="PSA.17.2">Let my sentence come out of your presence. Let your eyes look on equity.</v>
-			<v id="3" bcv="PSA.17.3">You have proved my heart. You have visited me in the night. You have tried me, and found nothing. I have resolved that my mouth shall not disobey.</v>
-			<v id="4" bcv="PSA.17.4">As for the deeds of men, by the word of your lips,I have kept myself from the ways of the violent.</v>
-			<v id="5" bcv="PSA.17.5">My steps have held fast to your paths. My feet have not slipped.</v>
-			<v id="6" bcv="PSA.17.6">I have called on you, for you will answer me, God. Turn your ear to me. Hear my speech.</v>
-			<v id="7" bcv="PSA.17.7">Show your marvelous loving kindness,you who save those who take refuge by your right hand from their enemies.</v>
-			<v id="8" bcv="PSA.17.8">Keep me as the apple of your eye. Hide me under the shadow of your wings,</v>
-			<v id="9" bcv="PSA.17.9">from the wicked who oppress me,my deadly enemies, who surround me.</v>
-			<v id="10" bcv="PSA.17.10">They close up their callous hearts. With their mouth they speak proudly.</v>
-			<v id="11" bcv="PSA.17.11">They have now surrounded us in our steps. They set their eyes to cast us down to the earth.</v>
-			<v id="12" bcv="PSA.17.12">He is like a lion that is greedy of his prey,as it were a young lion lurking in secret places.</v>
-			<v id="13" bcv="PSA.17.13">Arise, Yahweh, confront him. Cast him down. Deliver my soul from the wicked by your sword;</v>
-			<v id="14" bcv="PSA.17.14">from men by your hand, Yahweh,from men of the world, whose portion is in this life. You fill the belly of your cherished ones. Your sons have plenty,and they store up wealth for their children.</v>
-			<v id="15" bcv="PSA.17.15">As for me, I shall see your face in righteousness. I shall be satisfied, when I awake, with seeing your form.</v>
+			<v id="1" bcv="PSA.17.1"><emo_lang emotion="contentment" tone="petitioning">Hear, Yahweh, my righteous plea;Give ear to my prayer, that doesn’t go out of deceitful lips</emo_lang>.</v>
+			<v id="2" bcv="PSA.17.2"><emo_lang emotion="contentment" tone="petitioning">Let my sentence come out of your presence. Let your eyes look on equity</emo_lang>.</v>
+			<v id="3" bcv="PSA.17.3"><emo_lang emotion="joy" tone="righteousness">You have proved my heart. You have visited me in the night. You have tried me, and found nothing. I have resolved that my mouth shall not disobey</emo_lang>.</v>
+			<v id="4" bcv="PSA.17.4">As for the deeds of men, by the word of your lips,<emo_lang emotion="contentment" tone="righteousness">I have kept myself from the ways of the violent</emo_lang>.</v>
+			<v id="5" bcv="PSA.17.5"><emo_lang emotion="contentment" tone="righteousness">My steps have held fast to your paths. My feet have not slipped</emo_lang>.</v>
+			<v id="6" bcv="PSA.17.6"><emo_lang emotion="contentment" tone="petitioning">I have called on you, for you will answer me, God. Turn your ear to me. Hear my speech</emo_lang>.</v>
+			<v id="7" bcv="PSA.17.7"><emo_lang emotion="joy" tone="petitioning" tone2="praise">Show your marvelous loving kindness,you who save those who take refuge by your right hand from their enemies</emo_lang>.</v>
+			<v id="8" bcv="PSA.17.8"><emo_lang emotion="contentment" tone="petitioning">Keep me as the apple of your eye. Hide me under the shadow of your wings</emo_lang>,</v>
+			<v id="9" bcv="PSA.17.9"><emo_lang emotion="fear" tone="petitioning" tone2="violence">from the wicked who oppress me,my deadly enemies, who surround me</emo_lang>.</v>
+			<v id="10" bcv="PSA.17.10">They close up their callous hearts. <emo_lang emotion="anger" tone="boasting" tone2="righteousness">With their mouth they speak proudly</emo_lang>.</v>
+			<v id="11" bcv="PSA.17.11"><emo_lang emotion="fear" tone="anxiety">They have now surrounded us in our steps. They set their eyes to cast us down to the earth</emo_lang>.</v>
+			<v id="12" bcv="PSA.17.12">He is like a lion that is greedy of his prey,as it were a young lion <emo_lang emotion="fear" tone="anxiety">lurking in secret places</emo_lang>.</v>
+			<v id="13" bcv="PSA.17.13"><emo_lang emotion="anger" tone="pleading" tone2="violence">Arise, Yahweh, confront him. Cast him down. Deliver my soul from the wicked by your sword</emo_lang>;</v>
+			<v id="14" bcv="PSA.17.14">from men by your hand, Yahweh,from men of the world, whose portion is in this life. <emo_lang emotion="contentment" tone="praise">You fill the belly of your cherished ones. Your sons have plenty,and they store up wealth for their children</emo_lang>.</v>
+			<v id="15" bcv="PSA.17.15">As for me, <emo_lang emotion="joy" tone="righteousness" tone2="praise">I shall see your face in righteousness. I shall be satisfied, when I awake, with seeing your form</emo_lang>.</v>
 		</c>
 		<c id="18">
 			<v id="1" bcv="PSA.18.1">I love you, Yahweh, my strength.</v>
