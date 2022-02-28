@@ -412,20 +412,20 @@
 			<v id="12" bcv="PSA.26.12">My foot stands in an even place. In the congregations <emo_lang emotion="joy" tone="praise">I will bless</emo_lang> Yahweh.</v>
 		</c>
 		<c id="27">
-			<v id="1" bcv="PSA.27.1">Yahweh is my light and my salvation. Whom shall I fear?Yahweh is the strength of my life. Of whom shall I be afraid?</v>
-			<v id="2" bcv="PSA.27.2">When evildoers came at me to eat up my flesh,even my adversaries and my foes, they stumbled and fell.</v>
-			<v id="3" bcv="PSA.27.3">Though an army should encamp against me,my heart shall not fear. Though war should rise against me,even then I will be confident.</v>
-			<v id="4" bcv="PSA.27.4">One thing I have asked of Yahweh, that I will seek after:that I may dwell in Yahweh’s house all the days of my life,to see Yahweh’s beauty,and to inquire in his temple.</v>
-			<v id="5" bcv="PSA.27.5">For in the day of trouble, he will keep me secretly in his pavilion. In the secret place of his tabernacle, he will hide me. He will lift me up on a rock.</v>
-			<v id="6" bcv="PSA.27.6">Now my head will be lifted up above my enemies around me;I will offer sacrifices of joy in his tent. I will sing, yes, I will sing praises to Yahweh.</v>
+			<v id="1" bcv="PSA.27.1">Yahweh is <emo_lang emotion="joy" tone="praise">my light and my salvation. Whom shall I fear?Yahweh is the strength of my life. Of whom shall I be afraid?</emo_lang></v>
+			<v id="2" bcv="PSA.27.2"><emo_lang emotion="fear" tone="anxiety" tone2="violence">When evildoers came at me to eat up my flesh</emo_lang>,even my adversaries and my foes, <emo_lang emotion="joy" tone="righteousness" tone2="violence">they stumbled and fell</emo_lang>.</v>
+			<v id="3" bcv="PSA.27.3"><emo_lang emotion="joy" tone="righteousness">Though an army should encamp against me,my heart shall not fear. Though war should rise against me,even then I will be confident</emo_lang>.</v>
+			<v id="4" bcv="PSA.27.4">One thing I have asked of Yahweh, that I will seek after:<emo_lang emotion="joy" tone="petitioning">that I may dwell in Yahweh’s house all the days of my life,to see Yahweh’s beauty,and to inquire in his temple</emo_lang>.</v>
+			<v id="5" bcv="PSA.27.5">For in the day of trouble, <emo_lang emotion="joy" tone="righteousness">he will keep me secretly in his pavilion. In the secret place of his tabernacle, he will hide me. He will lift me up on a rock</emo_lang>.</v>
+			<v id="6" bcv="PSA.27.6">Now my head will be lifted up above my enemies around me;<emo_lang emotion="joy" tone="praise">I will offer sacrifices of joy in his tent. I will sing, yes, I will sing praises to Yahweh</emo_lang>.</v>
 			<v id="7" bcv="PSA.27.7">Hear, Yahweh, when I cry with my voice. Have mercy also on me, and answer me.</v>
-			<v id="8" bcv="PSA.27.8">When you said, “Seek my face,”my heart said to you, “I will seek your face, Yahweh.”</v>
-			<v id="9" bcv="PSA.27.9">Don’t hide your face from me. Don’t put your servant away in anger. You have been my help. Don’t abandon me,neither forsake me, God of my salvation.</v>
-			<v id="10" bcv="PSA.27.10">When my father and my mother forsake me,then Yahweh will take me up.</v>
-			<v id="11" bcv="PSA.27.11">Teach me your way, Yahweh. Lead me in a straight path, because of my enemies.</v>
-			<v id="12" bcv="PSA.27.12">Don’t deliver me over to the desire of my adversaries,for false witnesses have risen up against me,such as breathe out cruelty.</v>
-			<v id="13" bcv="PSA.27.13">I am still confident of this:I will see the goodness of Yahweh in the land of the living.</v>
-			<v id="14" bcv="PSA.27.14">Wait for Yahweh. Be strong, and let your heart take courage. Yes, wait for Yahweh.</v>
+			<v id="8" bcv="PSA.27.8">When you said, “Seek my face,”my heart said to you, “<emo_lang emotion="joy" tone="righteousness">I will seek your face</emo_lang>, Yahweh.”</v>
+			<v id="9" bcv="PSA.27.9"><emo_lang emotion="fear" tone="anxiety">Don’t hide your face from me. Don’t put your servant away in anger</emo_lang>. <emo_lang emotion="fear" tone="praise">You have been my help</emo_lang>. <emo_lang emotion="fear" tone="pleading">Don’t abandon me,neither forsake me, God of my salvation</emo_lang>.</v>
+			<v id="10" bcv="PSA.27.10"><emo_lang emotion="fear" tone="axniety">When my father and my mother forsake me</emo_lang>,then <emo_lang emotion="joy" tone="praise">Yahweh will take me up</emo_lang>.</v>
+			<v id="11" bcv="PSA.27.11">Teach me your way, Yahweh. <emo_lang emotion="fear" tone="petitioning" tone2="righteousness">Lead me in a straight path, because of my enemies</emo_lang>.</v>
+			<v id="12" bcv="PSA.27.12"><emo_lang emotion="fear" tone="petitioning">Don’t deliver me over to the desire of my adversaries</emo_lang>,for <emo_lang emotion="fear" tone="fear">false witnesses have risen up against me,such as breathe out cruelty</emo_lang>.</v>
+			<v id="13" bcv="PSA.27.13">I am still confident of this:<emo_lang emotion="joy" tone="praise">I will see the goodness of Yahweh</emo_lang> in the land of the living.</v>
+			<v id="14" bcv="PSA.27.14">Wait for Yahweh. <emo_lang emotion="joy" tone="righteousness">Be strong, and let your heart take courage</emo_lang>. Yes, wait for Yahweh.</v>
 		</c>
 		<c id="28">
 			<v id="1" bcv="PSA.28.1">To you, Yahweh, I call. My rock, don’t be deaf to me;lest, if you are silent to me,I would become like those who go down into the pit.</v>
