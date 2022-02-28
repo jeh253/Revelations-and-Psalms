@@ -346,18 +346,18 @@
 			<v id="25" bcv="PSA.22.25"><emo_lang emotion="contentment" tone="praise">My praise of you comes in the great assembly. I will pay my vows before those who fear him</emo_lang>.</v>
 			<v id="26" bcv="PSA.22.26"><emo_lang emotion="contentment" tone="praise" tone2="righteousness">The humble shall eat and be satisfied. They shall praise Yahweh who seek after him. Let your hearts live forever</emo_lang>.</v>
 			<v id="27" bcv="PSA.22.27"><emo_lang emotion="joy" tone="praise">All the ends of the earth shall remember and turn to Yahweh</emo_lang>. <emo_lang emotion="joy" tone="praise" tone2="righteousness">All the relatives of the nations shall worship before you</emo_lang>.</v>
-			<v id="28" bcv="PSA.22.28">For the kingdom is Yahweh’s. He is the ruler over the nations.</v>
-			<v id="29" bcv="PSA.22.29">All the rich ones of the earth shall eat and worship. All those who go down to the dust shall bow before him,even he who can’t keep his soul alive.</v>
-			<v id="30" bcv="PSA.22.30">Posterity shall serve him. Future generations shall be told about the Lord.</v>
-			<v id="31" bcv="PSA.22.31">They shall come and shall declare his righteousness to a people that shall be born,for he has done it.</v>
+			<v id="28" bcv="PSA.22.28"><emo_lang emotion="joy" tone="praise">For the kingdom is Yahweh’s. He is the ruler over the nations</emo_lang>.</v>
+			<v id="29" bcv="PSA.22.29"><emo_lang emotion="joy" tone="praise" tone2="righteousness">All the rich ones of the earth shall eat and worship. All those who go down to the dust shall bow before him,even he who can’t keep his soul alive</emo_lang>.</v>
+			<v id="30" bcv="PSA.22.30"><emo_lang emotion="joy" tone="praise" tone2="righteousness">Posterity shall serve him. Future generations shall be told about the Lord</emo_lang>.</v>
+			<v id="31" bcv="PSA.22.31"><emo_lang emotion="joy" tone="praise" tone2="righteousness">They shall come and shall declare his righteousness to a people that shall be born,for he has done it</emo_lang>.</v>
 		</c>
 		<c id="23">
-			<v id="1" bcv="PSA.23.1">Yahweh is my shepherd:I shall lack nothing.</v>
-			<v id="2" bcv="PSA.23.2">He makes me lie down in green pastures. He leads me beside still waters.</v>
-			<v id="3" bcv="PSA.23.3">He restores my soul. He guides me in the paths of righteousness for his name’s sake.</v>
-			<v id="4" bcv="PSA.23.4">Even though I walk through the valley of the shadow of death,I will fear no evil, for you are with me. Your rod and your staff,they comfort me.</v>
-			<v id="5" bcv="PSA.23.5">You prepare a table before mein the presence of my enemies. You anoint my head with oil. My cup runs over.</v>
-			<v id="6" bcv="PSA.23.6">Surely goodness and loving kindness shall follow me all the days of my life,and I will dwell in Yahweh’s house forever.</v>
+			<v id="1" bcv="PSA.23.1"><emo_lang emotion="joy" tone="praise">Yahweh is my shepherd:I shall lack nothing</emo_lang>.</v>
+			<v id="2" bcv="PSA.23.2"><emo_lang emotion="joy" tone="praise">He makes me lie down in green pastures. He leads me beside still waters</emo_lang>.</v>
+			<v id="3" bcv="PSA.23.3"><emo_lang emotion="joy" tone="praise">He restores my soul</emo_lang>. <emo_lang emotion="joy" tone="praise" tone2="righteousness">He guides me in the paths of righteousness for his name’s sake</emo_lang>.</v>
+			<v id="4" bcv="PSA.23.4"><emo_lang emotion="fear" tone="praise" tone2="righteousness">Even though I walk through the valley of the shadow of death,I will fear no evil, for you are with me. Your rod and your staff,they comfort me</emo_lang>.</v>
+			<v id="5" bcv="PSA.23.5"><emo_lang emotion="joy" tone="praise" tone2="righteousness">You prepare a table before mein the presence of my enemies</emo_lang>. <emo_lang emotion="joy" tone="praise">You anoint my head with oil. My cup runs over</emo_lang>.</v>
+			<v id="6" bcv="PSA.23.6"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Surely goodness and loving kindness shall follow me all the days of my life,and I will dwell in Yahweh’s house forever</emo_lang>.</v>
 		</c>
 		<c id="24">
 			<v id="1" bcv="PSA.24.1">The earth is Yahweh’s, with its fullness;the world, and those who dwell in it.</v>
