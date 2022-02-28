@@ -360,42 +360,42 @@
 			<v id="6" bcv="PSA.23.6"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Surely goodness and loving kindness shall follow me all the days of my life,and I will dwell in Yahweh’s house forever</emo_lang>.</v>
 		</c>
 		<c id="24">
-			<v id="1" bcv="PSA.24.1">The earth is Yahweh’s, with its fullness;the world, and those who dwell in it.</v>
+			<v id="1" bcv="PSA.24.1"><emo_lang emotion="joy" tone="praise">The earth is Yahweh’s, with its fullness;the world, and those who dwell in it</emo_lang>.</v>
 			<v id="2" bcv="PSA.24.2">For he has founded it on the seas,and established it on the floods.</v>
-			<v id="3" bcv="PSA.24.3">Who may ascend to Yahweh’s hill?Who may stand in his holy place?</v>
-			<v id="4" bcv="PSA.24.4">He who has clean hands and a pure heart;who has not lifted up his soul to falsehood,and has not sworn deceitfully.</v>
-			<v id="5" bcv="PSA.24.5">He shall receive a blessing from Yahweh,righteousness from the God of his salvation.</v>
+			<v id="3" bcv="PSA.24.3"><emo_lang emotion="fear" tone="anxiety" tone2="pleading">Who may ascend to Yahweh’s hill?Who may stand in his holy place</emo_lang>?</v>
+			<v id="4" bcv="PSA.24.4"><emo_lang emotion="contentment" tone="praise" tone2="righteousness">He who has clean hands and a pure heart;who has not lifted up his soul to falsehood,and has not sworn deceitfully</emo_lang>.</v>
+			<v id="5" bcv="PSA.24.5"><emo_lang emotion="joy" tone="righteousness" tone2="praise">He shall receive a blessing from Yahweh,righteousness from the God of his salvation</emo_lang>.</v>
 			<v id="6" bcv="PSA.24.6">This is the generation of those who seek Him,who seek your face—even Jacob. 
 			</v>
-			<v id="7" bcv="PSA.24.7">Lift up your heads, you gates!Be lifted up, you everlasting doors,and the King of glory will come in.</v>
-			<v id="8" bcv="PSA.24.8">Who is the King of glory?Yahweh strong and mighty,Yahweh mighty in battle.</v>
-			<v id="9" bcv="PSA.24.9">Lift up your heads, you gates;yes, lift them up, you everlasting doors,and the King of glory will come in.</v>
-			<v id="10" bcv="PSA.24.10">Who is this King of glory?Yahweh of Armies is the King of glory!
+			<v id="7" bcv="PSA.24.7"><emo_lang emotion="joy" tone="righteousness">Lift up your heads, you gates!Be lifted up, you everlasting doors,and the King of glory will come in</emo_lang>.</v>
+			<v id="8" bcv="PSA.24.8">Who is the King of glory?<emo_lang emotion="joy" tone="praise" tone2="violence">Yahweh strong and mighty,Yahweh mighty in battle</emo_lang>.</v>
+			<v id="9" bcv="PSA.24.9"><emo_lang emotion="joy" tone="righteousness">Lift up your heads, you gates;yes, lift them up, you everlasting doors,and the King of glory will come in</emo_lang>.</v>
+			<v id="10" bcv="PSA.24.10">Who is this King of glory?<emo_lang emotion="joy" tone="praise">Yahweh of Armies is the King of glory</emo_lang>!
 			</v>
 		</c>
 		<c id="25">
-			<v id="1" bcv="PSA.25.1">To you, Yahweh, I lift up my soul.</v>
-			<v id="2" bcv="PSA.25.2">My God, I have trusted in you. Don’t let me be shamed. Don’t let my enemies triumph over me.</v>
-			<v id="3" bcv="PSA.25.3">Yes, no one who waits for you will be shamed. They will be shamed who deal treacherously without cause.</v>
-			<v id="4" bcv="PSA.25.4">Show me your ways, Yahweh. Teach me your paths.</v>
-			<v id="5" bcv="PSA.25.5">Guide me in your truth, and teach me,For you are the God of my salvation,I wait for you all day long.</v>
-			<v id="6" bcv="PSA.25.6">Yahweh, remember your tender mercies and your loving kindness,for they are from old times.</v>
-			<v id="7" bcv="PSA.25.7">Don’t remember the sins of my youth, nor my transgressions. Remember me according to your loving kindness,for your goodness’ sake, Yahweh.</v>
-			<v id="8" bcv="PSA.25.8">Good and upright is Yahweh,therefore he will instruct sinners in the way.</v>
-			<v id="9" bcv="PSA.25.9">He will guide the humble in justice. He will teach the humble his way.</v>
-			<v id="10" bcv="PSA.25.10">All the paths of Yahweh are loving kindness and truthto such as keep his covenant and his testimonies.</v>
-			<v id="11" bcv="PSA.25.11">For your name’s sake, Yahweh,pardon my iniquity, for it is great.</v>
-			<v id="12" bcv="PSA.25.12">What man is he who fears Yahweh?He shall instruct him in the way that he shall choose.</v>
-			<v id="13" bcv="PSA.25.13">His soul will dwell at ease. His offspring wi ll inherit the land.</v>
-			<v id="14" bcv="PSA.25.14">The friendship of Yahweh is with those who fear him. He will show them his covenant.</v>
-			<v id="15" bcv="PSA.25.15">My eyes are ever on Yahweh,for he will pluck my feet out of the net.</v>
-			<v id="16" bcv="PSA.25.16">Turn to me, and have mercy on me,for I am desolate and afflicted.</v>
-			<v id="17" bcv="PSA.25.17">The troubles of my heart are enlarged. Oh bring me out of my distresses.</v>
-			<v id="18" bcv="PSA.25.18">Consider my affliction and my travail. Forgive all my sins.</v>
-			<v id="19" bcv="PSA.25.19">Consider my enemies, for they are many. They hate me with cruel hatred.</v>
-			<v id="20" bcv="PSA.25.20">Oh keep my soul, and deliver me. Let me not be disappointed, for I take refuge in you.</v>
-			<v id="21" bcv="PSA.25.21">Let integrity and uprightness preserve me,for I wait for you.</v>
-			<v id="22" bcv="PSA.25.22">Redeem Israel, God,out of all his troubles.</v>
+			<v id="1" bcv="PSA.25.1">To you, Yahweh, <emo_lang emotion="joy" tone="praise">I lift up my soul</emo_lang>.</v>
+			<v id="2" bcv="PSA.25.2">My God, <emo_lang emotion="contentment" tone="praise" tone2="anxiety">I have trusted in you</emo_lang>. <emo_lang emotion="fear" tone="anxiety">Don’t let me be shamed</emo_lang>. <emo_lang emotion="fear" tone="fear" tone2="violence">Don’t let my enemies triumph over me</emo_lang>.</v>
+			<v id="3" bcv="PSA.25.3">Yes, <emo_lang emotion="joy" tone="praise" tone2="righteousness">no one who waits for you will be shamed</emo_lang>. <emo_lang emotion="anger" tone="righteousness" tone2="violence">They will be shamed who deal treacherously without cause</emo_lang>.</v>
+			<v id="4" bcv="PSA.25.4"><emo_lang emotion="fear" tone="pleading">Show me your ways, Yahweh. Teach me your paths</emo_lang>.</v>
+			<v id="5" bcv="PSA.25.5"><emo_lang emotion="fear" tone="pleading">Guide me in your truth, and teach me</emo_lang>,For <emo_lang emotion="joy" tone="praise">you are the God of my salvation</emo_lang>,<emo_lang emotion="fear" tone="anxiety">I wait for you</emo_lang> all day long.</v>
+			<v id="6" bcv="PSA.25.6">Yahweh, <emo_lang emotion="fear" tone="pleading" tone2="anxiety">remember your tender mercies and your loving kindness</emo_lang>,for they are from old times.</v>
+			<v id="7" bcv="PSA.25.7"><emo_lang emotion="fear" tone="petitioning">Don’t remember the sins of my youth, nor my transgressions. Remember me according to your loving kindness</emo_lang>,for <emo_lang emotion="fear" tone="praise">your goodness’ sake</emo_lang>, Yahweh.</v>
+			<v id="8" bcv="PSA.25.8"><emo_lang emotion="joy" tone="praise">Good and upright</emo_lang> is Yahweh,therefore <emo_lang emotion="joy" tone="praise" tone2="righteousness">he will instruct sinners in the way</emo_lang>.</v>
+			<v id="9" bcv="PSA.25.9"><emo_lang emotion="joy" tone="praise" tone2="righteousness">He will guide the humble in justice. He will teach the humble his way</emo_lang>.</v>
+			<v id="10" bcv="PSA.25.10">All the paths of Yahweh are <emo_lang emotion="joy" tone="praise">loving kindness and truth</emo_lang> to such as <emo_lang emotion="joy" tone="praise" tone2="righteousness">keep his covenant and his testimonies</emo_lang>.</v>
+			<v id="11" bcv="PSA.25.11"><emo_lang emotion="fear" tone="praise" tone2="pleading">For your name’s sake</emo_lang>, Yahweh,<emo_lang emotion="fear" tone="petitioning">pardon my iniquity</emo_lang>, for it is great.</v>
+			<v id="12" bcv="PSA.25.12">What man is he who fears Yahweh?<emo_lang emotion="contentment" tone="righteousness">He shall instruct him in the way that he shall choose</emo_lang>.</v>
+			<v id="13" bcv="PSA.25.13"><emo_lang emotion="joy" tone="praise" tone2="righteousness">His soul will dwell at ease. His offspring wi ll inherit the land</emo_lang>.</v>
+			<v id="14" bcv="PSA.25.14"><emo_lang emotion="joy" tone="praise" tone2="righteousness">The friendship of Yahweh is with those who fear him. He will show them his covenant</emo_lang>.</v>
+			<v id="15" bcv="PSA.25.15">My eyes are ever on Yahweh,for <emo_lang emotion="joy" tone="praise">he will pluck my feet out of the net</emo_lang>.</v>
+			<v id="16" bcv="PSA.25.16">Turn to me, and <emo_lang emotion="fear" tone="pleading">have mercy on me</emo_lang>,for <emo_lang emotion="fear" tone="anxiety">I am desolate and afflicted</emo_lang>.</v>
+			<v id="17" bcv="PSA.25.17"><emo_lang emotion="fear" tone="fear">The troubles of my heart are enlarged</emo_lang>. Oh <emo_lang emotion="fear" tone="pleading">bring me out of my distresses</emo_lang>.</v>
+			<v id="18" bcv="PSA.25.18"><emo_lang emotion="fear" tone="pleading">Consider my affliction and my travail. Forgive all my sins</emo_lang>.</v>
+			<v id="19" bcv="PSA.25.19"><emo_lang emotion="fear" tone="petitioning">Consider my enemies</emo_lang>, for they are many. <emo_lang emotion="fear" tone="fear" tone2="violence">They hate me with cruel hatred</emo_lang>.</v>
+			<v id="20" bcv="PSA.25.20"><emo_lang emotion="fear" tone="pleading">Oh keep my soul, and deliver me. Let me not be disappointed</emo_lang>, <emo_lang emotion="fear" tone="petitioning" tone2="praise">for I take refuge in you</emo_lang>.</v>
+			<v id="21" bcv="PSA.25.21"><emo_lang emotion="fear" tone="petitioning" tone2="righteousness">Let integrity and uprightness preserve me,for I wait for you</emo_lang>.</v>
+			<v id="22" bcv="PSA.25.22"><emo_lang emotion="fear" tone="petitioning">Redeem Israel</emo_lang>, God,out of all his troubles.</v>
 		</c>
 		<c id="26">
 			<v id="1" bcv="PSA.26.1">Judge me, Yahweh, for I have walked in my integrity. I have trusted also in Yahweh without wavering.</v>
