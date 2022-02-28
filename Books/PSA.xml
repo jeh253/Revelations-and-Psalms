@@ -492,20 +492,20 @@
 			<v id="24" bcv="PSA.31.24"><emo_lang emotion="joy" tone="righteousness">Be strong, and let your heart take courage</emo_lang>,all you who hope in Yahweh.</v>
 		</c>
 		<c id="32">
-			<v id="1" bcv="PSA.32.1">Blessed is he whose disobedience is forgiven,whose sin is covered.</v>
-			<v id="2" bcv="PSA.32.2">Blessed is the man to whom Yahweh doesn’t impute iniquity,in whose spirit there is no deceit.</v>
-			<v id="3" bcv="PSA.32.3">When I kept silence, my bones wasted away through my groaning all day long.</v>
-			<v id="4" bcv="PSA.32.4">For day and night your hand was heavy on me. My strength was sapped in the heat of summer. 
+			<v id="1" bcv="PSA.32.1"><emo_lang emotion="joy" tone="righteousness">Blessed is he whose disobedience is forgiven,whose sin is covered</emo_lang>.</v>
+			<v id="2" bcv="PSA.32.2"><emo_lang emotion="joy" tone="righteousness">Blessed is the man to whom Yahweh doesn’t impute iniquity,in whose spirit there is no deceit</emo_lang>.</v>
+			<v id="3" bcv="PSA.32.3">When I kept silence, <emo_lang emotion="sorrow" tone="anxiety">my bones wasted away</emo_lang> through my groaning all day long.</v>
+			<v id="4" bcv="PSA.32.4">For day and night <emo_lang emotion="sorrow" tone="anxiety">your hand was heavy on me. My strength was sapped in the heat of summer</emo_lang>. 
 			</v>
-			<v id="5" bcv="PSA.32.5">I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to Yahweh,and you forgave the iniquity of my sin. 
+			<v id="5" bcv="PSA.32.5"><emo_lang emotion="fear" tone="righteousness">I acknowledged my sin to you. I didn’t hide my iniquity</emo_lang>. I said, <emo_lang emotion="fear" tone="righteousness">I will confess my transgressions</emo_lang> to Yahweh,and <emo_lang emotion="joy" tone="praise" tone2="righteousness">you forgave the iniquity of my sin</emo_lang>. 
 			</v>
-			<v id="6" bcv="PSA.32.6">For this, let everyone who is godly pray to you in a time when you may be found. Surely when the great waters overflow, they shall not reach to him.</v>
-			<v id="7" bcv="PSA.32.7">You are my hiding place. You will preserve me from trouble. You will surround me with songs of deliverance. 
+			<v id="6" bcv="PSA.32.6">For this, <emo_lang emotion="joy" tone="righteousness">let everyone who is godly pray to you</emo_lang> in a time when you may be found. Surely when the great waters overflow, <emo_lang emotion="joy" tone="praise" tone2="righteousness">they shall not reach to him</emo_lang>.</v>
+			<v id="7" bcv="PSA.32.7"><emo_lang emotion="joy" tone="praise">You are my hiding place. You will preserve me from trouble. You will surround me with songs of deliverance</emo_lang>. 
 			</v>
-			<v id="8" bcv="PSA.32.8">I will instruct you and teach you in the way which you shall go. I will counsel you with my eye on you.</v>
-			<v id="9" bcv="PSA.32.9">Don’t be like the horse, or like the mule, which have no understanding,who are controlled by bit and bridle, or else they will not come near to you.</v>
-			<v id="10" bcv="PSA.32.10">Many sorrows come to the wicked,but loving kindness shall surround him who trusts in Yahweh.</v>
-			<v id="11" bcv="PSA.32.11">Be glad in Yahweh, and rejoice, you righteous!Shout for joy, all you who are upright in heart!</v>
+			<v id="8" bcv="PSA.32.8"><emo_lang emotion="contentment" tone="righteousness">I will instruct you and teach you in the way which you shall go. I will counsel you with my eye on you.</emo_lang></v>
+			<v id="9" bcv="PSA.32.9"><emo_lang emotion="contentment" tone="righteousness">Don’t be like the horse, or like the mule, which have no understanding,who are controlled by bit and bridle, or else they will not come near to you</emo_lang>.</v>
+			<v id="10" bcv="PSA.32.10"><emo_lang emotion="joy" tone="righteousness">Many sorrows come to the wicked,but loving kindness shall surround him who trusts in Yahweh</emo_lang>.</v>
+			<v id="11" bcv="PSA.32.11"><emo_lang emotion="joy" tone="praise">Be glad in Yahweh, and rejoice</emo_lang>, you righteous!S<emo_lang emotion="joy" tone="praise">hout for joy</emo_lang>, <emo_lang emotion="joy" tone="righteousness">all you who are upright in heart</emo_lang>!</v>
 		</c>
 		<c id="33">
 			<v id="1" bcv="PSA.33.1">Rejoice in Yahweh, you righteous!Praise is fitting for the upright.</v>
