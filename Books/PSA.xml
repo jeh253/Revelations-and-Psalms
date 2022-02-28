@@ -556,34 +556,34 @@
 			<v id="22" bcv="PSA.34.22">Yahweh <emo_lang emotion="joy" tone="praise" tone2="righteousness">redeems the soul of his servants</emo_lang>. <emo_lang emotion="joy" tone="righteousness">None of those who take refuge in him shall be condemned</emo_lang>.</v>
 		</c>
 		<c id="35">
-			<v id="1" bcv="PSA.35.1">Contend, Yahweh, with those who contend with me. Fight against those who fight against me.</v>
-			<v id="2" bcv="PSA.35.2">Take hold of shield and buckler,and stand up for my help.</v>
-			<v id="3" bcv="PSA.35.3">Brandish the spear and block those who pursue me. Tell my soul, “I am your salvation.”</v>
-			<v id="4" bcv="PSA.35.4">Let those who seek after my soul be disappointed and brought to dishonor. Let those who plot my ruin be turned back and confounded.</v>
-			<v id="5" bcv="PSA.35.5">Let them be as chaff before the wind,Yahweh’s angel driving them on.</v>
-			<v id="6" bcv="PSA.35.6">Let their way be dark and slippery,Yahweh’s angel pursuing them.</v>
-			<v id="7" bcv="PSA.35.7">For without cause they have hidden their net in a pit for me. Without cause they have dug a pit for my soul.</v>
-			<v id="8" bcv="PSA.35.8">Let destruction come on him unawares. Let his net that he has hidden catch himself. Let him fall into that destruction.</v>
-			<v id="9" bcv="PSA.35.9">My soul shall be joyful in Yahweh. It shall rejoice in his salvation.</v>
-			<v id="10" bcv="PSA.35.10">All my bones shall say, “Yahweh, who is like you,who delivers the poor from him who is too strong for him;yes, the poor and the needy from him who robs him?”</v>
-			<v id="11" bcv="PSA.35.11">Unrighteous witnesses rise up. They ask me about things that I don’t know about.</v>
-			<v id="12" bcv="PSA.35.12">They reward me evil for good,to the bereaving of my soul.</v>
-			<v id="13" bcv="PSA.35.13">But as for me, when they were sick, my clothing was sackcloth. I afflicted my soul with fasting. My prayer returned into my own bosom.</v>
-			<v id="14" bcv="PSA.35.14">I behaved myself as though it had been my friend or my brother. I bowed down mourning, as one who mourns his mother.</v>
-			<v id="15" bcv="PSA.35.15">But in my adversity, they rejoiced, and gathered themselves together. The attackers gathered themselves together against me, and I didn’t know it. They tore at me, and didn’t cease.</v>
-			<v id="16" bcv="PSA.35.16">Like the profane mockers in feasts,they gnashed their teeth at me.</v>
-			<v id="17" bcv="PSA.35.17">Lord, how long will you look on?Rescue my soul from their destruction,my precious life from the lions.</v>
-			<v id="18" bcv="PSA.35.18">I will give you thanks in the great assembly. I will praise you among many people.</v>
-			<v id="19" bcv="PSA.35.19">Don’t let those who are my enemies wrongfully rejoice over me;neither let those who hate me without a cause wink their eyes.</v>
-			<v id="20" bcv="PSA.35.20">For they don’t speak peace,but they devise deceitful words against those who are quiet in the land.</v>
-			<v id="21" bcv="PSA.35.21">Yes, they opened their mouth wide against me. They said, “Aha! Aha! Our eye has seen it!”</v>
-			<v id="22" bcv="PSA.35.22">You have seen it, Yahweh. Don’t keep silent. Lord, don’t be far from me.</v>
-			<v id="23" bcv="PSA.35.23">Wake up! Rise up to defend me, my God!My Lord, contend for me!</v>
-			<v id="24" bcv="PSA.35.24">Vindicate me, Yahweh my God, according to your righteousness. Don’t let them gloat over me.</v>
-			<v id="25" bcv="PSA.35.25">Don’t let them say in their heart, “Aha! That’s the way we want it!”Don’t let them say, “We have swallowed him up!”</v>
-			<v id="26" bcv="PSA.35.26">Let them be disappointed and confounded together who rejoice at my calamity. Let them be clothed with shame and dishonor who magnify themselves against me.</v>
-			<v id="27" bcv="PSA.35.27">Let them shout for joy and be glad, who favor my righteous cause. Yes, let them say continually, “Yahweh be magnified,who has pleasure in the prosperity of his servant!”</v>
-			<v id="28" bcv="PSA.35.28">My tongue shall talk about your righteousness and about your praise all day long.</v>
+			<v id="1" bcv="PSA.35.1"><emo_lang emotion="fear" tone="petitioning">Contend, Yahweh, with those who contend with me</emo_lang>. <emo_lang emotion="fear" tone="petitioning" tone2="violence">Fight against those who fight against me</emo_lang>.</v>
+			<v id="2" bcv="PSA.35.2"><emo_lang emotion="fear" tone="petitioning" tone2="righteousness">Take hold of shield and buckler,and stand up for my help</emo_lang>.</v>
+			<v id="3" bcv="PSA.35.3"><emo_lang emotion="anger" tone="violence" tone2="petitioning">Brandish the spear and block those who pursue me</emo_lang>. <emo_lang emotion="fear" tone="anxiety" tone2="petitioning">Tell my soul, “I am your salvation.”</emo_lang></v>
+			<v id="4" bcv="PSA.35.4"><emo_lang emotion="anger" tone="righteousness">Let those who seek after my soul be disappointed and brought to dishonor. Let those who plot my ruin be turned back and confounded</emo_lang>.</v>
+			<v id="5" bcv="PSA.35.5"><emo_lang emotion="anger" tone="righteousness">Let them be as chaff before the wind,Yahweh’s angel driving them on</emo_lang>.</v>
+			<v id="6" bcv="PSA.35.6"><emo_lang emotion="anger" tone="righteousness">Let their way be dark and slippery,Yahweh’s angel pursuing them</emo_lang>.</v>
+			<v id="7" bcv="PSA.35.7">For without cause <emo_lang emotion="fear" tone="violence">they have hidden their net in a pit for me. Without cause they have dug a pit for my soul</emo_lang>.</v>
+			<v id="8" bcv="PSA.35.8"><emo_lang emotion="anger" tone="violence">Let destruction come on him unawares</emo_lang>. <emo_lang emotion="anger" tone="violence">Let his net that he has hidden catch himself</emo_lang>.<emo_lang emotion="anger" tone="violence"> Let him fall into that destruction</emo_lang>.</v>
+			<v id="9" bcv="PSA.35.9"><emo_lang emotion="joy" tone="righteousness">My soul shall be joyful in Yahweh. It shall rejoice in his salvation</emo_lang>.</v>
+			<v id="10" bcv="PSA.35.10">All my bones shall say, “Yahweh, <emo_lang emotion="joy" tone="praise">who is like you</emo_lang>,<emo_lang emotion="fear" tone="praise">who delivers the poor from him who is too strong for him</emo_lang>;yes, <emo_lang emotion="fear" tone="praise" tone2="violence">the poor and the needy from him who robs him</emo_lang>?”</v>
+			<v id="11" bcv="PSA.35.11"><emo_lang emotion="fear" tone="anxiety">Unrighteous witnesses rise up</emo_lang>. <emo_lang emotion="fear" tone="anxiety">They ask me about things that I don’t know about</emo_lang>.</v>
+			<v id="12" bcv="PSA.35.12"><emo_lang emotion="anger" tone="fear">They reward me evil for good,to the bereaving of my soul</emo_lang>.</v>
+			<v id="13" bcv="PSA.35.13">But as for me, <emo_lang emotion="contentment" tone="righteousness">when they were sick, my clothing was sackcloth. I afflicted my soul with fasting. My prayer returned into my own bosom</emo_lang>.</v>
+			<v id="14" bcv="PSA.35.14"><emo_lang emotion="contentment" tone="righteousness">I behaved myself as though it had been my friend or my brother</emo_lang>. <emo_lang emotion="sorrow" tone="righteousness">I bowed down mourning, as one who mourns his mother</emo_lang>.</v>
+			<v id="15" bcv="PSA.35.15">But <emo_lang emotion="anger" tone="boasting">in my adversity, they rejoiced</emo_lang>, and gathered themselves together. <emo_lang emotion="fear" tone="violence">The attackers gathered themselves together against me</emo_lang>, and I didn’t know it. <emo_lang emotion="anger" tone="violence">They tore at me, and didn’t cease</emo_lang>.</v>
+			<v id="16" bcv="PSA.35.16">Like the profane mockers in feasts,<emo_lang emotion="anger" tone="violence">they gnashed their teeth at me</emo_lang>.</v>
+			<v id="17" bcv="PSA.35.17">Lord, <emo_lang emotion="fear" tone="pleading">how long will you look on?Rescue my soul from their destruction,my precious life from the lions</emo_lang>.</v>
+			<v id="18" bcv="PSA.35.18"><emo_lang emotion="fear" tone="praise" tone2="pleading">I will give you thanks in the great assembly. I will praise you among many people</emo_lang>.</v>
+			<v id="19" bcv="PSA.35.19"><emo_lang emotion="fear" tone="pleading">Don’t let those who are my enemies wrongfully rejoice over me;neither let those who hate me without a cause wink their eyes</emo_lang>.</v>
+			<v id="20" bcv="PSA.35.20">For <emo_lang emotion="anger" tone="violence">they don’t speak peace</emo_lang>,but they <emo_lang emotion="anger" tone="righteousness">devise deceitful words against those who are quiet in the land</emo_lang>.</v>
+			<v id="21" bcv="PSA.35.21">Yes, <emo_lang emotion="anger" tone="fear">they opened their mouth wide against me</emo_lang>. They said, “Aha! Aha! Our eye has seen it!”</v>
+			<v id="22" bcv="PSA.35.22">You have seen it, Yahweh. <emo_lang emotion="fear" tone="pleading">Don’t keep silent. Lord, don’t be far from me</emo_lang>.</v>
+			<v id="23" bcv="PSA.35.23"><emo_lang emotion="fear" tone="pleading">Wake up! Rise up to defend me, my God!My Lord, contend for me</emo_lang>!</v>
+			<v id="24" bcv="PSA.35.24"><emo_lang emotion="fear" tone="petitioning">Vindicate me</emo_lang>, Yahweh my God, according to your righteousness. <emo_lang emotion="fear" tone="petitioning">Don’t let them gloat over me</emo_lang>.</v>
+			<v id="25" bcv="PSA.35.25"><emo_lang emotion="fear" tone="petitioning">Don’t let them say</emo_lang> in their heart, “Aha! That’s the way we want it!”<emo_lang emotion="fear" tone="petitioning">Don’t let them say</emo_lang>, “We have swallowed him up!”</v>
+			<v id="26" bcv="PSA.35.26"><emo_lang emotion="anger" tone="righteousness">Let them be disappointed and confounded together who rejoice at my calamity</emo_lang>. <emo_lang emotion="anger" tone="righteousness">Let them be clothed with shame and dishonor who magnify themselves against me</emo_lang>.</v>
+			<v id="27" bcv="PSA.35.27"><emo_lang emotion="joy" tone="righteousness">Let them shout for joy and be glad</emo_lang>, who favor my righteous cause. Yes, let them say continually, “<emo_lang emotion="joy" tone="praise" tone2="righteousness">Yahweh be magnified,who has pleasure in the prosperity of his servant!</emo_lang>”</v>
+			<v id="28" bcv="PSA.35.28"><emo_lang emotion="joy" tone="praise">My tongue shall talk about your righteousness and about your praise all day long</emo_lang>.</v>
 		</c>
 		<c id="36">
 			<v id="1" bcv="PSA.36.1">A revelation is within my heart about the disobedience of the wicked:“There is no fear of God before his eyes.”</v>
