@@ -915,22 +915,22 @@
 			<v id="9" bcv="PSA.52.9"><emo_lang emotion="joy" tone="righteousenss" tone2="praise">I will give you thanks forever</emo_lang>, because you have done it. <emo_lang emotion="joy" tone="righteousness" tone2="praise">I will hope in your name</emo_lang>, for <emo_lang emotion="joy" tone="praise">it is good</emo_lang>,in the presence of your saints.</v>
 		</c>
 		<c id="53">
-			<v id="1" bcv="PSA.53.1">The fool has said in his heart, “There is no God.”They are corrupt, and have done abominable iniquity. There is no one who does good.</v>
+			<v id="1" bcv="PSA.53.1">The fool has said in his heart, “<emo_lang emotion="anger" tone="boasting">There is no God</emo_lang>.”<emo_lang emotion="anger" tone="righteousness">They are corrupt, and have done abominable iniquity. There is no one who does good</emo_lang>.</v>
 			<v id="2" bcv="PSA.53.2">God looks down from heaven on the children of men,to see if there are any who understood,who seek after God.</v>
-			<v id="3" bcv="PSA.53.3">Every one of them has gone back. They have become filthy together. There is no one who does good, no, not one.</v>
-			<v id="4" bcv="PSA.53.4">Have the workers of iniquity no knowledge,who eat up my people as they eat bread,and don’t call on God?</v>
-			<v id="5" bcv="PSA.53.5">There they were in great fear, where no fear was,for God has scattered the bones of him who encamps against you. You have put them to shame,because God has rejected them.</v>
-			<v id="6" bcv="PSA.53.6">Oh that the salvation of Israel would come out of Zion!When God brings back his people from captivity,then Jacob shall rejoice,and Israel shall be glad.</v>
+			<v id="3" bcv="PSA.53.3"><emo_lang emotion="anger" tone="righteousness">Every one of them has gone back. They have become filthy together. There is no one who does good, no, not one</emo_lang>.</v>
+			<v id="4" bcv="PSA.53.4">Have the workers of iniquity no knowledge,who eat up my people as they eat bread,and <emo_lang emotion="anger" tone="righteousness">don’t call on God</emo_lang>?</v>
+			<v id="5" bcv="PSA.53.5"><emo_lang emotion="fear" tone="fear" tone2="anxiety">There they were in great fear, where no fear was,for God has scattered the bones of him who encamps against you. You have put them to shame,because God has rejected them</emo_lang>.</v>
+			<v id="6" bcv="PSA.53.6">Oh that the salvation of Israel would come out of Zion!<emo_lang emotion="joy" tone="praise">When God brings back his people from captivity</emo_lang>,then Jacob shall rejoice,and Israel shall be glad.</v>
 		</c>
 		<c id="54">
-			<v id="1" bcv="PSA.54.1">Save me, God, by your name. Vindicate me in your might.</v>
-			<v id="2" bcv="PSA.54.2">Hear my prayer, God. Listen to the words of my mouth.</v>
-			<v id="3" bcv="PSA.54.3">For strangers have risen up against me. Violent men have sought after my soul. They haven’t set God before them. 
+			<v id="1" bcv="PSA.54.1"><emo_lang emotion="fear" tone="pleading">Save me, God, by your name. Vindicate me in your might</emo_lang>.</v>
+			<v id="2" bcv="PSA.54.2"><emo_lang emotion="fear" tone="petitioning">Hear my prayer, God. Listen to the words of my mouth</emo_lang>.</v>
+			<v id="3" bcv="PSA.54.3"><emo_lang emotion="fear" tone="fear">For strangers have risen up against me. Violent men have sought after my soul. They haven’t set God before them</emo_lang>. 
 			</v>
-			<v id="4" bcv="PSA.54.4">Behold, God is my helper. The Lord is the one who sustains my soul.</v>
-			<v id="5" bcv="PSA.54.5">He will repay the evil to my enemies. Destroy them in your truth.</v>
-			<v id="6" bcv="PSA.54.6">With a free will offering, I will sacrifice to you. I will give thanks to your name, Yahweh, for it is good.</v>
-			<v id="7" bcv="PSA.54.7">For he has delivered me out of all trouble. My eye has seen triumph over my enemies.</v>
+			<v id="4" bcv="PSA.54.4">Behold, <emo_lang emotion="joy" tone="righteousness">God is my helper. The Lord is the one who sustains my soul</emo_lang>.</v>
+			<v id="5" bcv="PSA.54.5"><emo_lang emotion="joy" tone="righteousness" tone2="violence">He will repay the evil to my enemies. Destroy them in your truth</emo_lang>.</v>
+			<v id="6" bcv="PSA.54.6">With a free will offering, <emo_lang emotion="joy" tone="righteousness" tone2="praise">I will sacrifice to you. I will give thanks to your name</emo_lang>, Yahweh, for <emo_lang emotion="joy" tone="praise">it is good</emo_lang>.</v>
+			<v id="7" bcv="PSA.54.7">For <emo_lang emotion="joy" tone="righteousness" tone2="praise">he has delivered me out of all trouble</emo_lang>. <emo_lang emotion="joy" tone="righteousness">My eye has seen triumph over my enemies</emo_lang>.</v>
 		</c>
 		<c id="55">
 			<v id="1" bcv="PSA.55.1">Listen to my prayer, God. Don’t hide yourself from my supplication.</v>
