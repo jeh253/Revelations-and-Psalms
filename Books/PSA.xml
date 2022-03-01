@@ -1359,29 +1359,29 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="12" bcv="PSA.76.12"><emo_lang emotion="fear" tone="fear">He will cut off the spirit of princes. He is feared by the kings of the earth</emo_lang>.</v>
 		</c>
 		<c id="77">
-			<v id="1" bcv="PSA.77.1">My cry goes to God!Indeed, I cry to God for help,and for him to listen to me.</v>
-			<v id="2" bcv="PSA.77.2">In the day of my trouble I sought the Lord. My hand was stretched out in the night, and didn’t get tired. My soul refused to be comforted.</v>
-			<v id="3" bcv="PSA.77.3">I remember God, and I groan. I complain, and my spirit is overwhelmed. 
+			<v id="1" bcv="PSA.77.1"><emo_lang emotion="sorrow" tone="pleading" tone2="anxiety">My cry goes to God! Indeed, I cry to God for help,and for him to listen to me</emo_lang>.</v>
+			<v id="2" bcv="PSA.77.2"><emo_lang emotion="sorrow" tone="anxiety">In the day of my trouble I sought the Lord. My hand was stretched out in the night, and didn’t get tired. My soul refused to be comforted</emo_lang>.</v>
+			<v id="3" bcv="PSA.77.3">I remember God, and <emo_lang emotion="sorrow" tone="anxiety">I groan. I complain, and my spirit is overwhelmed</emo_lang>. 
 			</v>
-			<v id="4" bcv="PSA.77.4">You hold my eyelids open. I am so troubled that I can’t speak.</v>
+			<v id="4" bcv="PSA.77.4">You hold my eyelids open. <emo_lang emotion="fear" tone="anxiety">I am so troubled that I can’t speak</emo_lang>.</v>
 			<v id="5" bcv="PSA.77.5">I have considered the days of old,the years of ancient times.</v>
 			<v id="6" bcv="PSA.77.6">I remember my song in the night. I consider in my own heart;my spirit diligently inquires:</v>
-			<v id="7" bcv="PSA.77.7">“Will the Lord reject us forever?Will he be favorable no more?</v>
-			<v id="8" bcv="PSA.77.8">Has his loving kindness vanished forever?Does his promise fail for generations?</v>
-			<v id="9" bcv="PSA.77.9">Has God forgotten to be gracious?Has he, in anger, withheld his compassion?”
+			<v id="7" bcv="PSA.77.7">“<emo_lang emotion="fear" tone="anxiety">Will the Lord reject us forever?Will he be favorable no more</emo_lang>?</v>
+			<v id="8" bcv="PSA.77.8"><emo_lang emotion="fear" tone="anxiety">Has his loving kindness vanished forever?Does his promise fail for generations</emo_lang>?</v>
+			<v id="9" bcv="PSA.77.9"><emo_lang emotion="fear" tone="anxiety">Has God forgotten to be gracious?Has he, in anger, withheld his compassion</emo_lang>?”
 			</v>
 			<v id="10" bcv="PSA.77.10">Then I thought, “I will appeal to this:the years of the right hand of the Most High.”</v>
-			<v id="11" bcv="PSA.77.11">I will remember Yah’s deeds;for I will remember your wonders of old.</v>
+			<v id="11" bcv="PSA.77.11"><emo_lang emotion="contentment" tone="praise">I will remember Yah’s deeds;for I will remember your wonders of old</emo_lang>.</v>
 			<v id="12" bcv="PSA.77.12">I will also meditate on all your work,and consider your doings.</v>
-			<v id="13" bcv="PSA.77.13">Your way, God, is in the sanctuary. What god is great like God?</v>
-			<v id="14" bcv="PSA.77.14">You are the God who does wonders. You have made your strength known among the peoples.</v>
-			<v id="15" bcv="PSA.77.15">You have redeemed your people with your arm,the sons of Jacob and Joseph. 
+			<v id="13" bcv="PSA.77.13">Your way, God, is in the sanctuary. <emo_lang emotion="contentment" tone="praise">What god is great like God</emo_lang>?</v>
+			<v id="14" bcv="PSA.77.14"><emo_lang emotion="contentment" tone="praise">You are the God who does wonders. You have made your strength known among the peoples</emo_lang>.</v>
+			<v id="15" bcv="PSA.77.15"><emo_lang emotion="contentment" tone="praise">You have redeemed your people with your arm,the sons of Jacob and Joseph</emo_lang>. 
 			</v>
-			<v id="16" bcv="PSA.77.16">The waters saw you, God. The waters saw you, and they writhed. The depths also convulsed.</v>
+			<v id="16" bcv="PSA.77.16">The waters saw you, God. The waters saw you, and <emo_lang emotion="fear" tone="fear">they writhed. The depths also convulsed</emo_lang>.</v>
 			<v id="17" bcv="PSA.77.17">The clouds poured out water. The skies resounded with thunder. Your arrows also flashed around.</v>
-			<v id="18" bcv="PSA.77.18">The voice of your thunder was in the whirlwind. The lightnings lit up the world. The earth trembled and shook.</v>
+			<v id="18" bcv="PSA.77.18">The voice of your thunder was in the whirlwind. The lightnings lit up the world. <emo_lang emotion="fear" tone="fear">The earth trembled and shook</emo_lang>.</v>
 			<v id="19" bcv="PSA.77.19">Your way was through the sea;your paths through the great waters. Your footsteps were not known.</v>
-			<v id="20" bcv="PSA.77.20">You led your people like a flock,by the hand of Moses and Aaron.</v>
+			<v id="20" bcv="PSA.77.20"><emo_lang emotion="contentment" tone="praise">You led your people like a flock</emo_lang>,by the hand of Moses and Aaron.</v>
 		</c>
 		<c id="78">
 			<v id="1" bcv="PSA.78.1">Hear my teaching, my people. Turn your ears to the words of my mouth.</v>
@@ -1458,45 +1458,45 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="72" bcv="PSA.78.72">So he was their shepherd according to the integrity of his heart,and guided them by the skillfulness of his hands.</v>
 		</c>
 		<c id="79">
-			<v id="1" bcv="PSA.79.1">God, the nations have come into your inheritance. They have defiled your holy temple. They have laid Jerusalem in heaps.</v>
-			<v id="2" bcv="PSA.79.2">They have given the dead bodies of your servants to be food for the birds of the sky,the flesh of your saints to the animals of the earth.</v>
-			<v id="3" bcv="PSA.79.3">Their blood they have shed like water around Jerusalem. There was no one to bury them.</v>
+			<v id="1" bcv="PSA.79.1"><emo_lang emotion="anger" tone="righteousness" tone2="violence">God, the nations have come into your inheritance. They have defiled your holy temple. They have laid Jerusalem in heaps</emo_lang>.</v>
+			<v id="2" bcv="PSA.79.2"><emo_lang emotion="anger" tone="righteousness" tone2="violence">They have given the dead bodies of your servants to be food for the birds of the sky,the flesh of your saints to the animals of the earth</emo_lang>.</v>
+			<v id="3" bcv="PSA.79.3"><emo_lang emotion="anger" tone="righteousness" tone2="violence">Their blood they have shed like water around Jerusalem. There was no one to bury them</emo_lang>.</v>
 			<v id="4" bcv="PSA.79.4">We have become a reproach to our neighbors,a scoffing and derision to those who are around us.</v>
-			<v id="5" bcv="PSA.79.5">How long, Yahweh?Will you be angry forever?Will your jealousy burn like fire?</v>
-			<v id="6" bcv="PSA.79.6">Pour out your wrath on the nations that don’t know you;on the kingdoms that don’t call on your name;</v>
-			<v id="7" bcv="PSA.79.7">For they have devoured Jacob,and destroyed his homeland.</v>
-			<v id="8" bcv="PSA.79.8">Don’t hold the iniquities of our forefathers against us. Let your tender mercies speedily meet us,for we are in desperate need.</v>
-			<v id="9" bcv="PSA.79.9">Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our sins, for your name’s sake.</v>
-			<v id="10" bcv="PSA.79.10">Why should the nations say, “Where is their God?”Let it be known among the nations, before our eyes,that vengeance for your servants’ blood is being poured out.</v>
-			<v id="11" bcv="PSA.79.11">Let the sighing of the prisoner come before you. According to the greatness of your power, preserve those who are sentenced to death.</v>
+			<v id="5" bcv="PSA.79.5"><emo_lang emotion="anger" tone="anxiety" tone2="violence">How long, Yahweh?Will you be angry forever?Will your jealousy burn like fire</emo_lang>?</v>
+			<v id="6" bcv="PSA.79.6"><emo_lang emotion="anger" tone="petitioning" tone2="violence">Pour out your wrath on the nations that don’t know you;on the kingdoms that don’t call on your name</emo_lang>;</v>
+			<v id="7" bcv="PSA.79.7"><emo_lang emotion="anger" tone="fear" tone2="violence">For they have devoured Jacob,and destroyed his homeland</emo_lang>.</v>
+			<v id="8" bcv="PSA.79.8"><emo_lang emotion="fear" tone="petitioning" tone2="anxiety">Don’t hold the iniquities of our forefathers against us. Let your tender mercies speedily meet us,for we are in desperate need</emo_lang>.</v>
+			<v id="9" bcv="PSA.79.9"><emo_lang emotion="fear" tone="petitioning" tone2="anxiety">Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our sins, for your name’s sake</emo_lang>.</v>
+			<v id="10" bcv="PSA.79.10">Why should the nations say, “Where is their God?”<emo_lang emotion="anger" tone="petitioning" tone2="violence">Let it be known among the nations, before our eyes,that vengeance for your servants’ blood is being poured out</emo_lang>.</v>
+			<v id="11" bcv="PSA.79.11"><emo_lang emotion="fear" tone="petitioning">Let the sighing of the prisoner come before you. According to the greatness of your power, preserve those who are sentenced to death</emo_lang>.</v>
 			<v id="12" bcv="PSA.79.12">Pay back to our neighbors seven times into their bosomtheir reproach with which they have reproached you, Lord.</v>
-			<v id="13" bcv="PSA.79.13">So we, your people and sheep of your pasture,will give you thanks forever. We will praise you forever, to all generations.</v>
+			<v id="13" bcv="PSA.79.13">So we, your people and sheep of your pasture, <emo_lang emotion="contentment" tone="praise">will give you thanks forever. We will praise you forever, to all generations</emo_lang>.</v>
 		</c>
 		<c id="80">
-			<v id="1" bcv="PSA.80.1">Hear us, Shepherd of Israel,you who lead Joseph like a flock,you who sit above the cherubim, shine out.</v>
-			<v id="2" bcv="PSA.80.2">Before Ephraim and Benjamin and Manasseh, stir up your might!Come to save us!</v>
-			<v id="3" bcv="PSA.80.3">Turn us again, God. Cause your face to shine,and we will be saved.</v>
-			<v id="4" bcv="PSA.80.4">Yahweh God of Armies,How long will you be angry against the prayer of your people?</v>
+			<v id="1" bcv="PSA.80.1"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Hear us, Shepherd of Israel,you who lead Joseph like a flock,you who sit above the cherubim, shine out</emo_lang>.</v>
+			<v id="2" bcv="PSA.80.2">Before Ephraim and Benjamin and Manasseh, <emo_lang emotion="fear" tone="pleading" tone2="anxiety">stir up your might!Come to save us</emo_lang>!</v>
+			<v id="3" bcv="PSA.80.3"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Turn us again, God. Cause your face to shine,and we will be saved</emo_lang>.</v>
+			<v id="4" bcv="PSA.80.4">Yahweh God of Armies,<emo_lang emotion="fear" tone="pleading" tone2="anxiety">How long will you be angry against the prayer of your people</emo_lang>?</v>
 			<v id="5" bcv="PSA.80.5">You have fed them with the bread of tears,and given them tears to drink in large measure.</v>
-			<v id="6" bcv="PSA.80.6">You make us a source of contention to our neighbors. Our enemies laugh among themselves.</v>
-			<v id="7" bcv="PSA.80.7">Turn us again, God of Armies. Cause your face to shine,and we will be saved.</v>
+			<v id="6" bcv="PSA.80.6">You make us a source of contention to our neighbors. <emo_lang emotion="fear" tone="anxiety">Our enemies laugh among themselves</emo_lang>.</v>
+			<v id="7" bcv="PSA.80.7"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Turn us again, God of Armies. Cause your face to shine,and we will be saved</emo_lang>.</v>
 			<v id="8" bcv="PSA.80.8">You brought a vine out of Egypt. You drove out the nations, and planted it.</v>
 			<v id="9" bcv="PSA.80.9">You cleared the ground for it. It took deep root, and filled the land.</v>
 			<v id="10" bcv="PSA.80.10">The mountains were covered with its shadow. Its boughs were like God’s cedars.</v>
 			<v id="11" bcv="PSA.80.11">It sent out its branches to the sea,Its shoots to the River.</v>
 			<v id="12" bcv="PSA.80.12">Why have you broken down its walls,so that all those who pass by the way pluck it?</v>
 			<v id="13" bcv="PSA.80.13">The boar out of the wood ravages it. The wild animals of the field feed on it.</v>
-			<v id="14" bcv="PSA.80.14">Turn again, we beg you, God of Armies. Look down from heaven, and see, and visit this vine,</v>
+			<v id="14" bcv="PSA.80.14"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Turn again, we beg you, God of Armies. Look down from heaven, and see, and visit this vine</emo_lang>,</v>
 			<v id="15" bcv="PSA.80.15">the stock which your right hand planted,the branch that you made strong for yourself.</v>
-			<v id="16" bcv="PSA.80.16">It’s burned with fire. It’s cut down. They perish at your rebuke.</v>
+			<v id="16" bcv="PSA.80.16">It’s burned with fire. It’s cut down. <emo_lang emotion="anger" tone="righteousness">They perish at your rebuke</emo_lang>.</v>
 			<v id="17" bcv="PSA.80.17">Let your hand be on the man of your right hand,on the son of man whom you made strong for yourself.</v>
-			<v id="18" bcv="PSA.80.18">So we will not turn away from you. Revive us, and we will call on your name.</v>
-			<v id="19" bcv="PSA.80.19">Turn us again, Yahweh God of Armies. Cause your face to shine, and we will be saved.</v>
+			<v id="18" bcv="PSA.80.18"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">So we will not turn away from you. Revive us, and we will call on your name</emo_lang>.</v>
+			<v id="19" bcv="PSA.80.19"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Turn us again, Yahweh God of Armies. Cause your face to shine, and we will be saved</emo_lang>.</v>
 		</c>
 		<c id="81">
-			<v id="1" bcv="PSA.81.1">Sing aloud to God, our strength!Make a joyful shout to the God of Jacob!</v>
-			<v id="2" bcv="PSA.81.2">Raise a song, and bring here the tambourine,the pleasant lyre with the harp.</v>
-			<v id="3" bcv="PSA.81.3">Blow the trumpet at the New Moon,at the full moon, on our feast day.</v>
+			<v id="1" bcv="PSA.81.1"><emo_lang emotion="joy" tone="petitioning" tone2="praise">Sing aloud to God, our strength! Make a joyful shout to the God of Jacob</emo_lang>!</v>
+			<v id="2" bcv="PSA.81.2"><emo_lang emotion="joy" tone="petitioning" tone2="praise">Raise a song, and bring here the tambourine,the pleasant lyre with the harp</emo_lang>.</v>
+			<v id="3" bcv="PSA.81.3"><emo_lang emotion="joy" tone="petitioning" tone2="praise">Blow the trumpet at the New Moon</emo_lang>,at the full moon, on our feast day.</v>
 			<v id="4" bcv="PSA.81.4">For it is a statute for Israel,an ordinance of the God of Jacob.</v>
 			<v id="5" bcv="PSA.81.5">He appointed it in Joseph for a covenant,when he went out over the land of Egypt,I heard a language that I didn’t know.</v>
 			<v id="6" bcv="PSA.81.6">“I removed his shoulder from the burden. His hands were freed from the basket.</v>
@@ -1506,11 +1506,11 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="9" bcv="PSA.81.9">There shall be no strange god in you,neither shall you worship any foreign god.</v>
 			<v id="10" bcv="PSA.81.10">I am Yahweh, your God,who brought you up out of the land of Egypt. Open your mouth wide, and I will fill it.</v>
 			<v id="11" bcv="PSA.81.11">But my people didn’t listen to my voice. Israel desired none of me.</v>
-			<v id="12" bcv="PSA.81.12">So I let them go after the stubbornness of their hearts,that they might walk in their own counsels.</v>
-			<v id="13" bcv="PSA.81.13">Oh that my people would listen to me,that Israel would walk in my ways!</v>
-			<v id="14" bcv="PSA.81.14">I would soon subdue their enemies,and turn my hand against their adversaries.</v>
-			<v id="15" bcv="PSA.81.15">The haters of Yahweh would cringe before him,and their punishment would last forever.</v>
-			<v id="16" bcv="PSA.81.16">But he would have also fed them with the finest of the wheat. I will satisfy you with honey out of the rock.”</v>
+			<v id="12" bcv="PSA.81.12"><emo_lang emotion="anger" tone="righteousness">So I let them go after the stubbornness of their hearts,that they might walk in their own counsels</emo_lang>.</v>
+			<v id="13" bcv="PSA.81.13"><emo_lang emotion="anger" tone="righteousness">Oh that my people would listen to me,that Israel would walk in my ways</emo_lang>!</v>
+			<v id="14" bcv="PSA.81.14"><emo_lang emotion="anger" tone="righteousness">I would soon subdue their enemies,and turn my hand against their adversaries</emo_lang>.</v>
+			<v id="15" bcv="PSA.81.15">The haters of Yahweh would cringe before him,and <emo_lang emotion="anger" tone="righteousness">their punishment would last forever</emo_lang>.</v>
+			<v id="16" bcv="PSA.81.16">But he would have also fed them with the finest of the wheat. <emo_lang emotion="contentment" tone="boasting">I will satisfy you with honey out of the rock</emo_lang>.”</v>
 		</c>
 		<c id="82">
 			<v id="1" bcv="PSA.82.1">od presides in the great assembly. He judges among the gods.</v>
@@ -1524,76 +1524,76 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="8" bcv="PSA.82.8">Arise, God, judge the earth,for you inherit all of the nations.</v>
 		</c>
 		<c id="83">
-			<v id="1" bcv="PSA.83.1">God, don’t keep silent. Don’t keep silent,and don’t be still, God.</v>
-			<v id="2" bcv="PSA.83.2">For, behold, your enemies are stirred up. Those who hate you have lifted up their heads.</v>
-			<v id="3" bcv="PSA.83.3">They conspire with cunning against your people. They plot against your cherished ones.</v>
-			<v id="4" bcv="PSA.83.4">“Come,” they say, “let’s destroy them as a nation,that the name of Israel may be remembered no more.”</v>
-			<v id="5" bcv="PSA.83.5">For they have conspired together with one mind. They form an alliance against you.</v>
+			<v id="1" bcv="PSA.83.1"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">God, don’t keep silent. Don’t keep silent,and don’t be still, God</emo_lang>.</v>
+			<v id="2" bcv="PSA.83.2"><emo_lang emotion="anger" tone="anger">For, behold, your enemies are stirred up. Those who hate you have lifted up their heads</emo_lang>.</v>
+			<v id="3" bcv="PSA.83.3"><emo_lang emotion="anger" tone="anger" tone2="righteousness">They conspire with cunning against your people. They plot against your cherished ones</emo_lang>.</v>
+			<v id="4" bcv="PSA.83.4">“Come,” they say, “<emo_lang emotion="anger" tone="anger" tone2="violence">let’s destroy them as a nation,that the name of Israel may be remembered no more</emo_lang>.”</v>
+			<v id="5" bcv="PSA.83.5"><emo_lang emotion="anger" tone="anger" tone2="righteousness">For they have conspired together with one mind. They form an alliance against you</emo_lang>.</v>
 			<v id="6" bcv="PSA.83.6">The tents of Edom and the Ishmaelites;Moab, and the Hagrites;</v>
 			<v id="7" bcv="PSA.83.7">Gebal, Ammon, and Amalek;Philistia with the inhabitants of Tyre;</v>
 			<v id="8" bcv="PSA.83.8">Assyria also is joined with them. They have helped the children of Lot. 
 			</v>
-			<v id="9" bcv="PSA.83.9">Do to them as you did to Midian,as to Sisera, as to Jabin, at the river Kishon;</v>
+			<v id="9" bcv="PSA.83.9"><emo_lang emotion="anger" tone="petitioning">Do to them as you did to Midian,as to Sisera, as to Jabin, at the river Kishon</emo_lang>;</v>
 			<v id="10" bcv="PSA.83.10">who perished at Endor,who became as dung for the earth.</v>
 			<v id="11" bcv="PSA.83.11">Make their nobles like Oreb and Zeeb;yes, all their princes like Zebah and Zalmunna;</v>
 			<v id="12" bcv="PSA.83.12">who said, “Let’s take possession of God’s pasture lands.”</v>
-			<v id="13" bcv="PSA.83.13">My God, make them like tumbleweed;like chaff before the wind.</v>
+			<v id="13" bcv="PSA.83.13">My God, <emo_lang emotion="anger" tone="petitioning">make them like tumbleweed;like chaff before the wind</emo_lang>.</v>
 			<v id="14" bcv="PSA.83.14">As the fire that burns the forest,as the flame that sets the mountains on fire,</v>
-			<v id="15" bcv="PSA.83.15">so pursue them with your tempest,and terrify them with your storm.</v>
-			<v id="16" bcv="PSA.83.16">Fill their faces with confusion,that they may seek your name, Yahweh.</v>
-			<v id="17" bcv="PSA.83.17">Let them be disappointed and dismayed forever. Yes, let them be confounded and perish;</v>
-			<v id="18" bcv="PSA.83.18">that they may know that you alone, whose name is Yahweh,are the Most High over all the earth.</v>
+			<v id="15" bcv="PSA.83.15">so <emo_lang emotion="anger" tone="petitioning">pursue them with your tempest,and terrify them with your storm</emo_lang>.</v>
+			<v id="16" bcv="PSA.83.16"><emo_lang emotion="anger" tone="petitioning">Fill their faces with confusion,that they may seek your name, Yahweh</emo_lang>.</v>
+			<v id="17" bcv="PSA.83.17"><emo_lang emotion="anger" tone="petitioning">Let them be disappointed and dismayed forever. Yes, let them be confounded and perish</emo_lang>;</v>
+			<v id="18" bcv="PSA.83.18"><emo_lang emotion="anger" tone="petitioning">that they may know that you alone, whose name is Yahweh,are the Most High over all the earth</emo_lang>.</v>
 		</c>
 		<c id="84">
-			<v id="1" bcv="PSA.84.1">How lovely are your dwellings,Yahweh of Armies!</v>
-			<v id="2" bcv="PSA.84.2">My soul longs, and even faints for the courts of Yahweh. My heart and my flesh cry out for the living God.</v>
+			<v id="1" bcv="PSA.84.1"><emo_lang emotion="joy" tone="praise">How lovely are your dwellings,Yahweh of Armies</emo_lang>!</v>
+			<v id="2" bcv="PSA.84.2"><emo_lang emotion="joy" tone="pleading">My soul longs, and even faints for the courts of Yahweh. My heart and my flesh cry out for the living God</emo_lang>.</v>
 			<v id="3" bcv="PSA.84.3">Yes, the sparrow has found a home,and the swallow a nest for herself, where she may have her young,near your altars, Yahweh of Armies, my King, and my God.</v>
-			<v id="4" bcv="PSA.84.4">Blessed are those who dwell in your house. They are always praising you. 
+			<v id="4" bcv="PSA.84.4"><emo_lang emotion="joy" tone="praise">Blessed are those who dwell in your house. They are always praising you</emo_lang>. 
 			</v>
-			<v id="5" bcv="PSA.84.5">Blessed are those whose strength is in you;who have set their hearts on a pilgrimage.</v>
+			<v id="5" bcv="PSA.84.5"><emo_lang emotion="joy" tone="praise">Blessed are those whose strength is in you;who have set their hearts on a pilgrimage</emo_lang>.</v>
 			<v id="6" bcv="PSA.84.6">Passing through the valley of Weeping, they make it a place of springs. Yes, the autumn rain covers it with blessings.</v>
 			<v id="7" bcv="PSA.84.7">They go from strength to strength. Everyone of them appears before God in Zion.</v>
-			<v id="8" bcv="PSA.84.8">Yahweh, God of Armies, hear my prayer. Listen, God of Jacob. 
+			<v id="8" bcv="PSA.84.8"><emo_lang emotion="contentment" tone="pleading">Yahweh, God of Armies, hear my prayer. Listen, God of Jacob</emo_lang>. 
 			</v>
 			<v id="9" bcv="PSA.84.9">Behold, God our shield,look at the face of your anointed.</v>
-			<v id="10" bcv="PSA.84.10">For a day in your courts is better than a thousand. I would rather be a doorkeeper in the house of my God,than to dwell in the tents of wickedness.</v>
-			<v id="11" bcv="PSA.84.11">For Yahweh God is a sun and a shield. Yahweh will give grace and glory. He withholds no good thing from those who walk blamelessly.</v>
-			<v id="12" bcv="PSA.84.12">Yahweh of Armies,blessed is the man who trusts in you.</v>
+			<v id="10" bcv="PSA.84.10"><emo_lang emotion="joy" tone="praise">For a day in your courts is better than a thousand. I would rather be a doorkeeper in the house of my God,than to dwell in the tents of wickedness</emo_lang>.</v>
+			<v id="11" bcv="PSA.84.11"><emo_lang emotion="joy" tone="praise">For Yahweh God is a sun and a shield. Yahweh will give grace and glory. He withholds no good thing from those who walk blamelessly</emo_lang>.</v>
+			<v id="12" bcv="PSA.84.12"><emo_lang emotion="joy" tone="praise">Yahweh of Armies,blessed is the man who trusts in you</emo_lang>.</v>
 		</c>
 		<c id="85">
-			<v id="1" bcv="PSA.85.1">Yahweh, you have been favorable to your land. You have restored the fortunes of Jacob.</v>
-			<v id="2" bcv="PSA.85.2">You have forgiven the iniquity of your people. You have covered all their sin. 
+			<v id="1" bcv="PSA.85.1"><emo_lang emotion="joy" tone="praise">Yahweh, you have been favorable to your land. You have restored the fortunes of Jacob</emo_lang>.</v>
+			<v id="2" bcv="PSA.85.2"><emo_lang emotion="joy" tone="praise">You have forgiven the iniquity of your people. You have covered all their sin</emo_lang>. 
 			</v>
-			<v id="3" bcv="PSA.85.3">You have taken away all your wrath. You have turned from the fierceness of your anger.</v>
-			<v id="4" bcv="PSA.85.4">Turn us, God of our salvation,and cause your indignation toward us to cease.</v>
-			<v id="5" bcv="PSA.85.5">Will you be angry with us forever?Will you draw out your anger to all generations?</v>
-			<v id="6" bcv="PSA.85.6">Won’t you revive us again,that your people may rejoice in you?</v>
-			<v id="7" bcv="PSA.85.7">Show us your loving kindness, Yahweh. Grant us your salvation.</v>
+			<v id="3" bcv="PSA.85.3"><emo_lang emotion="joy" tone="praise">You have taken away all your wrath. You have turned from the fierceness of your anger</emo_lang>.</v>
+			<v id="4" bcv="PSA.85.4"><emo_lang emotion="contentment" tone="petitioning">Turn us, God of our salvation,and cause your indignation toward us to cease</emo_lang>.</v>
+			<v id="5" bcv="PSA.85.5"><emo_lang emotion="anger" tone="anxiety" tone2="fear">Will you be angry with us forever?Will you draw out your anger to all generations</emo_lang>?</v>
+			<v id="6" bcv="PSA.85.6"><emo_lang emotion="fear" tone="anxiety">Won’t you revive us again,that your people may rejoice in you</emo_lang>?</v>
+			<v id="7" bcv="PSA.85.7"><emo_lang emotion="contentment" tone="petitioning" tone2="praise">Show us your loving kindness, Yahweh. Grant us your salvation</emo_lang>.</v>
 			<v id="8" bcv="PSA.85.8">I will hear what God, Yahweh, will speak,for he will speak peace to his people, his saints;but let them not turn again to folly.</v>
-			<v id="9" bcv="PSA.85.9">Surely his salvation is near those who fear him,that glory may dwell in our land.</v>
-			<v id="10" bcv="PSA.85.10">Mercy and truth meet together. Righteousness and peace have kissed each other.</v>
-			<v id="11" bcv="PSA.85.11">Truth springs out of the earth. Righteousness has looked down from heaven.</v>
-			<v id="12" bcv="PSA.85.12">Yes, Yahweh will give that which is good. Our land will yield its increase.</v>
-			<v id="13" bcv="PSA.85.13">Righteousness goes before him,And prepares the way for his steps.</v>
+			<v id="9" bcv="PSA.85.9"><emo_lang emotion="joy" tone="praise" tone2="boasting">Surely his salvation is near those who fear him,that glory may dwell in our land</emo_lang>.</v>
+			<v id="10" bcv="PSA.85.10"><emo_lang emotion="contentment" tone="righteousness">Mercy and truth meet together. Righteousness and peace have kissed each other</emo_lang>.</v>
+			<v id="11" bcv="PSA.85.11">Truth springs out of the earth. <emo_lang emotion="contentment" tone="righteousness">Righteousness has looked down from heaven</emo_lang>.</v>
+			<v id="12" bcv="PSA.85.12"><emo_lang emotion="joy" tone="praise">Yes, Yahweh will give that which is good. Our land will yield its increase</emo_lang>.</v>
+			<v id="13" bcv="PSA.85.13"><emo_lang emotion="joy" tone="praise" tone2="righteousness">Righteousness goes before him,And prepares the way for his steps</emo_lang>.</v>
 		</c>
 		<c id="86">
-			<v id="1" bcv="PSA.86.1">Hear, Yahweh, and answer me,for I am poor and needy.</v>
-			<v id="2" bcv="PSA.86.2">Preserve my soul, for I am godly. You, my God, save your servant who trusts in you.</v>
-			<v id="3" bcv="PSA.86.3">Be merciful to me, Lord,for I call to you all day long.</v>
-			<v id="4" bcv="PSA.86.4">Bring joy to the soul of your servant,for to you, Lord, do I lift up my soul.</v>
-			<v id="5" bcv="PSA.86.5">For you, Lord, are good, and ready to forgive;abundant in loving kindness to all those who call on you.</v>
+			<v id="1" bcv="PSA.86.1"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Hear, Yahweh, and answer me,for I am poor and needy</emo_lang>.</v>
+			<v id="2" bcv="PSA.86.2"><emo_lang emotion="contentment" tone="petitioning" tone2="boasting">Preserve my soul, for I am godly. You, my God, save your servant who trusts in you</emo_lang>.</v>
+			<v id="3" bcv="PSA.86.3"><emo_lang emotion="contentment" tone="petitioning">Be merciful to me, Lord,for I call to you all day long</emo_lang>.</v>
+			<v id="4" bcv="PSA.86.4"><emo_lang emotion="joy" tone="petitioning">Bring joy to the soul of your servant,for to you, Lord, do I lift up my soul</emo_lang>.</v>
+			<v id="5" bcv="PSA.86.5">For <emo_lang emotion="contentment" tone="praise">you, Lord, are good, and ready to forgive;abundant in loving kindness to all those who call on you</emo_lang>.</v>
 			<v id="6" bcv="PSA.86.6">Hear, Yahweh, my prayer. Listen to the voice of my petitions.</v>
 			<v id="7" bcv="PSA.86.7">In the day of my trouble I will call on you,for you will answer me.</v>
-			<v id="8" bcv="PSA.86.8">There is no one like you among the gods, Lord,nor any deeds like your deeds.</v>
-			<v id="9" bcv="PSA.86.9">All nations you have made will come and worship before you, Lord. They shall glorify your name.</v>
-			<v id="10" bcv="PSA.86.10">For you are great, and do wondrous things. You are God alone.</v>
+			<v id="8" bcv="PSA.86.8"><emo_lang emotion="contentment" tone="praise">There is no one like you among the gods, Lord,nor any deeds like your deeds</emo_lang>.</v>
+			<v id="9" bcv="PSA.86.9"><emo_lang emotion="contentment" tone="praise">All nations you have made will come and worship before you, Lord. They shall glorify your name</emo_lang>.</v>
+			<v id="10" bcv="PSA.86.10"><emo_lang emotion="contentment" tone="praise">For you are great, and do wondrous things. You are God alone</emo_lang>.</v>
 			<v id="11" bcv="PSA.86.11">Teach me your way, Yahweh. I will walk in your truth. Make my heart undivided to fear your name.</v>
-			<v id="12" bcv="PSA.86.12">I will praise you, Lord my God, with my whole heart. I will glorify your name forever more.</v>
-			<v id="13" bcv="PSA.86.13">For your loving kindness is great toward me. You have delivered my soul from the lowest Sheol.</v>
-			<v id="14" bcv="PSA.86.14">God, the proud have risen up against me. A company of violent men have sought after my soul,and they don’t hold regard for you before them.</v>
-			<v id="15" bcv="PSA.86.15">But you, Lord, are a merciful and gracious God,slow to anger, and abundant in loving kindness and truth.</v>
-			<v id="16" bcv="PSA.86.16">Turn to me, and have mercy on me!Give your strength to your servant. Save the son of your servant.</v>
-			<v id="17" bcv="PSA.86.17">Show me a sign of your goodness,that those who hate me may see it, and be shamed,because you, Yahweh, have helped me, and comforted me.</v>
+			<v id="12" bcv="PSA.86.12"><emo_lang emotion="contentment" tone="praise">I will praise you, Lord my God, with my whole heart. I will glorify your name forever more</emo_lang>.</v>
+			<v id="13" bcv="PSA.86.13"><emo_lang emotion="contentment" tone="praise">For your loving kindness is great toward me. You have delivered my soul from the lowest Sheol</emo_lang>.</v>
+			<v id="14" bcv="PSA.86.14"><emo_lang emotion="fear" tone="righteousness" tone2="violence">God, the proud have risen up against me. A company of violent men have sought after my soul,and they don’t hold regard for you before them</emo_lang>.</v>
+			<v id="15" bcv="PSA.86.15"><emo_lang emotion="contentment" tone="praise">But you, Lord, are a merciful and gracious God,slow to anger, and abundant in loving kindness and truth</emo_lang>.</v>
+			<v id="16" bcv="PSA.86.16"><emo_lang emotion="fear" tone="petitioning">Turn to me, and have mercy on me!Give your strength to your servant. Save the son of your servant</emo_lang>.</v>
+			<v id="17" bcv="PSA.86.17"><emo_lang emotion="fear" tone="petitioning" tone2="praise">Show me a sign of your goodness,that those who hate me may see it, and be shamed,because you, Yahweh, have helped me, and comforted me</emo_lang>.</v>
 		</c>
 		<c id="87">
 			<v id="1" bcv="PSA.87.1">His foundation is in the holy mountains.</v>
@@ -1854,61 +1854,61 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="8" bcv="PSA.101.8">Morning by morning, <emo_lang emotion="anger" tone="righteousness">I will destroy all the wicked of the land, to cut off all the workers of iniquity from Yahweh’s city</emo_lang>.</v>
 		</c>
 		<c id="102">
-			<v id="1" bcv="PSA.102.1">Hear my prayer, Yahweh!Let my cry come to you.</v>
-			<v id="2" bcv="PSA.102.2">Don’t hide your face from me in the day of my distress. Turn your ear to me. Answer me quickly in the day when I call.</v>
-			<v id="3" bcv="PSA.102.3">For my days consume away like smoke. My bones are burned as a torch.</v>
-			<v id="4" bcv="PSA.102.4">My heart is blighted like grass, and withered,for I forget to eat my bread.</v>
+			<v id="1" bcv="PSA.102.1"><emo_lang emotion="fear" tone="anxiety" tone2="pleading">Hear my prayer, Yahweh!Let my cry come to you</emo_lang>.</v>
+			<v id="2" bcv="PSA.102.2"><emo_lang emotion="fear" tone="anxiety" tone2="pleading">Don’t hide your face from me in the day of my distress. Turn your ear to me. Answer me quickly in the day when I call</emo_lang>.</v>
+			<v id="3" bcv="PSA.102.3"><emo_lang emotion="fear" tone="anxiety">For my days consume away like smoke. My bones are burned as a torch</emo_lang>.</v>
+			<v id="4" bcv="PSA.102.4"><emo_lang emotion="fear" tone="anxiety">My heart is blighted like grass, and withered,for I forget to eat my bread</emo_lang>.</v>
 			<v id="5" bcv="PSA.102.5">By reason of the voice of my groaning,my bones stick to my skin.</v>
 			<v id="6" bcv="PSA.102.6">I am like a pelican of the wilderness. I have become as an owl of the waste places.</v>
 			<v id="7" bcv="PSA.102.7">I watch, and have become like a sparrow that is alone on the housetop.</v>
-			<v id="8" bcv="PSA.102.8">My enemies reproach me all day. Those who are mad at me use my name as a curse.</v>
+			<v id="8" bcv="PSA.102.8"><emo_lang emotion="fear" tone="anxiety">My enemies reproach me all day. Those who are mad at me use my name as a curse</emo_lang>.</v>
 			<v id="9" bcv="PSA.102.9">For I have eaten ashes like bread,and mixed my drink with tears,</v>
-			<v id="10" bcv="PSA.102.10">because of your indignation and your wrath;for you have taken me up and thrown me away.</v>
+			<v id="10" bcv="PSA.102.10"><emo_lang emotion="fear" tone="anxiety" tone2="violence">because of your indignation and your wrath;for you have taken me up and thrown me away</emo_lang>.</v>
 			<v id="11" bcv="PSA.102.11">My days are like a long shadow. I have withered like grass.</v>
-			<v id="12" bcv="PSA.102.12">But you, Yahweh, will remain forever;your renown endures to all generations.</v>
-			<v id="13" bcv="PSA.102.13">You will arise and have mercy on Zion;for it is time to have pity on her. Yes, the set time has come.</v>
+			<v id="12" bcv="PSA.102.12">But <emo_lang emotion="contentment" tone="praise">you, Yahweh, will remain forever;your renown endures to all generations</emo_lang>.</v>
+			<v id="13" bcv="PSA.102.13"><emo_lang emotion="contentment" tone="praise" tone2="pleading">You will arise and have mercy on Zion;for it is time to have pity on her. Yes, the set time has come</emo_lang>.</v>
 			<v id="14" bcv="PSA.102.14">For your servants take pleasure in her stones,and have pity on her dust.</v>
-			<v id="15" bcv="PSA.102.15">So the nations will fear Yahweh’s name;all the kings of the earth your glory.</v>
-			<v id="16" bcv="PSA.102.16">For Yahweh has built up Zion. He has appeared in his glory.</v>
-			<v id="17" bcv="PSA.102.17">He has responded to the prayer of the destitute,and has not despised their prayer.</v>
-			<v id="18" bcv="PSA.102.18">This will be written for the generation to come. A people which will be created will praise Yah.</v>
+			<v id="15" bcv="PSA.102.15">So <emo_lang emotion="fear" tone="fear">the nations will fear Yahweh’s name;all the kings of the earth your glory</emo_lang>.</v>
+			<v id="16" bcv="PSA.102.16">For <emo_lang emotion="contentment" tone="praise">Yahweh has built up Zion. He has appeared in his glory</emo_lang>.</v>
+			<v id="17" bcv="PSA.102.17"><emo_lang emotion="contentment" tone="praise">He has responded to the prayer of the destitute,and has not despised their prayer</emo_lang>.</v>
+			<v id="18" bcv="PSA.102.18">This will be written for the generation to come. <emo_lang emotion="contentment" tone="praise">A people which will be created will praise Yah</emo_lang>.</v>
 			<v id="19" bcv="PSA.102.19">For he has looked down from the height of his sanctuary. From heaven, Yahweh saw the earth;</v>
 			<v id="20" bcv="PSA.102.20">to hear the groans of the prisoner;to free those who are condemned to death;</v>
-			<v id="21" bcv="PSA.102.21">that men may declare Yahweh’s name in Zion,and his praise in Jerusalem;</v>
+			<v id="21" bcv="PSA.102.21"><emo_lang emotion="contentment" tone="praise">that men may declare Yahweh’s name in Zion,and his praise in Jerusalem</emo_lang>;</v>
 			<v id="22" bcv="PSA.102.22">when the peoples are gathered together,the kingdoms, to serve Yahweh.</v>
-			<v id="23" bcv="PSA.102.23">He weakened my strength along the course. He shortened my days.</v>
-			<v id="24" bcv="PSA.102.24">I said, “My God, don’t take me away in the middle of my days. Your years are throughout all generations.</v>
+			<v id="23" bcv="PSA.102.23"><emo_lang emotion="fear" tone="anxiety">He weakened my strength along the course. He shortened my days</emo_lang>.</v>
+			<v id="24" bcv="PSA.102.24">I said, “<emo_lang emotion="fear" tone="anxiety" tone2="pleading">My God, don’t take me away in the middle of my days</emo_lang>. Your years are throughout all generations.</v>
 			<v id="25" bcv="PSA.102.25">Of old, you laid the foundation of the earth. The heavens are the work of your hands.</v>
-			<v id="26" bcv="PSA.102.26">They will perish, but you will endure. Yes, all of them will wear out like a garment. You will change them like a cloak, and they will be changed.</v>
-			<v id="27" bcv="PSA.102.27">But you are the same. Your years will have no end.</v>
+			<v id="26" bcv="PSA.102.26">They will perish, but <emo_lang emotion="contentment" tone="praise">you will endure. Yes, all of them will wear out like a garment. You will change them like a cloak, and they will be changed</emo_lang>.</v>
+			<v id="27" bcv="PSA.102.27">But you are the same. <emo_lang emotion="contentment" tone="praise">Your years will have no end</emo_lang>.</v>
 			<v id="28" bcv="PSA.102.28">The children of your servants will continue. Their offspring will be established before you.”</v>
 		</c>
 		<c id="103">
-			<v id="1" bcv="PSA.103.1">Praise Yahweh, my soul!All that is within me, praise his holy name!</v>
-			<v id="2" bcv="PSA.103.2">Praise Yahweh, my soul,and don’t forget all his benefits;</v>
+			<v id="1" bcv="PSA.103.1"><emo_lang emotion="joy" tone="praise">Praise Yahweh, my soul!All that is within me, praise his holy name</emo_lang>!</v>
+			<v id="2" bcv="PSA.103.2"><emo_lang emotion="joy" tone="praise">Praise Yahweh, my soul,and don’t forget all his benefits</emo_lang>;</v>
 			<v id="3" bcv="PSA.103.3">who forgives all your sins;who heals all your diseases;</v>
 			<v id="4" bcv="PSA.103.4">who redeems your life from destruction;who crowns you with loving kindness and tender mercies;</v>
 			<v id="5" bcv="PSA.103.5">who satisfies your desire with good things,so that your youth is renewed like the eagle’s.</v>
-			<v id="6" bcv="PSA.103.6">Yahweh executes righteous acts,and justice for all who are oppressed.</v>
-			<v id="7" bcv="PSA.103.7">He made known his ways to Moses,his deeds to the children of Israel.</v>
-			<v id="8" bcv="PSA.103.8">Yahweh is merciful and gracious,slow to anger, and abundant in loving kindness.</v>
-			<v id="9" bcv="PSA.103.9">He will not always accuse;neither will he stay angry forever.</v>
+			<v id="6" bcv="PSA.103.6"><emo_lang emotion="contentment" tone="praise" tone2="righteousness">Yahweh executes righteous acts,and justice for all who are oppressed</emo_lang>.</v>
+			<v id="7" bcv="PSA.103.7">He made known his ways to Moses, his deeds to the children of Israel.</v>
+			<v id="8" bcv="PSA.103.8"><emo_lang emotion="joy" tone="praise">Yahweh is merciful and gracious,slow to anger, and abundant in loving kindness</emo_lang>.</v>
+			<v id="9" bcv="PSA.103.9"><emo_lang emotion="joy" tone="praise">He will not always accuse;neither will he stay angry forever</emo_lang>.</v>
 			<v id="10" bcv="PSA.103.10">He has not dealt with us according to our sins,nor repaid us for our iniquities.</v>
-			<v id="11" bcv="PSA.103.11">For as the heavens are high above the earth,so great is his loving kindness toward those who fear him.</v>
-			<v id="12" bcv="PSA.103.12">As far as the east is from the west,so far has he removed our transgressions from us.</v>
-			<v id="13" bcv="PSA.103.13">Like a father has compassion on his children,so Yahweh has compassion on those who fear him.</v>
+			<v id="11" bcv="PSA.103.11">For as the heavens are high above the earth,so <emo_lang emotion="joy" tone="praise">great is his loving kindness toward those who fear him</emo_lang>.</v>
+			<v id="12" bcv="PSA.103.12">As far as the east is from the west,so far has <emo_lang emotion="joy" tone="praise">he removed our transgressions from us</emo_lang>.</v>
+			<v id="13" bcv="PSA.103.13">Like a father has compassion on his children,so <emo_lang emotion="joy" tone="praise">Yahweh has compassion on those who fear him</emo_lang>.</v>
 			<v id="14" bcv="PSA.103.14">For he knows how we are made. He remembers that we are dust.</v>
 			<v id="15" bcv="PSA.103.15">As for man, his days are like grass. As a flower of the field, so he flourishes.</v>
 			<v id="16" bcv="PSA.103.16">For the wind passes over it, and it is gone. Its place remembers it no more.</v>
-			<v id="17" bcv="PSA.103.17">But Yahweh’s loving kindness is from everlasting to everlasting with those who fear him,his righteousness to children’s children;</v>
+			<v id="17" bcv="PSA.103.17">But <emo_lang emotion="joy" tone="praise" tone2="righteousness">Yahweh’s loving kindness is from everlasting to everlasting with those who fear him,his righteousness to children’s children</emo_lang>;</v>
 			<v id="18" bcv="PSA.103.18">to those who keep his covenant,to those who remember to obey his precepts.</v>
 			<v id="19" bcv="PSA.103.19">Yahweh has established his throne in the heavens. His kingdom rules over all.</v>
-			<v id="20" bcv="PSA.103.20">Praise Yahweh, you angels of his,who are mighty in strength, who fulfill his word,obeying the voice of his word.</v>
-			<v id="21" bcv="PSA.103.21">Praise Yahweh, all you armies of his,you servants of his, who do his pleasure.</v>
-			<v id="22" bcv="PSA.103.22">Praise Yahweh, all you works of his,in all places of his dominion. Praise Yahweh, my soul!</v>
+			<v id="20" bcv="PSA.103.20"><emo_lang emotion="joy" tone="praise">Praise Yahweh, you angels of his,who are mighty in strength, who fulfill his word,obeying the voice of his word</emo_lang>.</v>
+			<v id="21" bcv="PSA.103.21"><emo_lang emotion="joy" tone="praise">Praise Yahweh, all you armies of his,you servants of his, who do his pleasure</emo_lang>.</v>
+			<v id="22" bcv="PSA.103.22"><emo_lang emotion="joy" tone="praise">Praise Yahweh, all you works of his,in all places of his dominion. Praise Yahweh, my soul</emo_lang>!</v>
 		</c>
 		<c id="104">
-			<v id="1" bcv="PSA.104.1">Bless Yahweh, my soul. Yahweh, my God, you are very great. You are clothed with honor and majesty.</v>
+			<v id="1" bcv="PSA.104.1"><emo_lang emotion="joy" tone="praise">Bless Yahweh, my soul. Yahweh, my God, you are very great. You are clothed with honor and majesty</emo_lang>.</v>
 			<v id="2" bcv="PSA.104.2">He covers himself with light as with a garment. He stretches out the heavens like a curtain.</v>
 			<v id="3" bcv="PSA.104.3">He lays the beams of his rooms in the waters. He makes the clouds his chariot. He walks on the wings of the wind.</v>
 			<v id="4" bcv="PSA.104.4">He makes his messengers winds,and his servants flames of fire.</v>
@@ -1920,7 +1920,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="10" bcv="PSA.104.10">He sends springs into the valleys. They run among the mountains.</v>
 			<v id="11" bcv="PSA.104.11">They give drink to every animal of the field. The wild donkeys quench their thirst.</v>
 			<v id="12" bcv="PSA.104.12">The birds of the sky nest by them. They sing among the branches.</v>
-			<v id="13" bcv="PSA.104.13">He waters the mountains from his rooms. The earth is filled with the fruit of your works.</v>
+			<v id="13" bcv="PSA.104.13">He waters the mountains from his rooms. <emo_lang emotion="joy" tone="praise">The earth is filled with the fruit of your works</emo_lang>.</v>
 			<v id="14" bcv="PSA.104.14">He causes the grass to grow for the livestock,and plants for man to cultivate,that he may produce food out of the earth:</v>
 			<v id="15" bcv="PSA.104.15">wine that makes the heart of man glad,oil to make his face to shine,and bread that strengthens man’s heart.</v>
 			<v id="16" bcv="PSA.104.16">Yahweh’s trees are well watered,the cedars of Lebanon, which he has planted;</v>
@@ -1931,25 +1931,25 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="21" bcv="PSA.104.21">The young lions roar after their prey,and seek their food from God.</v>
 			<v id="22" bcv="PSA.104.22">The sun rises, and they steal away,and lie down in their dens.</v>
 			<v id="23" bcv="PSA.104.23">Man goes out to his work,to his labor until the evening.</v>
-			<v id="24" bcv="PSA.104.24">Yahweh, how many are your works!In wisdom, you have made them all. The earth is full of your riches.</v>
+			<v id="24" bcv="PSA.104.24"><emo_lang emotion="joy" tone="praise">Yahweh, how many are your works!In wisdom, you have made them all. The earth is full of your riches</emo_lang>.</v>
 			<v id="25" bcv="PSA.104.25">There is the sea, great and wide,in which are innumerable living things,both small and large animals.</v>
 			<v id="26" bcv="PSA.104.26">There the ships go,and leviathan, whom you formed to play there.</v>
 			<v id="27" bcv="PSA.104.27">These all wait for you,that you may give them their food in due season.</v>
-			<v id="28" bcv="PSA.104.28">You give to them; they gather. You open your hand; they are satisfied with good.</v>
+			<v id="28" bcv="PSA.104.28">You give to them; they gather. You open your hand; <emo_lang emotion="contentment" tone="praise">they are satisfied with good</emo_lang>.</v>
 			<v id="29" bcv="PSA.104.29">You hide your face: they are troubled;you take away their breath: they die, and return to the dust.</v>
 			<v id="30" bcv="PSA.104.30">You send out your Spirit and they are created. You renew the face of the ground.</v>
-			<v id="31" bcv="PSA.104.31">Let Yahweh’s glory endure forever. Let Yahweh rejoice in his works.</v>
-			<v id="32" bcv="PSA.104.32">He looks at the earth, and it trembles. He touches the mountains, and they smoke.</v>
-			<v id="33" bcv="PSA.104.33">I will sing to Yahweh as long as I live. I will sing praise to my God while I have any being.</v>
-			<v id="34" bcv="PSA.104.34">Let my meditation be sweet to him. I will rejoice in Yahweh.</v>
-			<v id="35" bcv="PSA.104.35">Let sinners be consumed out of the earth. Let the wicked be no more. Bless Yahweh, my soul. Praise Yah!</v>
+			<v id="31" bcv="PSA.104.31"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Let Yahweh’s glory endure forever. Let Yahweh rejoice in his works</emo_lang>.</v>
+			<v id="32" bcv="PSA.104.32"><emo_lang emotion="fear" tone="praise">He looks at the earth, and it trembles. He touches the mountains, and they smoke</emo_lang>.</v>
+			<v id="33" bcv="PSA.104.33"><emo_lang emotion="joy" tone="praise">I will sing to Yahweh as long as I live. I will sing praise to my God while I have any being</emo_lang>.</v>
+			<v id="34" bcv="PSA.104.34"><emo_lang emotion="joy" tone="praise">Let my meditation be sweet to him. I will rejoice in Yahweh</emo_lang>.</v>
+			<v id="35" bcv="PSA.104.35"><emo_lang emotion="anger" tone="righteousness" tone2="praise">Let sinners be consumed out of the earth. Let the wicked be no more. Bless Yahweh, my soul. Praise Yah</emo_lang>!</v>
 		</c>
 		<c id="105">
-			<v id="1" bcv="PSA.105.1">Give thanks to Yahweh! Call on his name!Make his doings known among the peoples.</v>
-			<v id="2" bcv="PSA.105.2">Sing to him, sing praises to him!Tell of all his marvelous works.</v>
-			<v id="3" bcv="PSA.105.3">Glory in his holy name. Let the heart of those who seek Yahweh rejoice.</v>
-			<v id="4" bcv="PSA.105.4">Seek Yahweh and his strength. Seek his face forever more.</v>
-			<v id="5" bcv="PSA.105.5">Remember his marvelous works that he has done;his wonders, and the judgments of his mouth,</v>
+			<v id="1" bcv="PSA.105.1"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Give thanks to Yahweh! Call on his name!Make his doings known among the peoples</emo_lang>.</v>
+			<v id="2" bcv="PSA.105.2"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Sing to him, sing praises to him!Tell of all his marvelous works</emo_lang>.</v>
+			<v id="3" bcv="PSA.105.3"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Glory in his holy name. Let the heart of those who seek Yahweh rejoice</emo_lang>.</v>
+			<v id="4" bcv="PSA.105.4"><emo_lang emotion="contentment" tone="praise" tone2="petitioning">Seek Yahweh and his strength. Seek his face forever more</emo_lang>.</v>
+			<v id="5" bcv="PSA.105.5"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Remember his marvelous works that he has done;his wonders, and the judgments of his mouth</emo_lang>,</v>
 			<v id="6" bcv="PSA.105.6">you offspring of Abraham, his servant,you children of Jacob, his chosen ones.</v>
 			<v id="7" bcv="PSA.105.7">He is Yahweh, our God. His judgments are in all the earth.</v>
 			<v id="8" bcv="PSA.105.8">He has remembered his covenant forever,the word which he commanded to a thousand generations,</v>
@@ -1987,9 +1987,9 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="40" bcv="PSA.105.40">They asked, and he brought quails,and satisfied them with the bread of the sky.</v>
 			<v id="41" bcv="PSA.105.41">He opened the rock, and waters gushed out. They ran as a river in the dry places.</v>
 			<v id="42" bcv="PSA.105.42">For he remembered his holy word,and Abraham, his servant.</v>
-			<v id="43" bcv="PSA.105.43">He brought his people out with joy,his chosen with singing.</v>
+			<v id="43" bcv="PSA.105.43"><emo_lang emotion="joy" tone="praise">He brought his people out with joy,his chosen with singing</emo_lang>.</v>
 			<v id="44" bcv="PSA.105.44">He gave them the lands of the nations. They took the labor of the peoples in possession,</v>
-			<v id="45" bcv="PSA.105.45">that they might keep his statutes,and observe his laws. Praise Yah!</v>
+			<v id="45" bcv="PSA.105.45">that they might keep his statutes,and observe his laws. <emo_lang emotion="joy" tone="praise">Praise Yah</emo_lang>!</v>
 		</c>
 		<c id="106">
 			<v id="1" bcv="PSA.106.1">Praise Yahweh!Give thanks to Yahweh, for he is good,for his loving kindness endures forever.</v>
