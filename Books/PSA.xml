@@ -831,28 +831,28 @@
 			<v id="14" bcv="PSA.48.14">For <emo_lang emotion="joy" tone="praise">this God is our God forever and ever. He will be our guide even to death</emo_lang>.</v>
 		</c>
 		<c id="49">
-			<v id="1" bcv="PSA.49.1">Hear this, all you peoples. Listen, all you inhabitants of the world,</v>
+			<v id="1" bcv="PSA.49.1"><emo_lang emotion="joy" tone="petitioning">Hear this, all you peoples. Listen</emo_lang>, all you inhabitants of the world,</v>
 			<v id="2" bcv="PSA.49.2">both low and high,rich and poor together.</v>
-			<v id="3" bcv="PSA.49.3">My mouth will speak words of wisdom. My heart shall utter understanding.</v>
-			<v id="4" bcv="PSA.49.4">I will incline my ear to a proverb. I will open my riddle on the harp.</v>
-			<v id="5" bcv="PSA.49.5">Why should I fear in the days of evil,when iniquity at my heels surrounds me?</v>
-			<v id="6" bcv="PSA.49.6">Those who trust in their wealth,and boast in the multitude of their riches—</v>
-			<v id="7" bcv="PSA.49.7">none of them can by any means redeem his brother,nor give God a ransom for him.</v>
-			<v id="8" bcv="PSA.49.8">For the redemption of their life is costly,no payment is ever enough,</v>
-			<v id="9" bcv="PSA.49.9">that he should live on forever,that he should not see corruption.</v>
+			<v id="3" bcv="PSA.49.3"><emo_lang emotion="joy" tone="righteousness">My mouth will speak words of wisdom. My heart shall utter understanding</emo_lang>.</v>
+			<v id="4" bcv="PSA.49.4"><emo_lang emotion="joy" tone="righteousness">I will incline my ear to a proverb</emo_lang>. I will open my riddle on the harp.</v>
+			<v id="5" bcv="PSA.49.5"><emo_lang emotion="contentment" tone="righteousness">Why should I fear in the days of evil,when iniquity at my heels surrounds me</emo_lang>?</v>
+			<v id="6" bcv="PSA.49.6"><emo_lang emotion="anger" tone="righteousness" tone2="boasting">Those who trust in their wealth,and boast in the multitude of their riches</emo_lang>—</v>
+			<v id="7" bcv="PSA.49.7"><emo_lang emotion="anger" tone="righteousness">none of them can by any means redeem his brother,nor give God a ransom for him</emo_lang>.</v>
+			<v id="8" bcv="PSA.49.8">For the <emo_lang emotion="anger" tone="righteousness">redemption of their life is costly</emo_lang>,no payment is ever enough,</v>
+			<v id="9" bcv="PSA.49.9"><emo_lang emotion="anger" tone="righteousness">that he should live on forever,that he should not see corruption</emo_lang>.</v>
 			<v id="10" bcv="PSA.49.10">For he sees that wise men die;likewise the fool and the senseless perish,and leave their wealth to others.</v>
 			<v id="11" bcv="PSA.49.11">Their inward thought is that their houses will endure forever,and their dwelling places to all generations. They name their lands after themselves.</v>
-			<v id="12" bcv="PSA.49.12">But man, despite his riches, doesn’t endure. He is like the animals that perish.</v>
-			<v id="13" bcv="PSA.49.13">This is the destiny of those who are foolish,and of those who approve their sayings. 
+			<v id="12" bcv="PSA.49.12">But <emo_lang emotion="contentment" tone="righteousness">man, despite his riches, doesn’t endure. He is like the animals that perish</emo_lang>.</v>
+			<v id="13" bcv="PSA.49.13"><emo_lang emotion="contentment" tone="righteousness">This is the destiny of those who are foolish,and of those who approve their sayings</emo_lang>. 
 			</v>
-			<v id="14" bcv="PSA.49.14">They are appointed as a flock for Sheol. Death shall be their shepherd. The upright shall have dominion over them in the morning. Their beauty shall decay in Sheol,far from their mansion.</v>
-			<v id="15" bcv="PSA.49.15">But God will redeem my soul from the power of Sheol,for he will receive me. 
+			<v id="14" bcv="PSA.49.14"><emo_lang emotion="contentment" tone="righteousness">They are appointed as a flock for Sheol. Death shall be their shepherd. The upright shall have dominion over them in the morning. Their beauty shall decay in Sheol,far from their mansion</emo_lang>.</v>
+			<v id="15" bcv="PSA.49.15">But <emo_lang emotion="joy" tone="praise">God will redeem my soul from the power of Sheol,for he will receive me</emo_lang>. 
 			</v>
 			<v id="16" bcv="PSA.49.16">Don’t be afraid when a man is made rich,when the glory of his house is increased;</v>
-			<v id="17" bcv="PSA.49.17">for when he dies he will carry nothing away. His glory won’t descend after him.</v>
+			<v id="17" bcv="PSA.49.17">for <emo_lang emotion="contentment" tone="righteousness">when he dies he will carry nothing away. His glory won’t descend after him</emo_lang>.</v>
 			<v id="18" bcv="PSA.49.18">Though while he lived he blessed his soul—and men praise you when you do well for yourself—</v>
-			<v id="19" bcv="PSA.49.19">he shall go to the generation of his fathers. They shall never see the light.</v>
-			<v id="20" bcv="PSA.49.20">A man who has riches without understanding,is like the animals that perish.</v>
+			<v id="19" bcv="PSA.49.19">he shall go to the generation of his fathers. <emo_lang emotion="contentment" tone="righteousness">They shall never see the light</emo_lang>.</v>
+			<v id="20" bcv="PSA.49.20">A man who has riches without understanding,is <emo_lang emotion="contentment" tone="righteousness" tone2="violence">like the animals that perish</emo_lang>.</v>
 		</c>
 		<c id="50">
 			<v id="1" bcv="PSA.50.1">The Mighty One, God, Yahweh, speaks,and calls the earth from sunrise to sunset.</v>
