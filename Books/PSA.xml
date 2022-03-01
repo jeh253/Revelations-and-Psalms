@@ -960,19 +960,19 @@
 			<v id="23" bcv="PSA.55.23">But you, God, <emo_lang emotion="anger" tone="violence" tone2="praise">will bring them down into the pit of destruction. Bloodthirsty and deceitful men shall not live out half their days</emo_lang>,but <emo_lang emotion="joy" tone="righteousness">I will trust in you</emo_lang>.</v>
 		</c>
 		<c id="56">
-			<v id="1" bcv="PSA.56.1">Be merciful to me, God, for man wants to swallow me up. All day long, he attacks and oppresses me.</v>
-			<v id="2" bcv="PSA.56.2">My enemies want to swallow me up all day long,for they are many who fight proudly against me.</v>
-			<v id="3" bcv="PSA.56.3">When I am afraid,I will put my trust in you.</v>
-			<v id="4" bcv="PSA.56.4">In God, I praise his word. In God, I put my trust. I will not be afraid. What can flesh do to me?</v>
-			<v id="5" bcv="PSA.56.5">All day long they twist my words. All their thoughts are against me for evil.</v>
-			<v id="6" bcv="PSA.56.6">They conspire and lurk,watching my steps, they are eager to take my life.</v>
-			<v id="7" bcv="PSA.56.7">Shall they escape by iniquity?In anger cast down the peoples, God.</v>
+			<v id="1" bcv="PSA.56.1"><emo_lang emotion="fear" tone="pleading">Be merciful to me</emo_lang>, God, for <emo_lang emotion="fear" tone="fear">man wants to swallow me up</emo_lang>. All day long, <emo_lang emotion="fear" tone="violence">he attacks and oppresses me</emo_lang>.</v>
+			<v id="2" bcv="PSA.56.2"><emo_lang emotion="fear" tone="fear">My enemies want to swallow me up all day long</emo_lang>,for <emo_lang emotion="fear" tone="violence">they are many who fight proudly against me</emo_lang>.</v>
+			<v id="3" bcv="PSA.56.3"><emo_lang emotion="fear" tone="righteousness" tone2="praise">When I am afraid,I will put my trust in you</emo_lang>.</v>
+			<v id="4" bcv="PSA.56.4">In God, <emo_lang emotion="joy" tone="praise">I praise his word</emo_lang>. <emo_lang emotion="joy" tone="righteousness">In God, I put my trust. I will not be afraid</emo_lang>. What can flesh do to me?</v>
+			<v id="5" bcv="PSA.56.5">All day long <emo_lang emotion="anger" tone="anxiety">they twist my words. All their thoughts are against me for evil</emo_lang>.</v>
+			<v id="6" bcv="PSA.56.6"><emo_lang emotion="anger" tone="fear">They conspire and lurk</emo_lang>,watching my steps, <emo_lang emotion="fear" tone="violence">they are eager to take my life</emo_lang>.</v>
+			<v id="7" bcv="PSA.56.7">Shall they escape by iniquity?<emo_lang emotion="anger" tone="petitioning">In anger cast down the peoples</emo_lang>, God.</v>
 			<v id="8" bcv="PSA.56.8">You count my wanderings. You put my tears into your container. Aren’t they in your book?</v>
-			<v id="9" bcv="PSA.56.9">Then my enemies shall turn back in the day that I call. I know this, that God is for me.</v>
-			<v id="10" bcv="PSA.56.10">In God, I will praise his word. In Yahweh, I will praise his word.</v>
-			<v id="11" bcv="PSA.56.11">I have put my trust in God. I will not be afraid. What can man do to me?</v>
-			<v id="12" bcv="PSA.56.12">Your vows are on me, God. I will give thank offerings to you.</v>
-			<v id="13" bcv="PSA.56.13">For you have delivered my soul from death,and prevented my feet from falling,that I may walk before God in the light of the living.</v>
+			<v id="9" bcv="PSA.56.9">Then my enemies shall turn back in the day that I call. I know this, that <emo_lang emotion="joy" tone="righteousness">God is for me</emo_lang>.</v>
+			<v id="10" bcv="PSA.56.10">In God, <emo_lang emotion="joy" tone="praise" tone2="righteousness">I will praise his word. In Yahweh, I will praise his word</emo_lang>.</v>
+			<v id="11" bcv="PSA.56.11"><emo_lang emotion="joy" tone="righteousness">I have put my trust in God. I will not be afraid</emo_lang>. What can man do to me?</v>
+			<v id="12" bcv="PSA.56.12">Your vows are on me, God. <emo_lang emotion="joy" tone="praise" tone2="righteousness">I will give thank offerings to you</emo_lang>.</v>
+			<v id="13" bcv="PSA.56.13">For <emo_lang emotion="joy" tone="praise">you have delivered my soul from death,and prevented my feet from falling,that I may walk before God in the light of the living</emo_lang>.</v>
 		</c>
 		<c id="57">
 			<v id="1" bcv="PSA.57.1">Be merciful to me, God, be merciful to me,for my soul takes refuge in you. Yes, in the shadow of your wings, I will take refuge,until disaster has passed.</v>
