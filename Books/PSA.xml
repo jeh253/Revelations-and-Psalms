@@ -933,31 +933,31 @@
 			<v id="7" bcv="PSA.54.7">For <emo_lang emotion="joy" tone="righteousness" tone2="praise">he has delivered me out of all trouble</emo_lang>. <emo_lang emotion="joy" tone="righteousness">My eye has seen triumph over my enemies</emo_lang>.</v>
 		</c>
 		<c id="55">
-			<v id="1" bcv="PSA.55.1">Listen to my prayer, God. Don’t hide yourself from my supplication.</v>
-			<v id="2" bcv="PSA.55.2">Attend to me, and answer me. I am restless in my complaint, and moan,</v>
-			<v id="3" bcv="PSA.55.3">Because of the voice of the enemy,Because of the oppression of the wicked. For they bring suffering on me. In anger they hold a grudge against me.</v>
-			<v id="4" bcv="PSA.55.4">My heart is severely pained within me. The terrors of death have fallen on me.</v>
-			<v id="5" bcv="PSA.55.5">Fearfulness and trembling have come on me. Horror has overwhelmed me.</v>
-			<v id="6" bcv="PSA.55.6">I said, “Oh that I had wings like a dove!Then I would fly away, and be at rest.</v>
+			<v id="1" bcv="PSA.55.1"><emo_lang emotion="fear" tone="petitioning">Listen to my prayer, God. Don’t hide yourself from my supplication</emo_lang>.</v>
+			<v id="2" bcv="PSA.55.2"><emo_lang emotion="fear" tone="petitioning">Attend to me, and answer me</emo_lang>. <emo_lang emotion="sorrow" tone="fear">I am restless in my complaint, and moan</emo_lang>,</v>
+			<v id="3" bcv="PSA.55.3"><emo_lang emotion="fear" tone="anxiety" tone2="violence">Because of the voice of the enemy,Because of the oppression of the wicked. For they bring suffering on me. In anger they hold a grudge against me</emo_lang>.</v>
+			<v id="4" bcv="PSA.55.4"><emo_lang emotion="sorrow" tone="anxiety">My heart is severely pained within me. The terrors of death have fallen on me</emo_lang>.</v>
+			<v id="5" bcv="PSA.55.5"><emo_lang emotion="fear" tone="anxiety">Fearfulness and trembling have come on me. Horror has overwhelmed me</emo_lang>.</v>
+			<v id="6" bcv="PSA.55.6">I said, “<emo_lang emotion="sorrow" tone="pleading">Oh that I had wings like a dove</emo_lang>!Then I would fly away, and be at rest.</v>
 			<v id="7" bcv="PSA.55.7">Behold, then I would wander far off. I would lodge in the wilderness.”
 			</v>
 			<v id="8" bcv="PSA.55.8">“I would hurry to a shelter from the stormy wind and storm.”</v>
-			<v id="9" bcv="PSA.55.9">Confuse them, Lord, and confound their language,for I have seen violence and strife in the city.</v>
-			<v id="10" bcv="PSA.55.10">Day and night they prowl around on its walls. Malice and abuse are also within her.</v>
-			<v id="11" bcv="PSA.55.11">Destructive forces are within her. Threats and lies don’t depart from her streets.</v>
-			<v id="12" bcv="PSA.55.12">For it was not an enemy who insulted me,then I could have endured it. Neither was it he who hated me who raised himself up against me,then I would have hidden myself from him.</v>
+			<v id="9" bcv="PSA.55.9"><emo_lang emotion="anger" tone="pleading">Confuse them, Lord, and confound their language</emo_lang>,for <emo_lang emotion="anger" tone="violence">I have seen violence and strife in the city</emo_lang>.</v>
+			<v id="10" bcv="PSA.55.10">Day and night <emo_lang emotion="anger" tone="fear">they prowl around on its walls. Malice and abuse are also within her</emo_lang>.</v>
+			<v id="11" bcv="PSA.55.11"><emo_lang emotion="anger" tone="violence" tone2="fear">Destructive forces are within her</emo_lang>. <emo_lang emotion="anger" tone="fear">Threats and lies don’t depart from her streets</emo_lang>.</v>
+			<v id="12" bcv="PSA.55.12">For <emo_lang emotion="anger" tone="anxiety">it was not an enemy who insulted me,then I could have endured it. Neither was it he who hated me who raised himself up against me,then I would have hidden myself from him</emo_lang>.</v>
 			<v id="13" bcv="PSA.55.13">But it was you, a man like me,my companion, and my familiar friend.</v>
-			<v id="14" bcv="PSA.55.14">We took sweet fellowship together. We walked in God’s house with company.</v>
-			<v id="15" bcv="PSA.55.15">Let death come suddenly on them. Let them go down alive into Sheol. For wickedness is among them, in their dwelling.</v>
-			<v id="16" bcv="PSA.55.16">As for me, I will call on God. Yahweh will save me.</v>
-			<v id="17" bcv="PSA.55.17">Evening, morning, and at noon, I will cry out in distress. He will hear my voice.</v>
-			<v id="18" bcv="PSA.55.18">He has redeemed my soul in peace from the battle that was against me,although there are many who oppose me.</v>
-			<v id="19" bcv="PSA.55.19">God, who is enthroned forever,will hear, and answer them. 
-They never change,who don’t fear God.</v>
-			<v id="20" bcv="PSA.55.20">He raises his hands against his friends. He has violated his covenant.</v>
-			<v id="21" bcv="PSA.55.21">His mouth was smooth as butter,but his heart was war. His words were softer than oil,yet they were drawn swords.</v>
-			<v id="22" bcv="PSA.55.22">Cast your burden on Yahweh, and he will sustain you. He will never allow the righteous to be moved.</v>
-			<v id="23" bcv="PSA.55.23">But you, God, will bring them down into the pit of destruction. Bloodthirsty and deceitful men shall not live out half their days,but I will trust in you.</v>
+			<v id="14" bcv="PSA.55.14"><emo_lang emotion="sorrow" tone="anxiety">We took sweet fellowship together. We walked in God’s house with company</emo_lang>.</v>
+			<v id="15" bcv="PSA.55.15"><emo_lang emotion="anger" tone="righteousness" tone2="violence">Let death come suddenly on them. Let them go down alive into Sheol</emo_lang>. For <emo_lang emotion="anger" tone="righteousness">wickedness is among them, in their dwelling</emo_lang>.</v>
+			<v id="16" bcv="PSA.55.16">As for me, <emo_lang emotion="anger" tone="righteousness" tone2="praise">I will call on God. Yahweh will save me</emo_lang>.</v>
+			<v id="17" bcv="PSA.55.17">Evening, morning, and at noon, <emo_lang emotion="sorrow" tone="anxiety">I will cry out in distress</emo_lang>. <emo_lang emotion="joy" tone="praise">He will hear my voice</emo_lang>.</v>
+			<v id="18" bcv="PSA.55.18"><emo_lang emotion="joy" tone="praise" tone2="righteousness">He has redeemed my soul in peace from the battle that was against me</emo_lang>,although <emo_lang emotion="anger" tone="righteousness">there are many who oppose me</emo_lang>.</v>
+			<v id="19" bcv="PSA.55.19"><emo_lang emotion="joy" tone="praise">God, who is enthroned forever,will hear, and answer them</emo_lang>. 
+<emo_lang emotion="anger" tone="righteousness">They never change,who don’t fear God</emo_lang>.</v>
+			<v id="20" bcv="PSA.55.20"><emo_lang emotion="anger" tone="righteousness">He raises his hands against his friends. He has violated his covenant</emo_lang>.</v>
+			<v id="21" bcv="PSA.55.21">His mouth was smooth as butter,but <emo_lang emotion="anger" tone="violence">his heart was war</emo_lang>. His words were softer than oil,yet <emo_lang emotion="anger" tone="violence">they were drawn swords</emo_lang>.</v>
+			<v id="22" bcv="PSA.55.22"><emo_lang emotion="joy" tone="praise" tone2="righteousness">Cast your burden on Yahweh, and he will sustain you. He will never allow the righteous to be moved</emo_lang>.</v>
+			<v id="23" bcv="PSA.55.23">But you, God, <emo_lang emotion="anger" tone="violence" tone2="praise">will bring them down into the pit of destruction. Bloodthirsty and deceitful men shall not live out half their days</emo_lang>,but <emo_lang emotion="joy" tone="righteousness">I will trust in you</emo_lang>.</v>
 		</c>
 		<c id="56">
 			<v id="1" bcv="PSA.56.1">Be merciful to me, God, for man wants to swallow me up. All day long, he attacks and oppresses me.</v>
