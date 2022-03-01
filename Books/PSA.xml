@@ -586,18 +586,18 @@
 			<v id="28" bcv="PSA.35.28"><emo_lang emotion="joy" tone="praise">My tongue shall talk about your righteousness and about your praise all day long</emo_lang>.</v>
 		</c>
 		<c id="36">
-			<v id="1" bcv="PSA.36.1">A revelation is within my heart about the disobedience of the wicked:“There is no fear of God before his eyes.”</v>
-			<v id="2" bcv="PSA.36.2">For he flatters himself in his own eyes,too much to detect and hate his sin.</v>
-			<v id="3" bcv="PSA.36.3">The words of his mouth are iniquity and deceit. He has ceased to be wise and to do good.</v>
-			<v id="4" bcv="PSA.36.4">He plots iniquity on his bed. He sets himself in a way that is not good. He doesn’t abhor evil.</v>
-			<v id="5" bcv="PSA.36.5">Your loving kindness, Yahweh, is in the heavens. Your faithfulness reaches to the skies.</v>
-			<v id="6" bcv="PSA.36.6">Your righteousness is like the mountains of God. Your judgments are like a great deep. Yahweh, you preserve man and animal.</v>
-			<v id="7" bcv="PSA.36.7">How precious is your loving kindness, God!The children of men take refuge under the shadow of your wings.</v>
-			<v id="8" bcv="PSA.36.8">They shall be abundantly satisfied with the abundance of your house. You will make them drink of the river of your pleasures.</v>
-			<v id="9" bcv="PSA.36.9">For with you is the spring of life. In your light we will see light.</v>
-			<v id="10" bcv="PSA.36.10">Oh continue your loving kindness to those who know you,your righteousness to the upright in heart.</v>
-			<v id="11" bcv="PSA.36.11">Don’t let the foot of pride come against me. Don’t let the hand of the wicked drive me away.</v>
-			<v id="12" bcv="PSA.36.12">There the workers of iniquity are fallen. They are thrust down, and shall not be able to rise.</v>
+			<v id="1" bcv="PSA.36.1"><emo_lang emotion="anger" tone="righteousness">A revelation is within my heart about the disobedience of the wicked:“There is no fear of God before his eyes</emo_lang>.”</v>
+			<v id="2" bcv="PSA.36.2">For <emo_lang emotion="anger" tone="righteousness" tone2="boasting">he flatters himself</emo_lang> in his own eyes,<emo_lang emotion="anger" tone="righteousness">too much to detect and hate his sin</emo_lang>.</v>
+			<v id="3" bcv="PSA.36.3">The words of his mouth are <emo_lang emotion="anger" tone="righteousness">iniquity and deceit</emo_lang>. <emo_lang emotion="anger" tone="righteousness">He has ceased to be wise and to do good</emo_lang>.</v>
+			<v id="4" bcv="PSA.36.4"><emo_lang emotion="anger" tone="righteousness">He plots iniquity on his bed. He sets himself in a way that is not good. He doesn’t abhor evil</emo_lang>.</v>
+			<v id="5" bcv="PSA.36.5">Your <emo_lang emotion="joy" tone="praise">loving kindness</emo_lang>, Yahweh, is in the heavens. <emo_lang emotion="joy" tone="praise">Your faithfulness reaches to the skies</emo_lang>.</v>
+			<v id="6" bcv="PSA.36.6"><emo_lang emotion="joy" tone="praise">Your righteousness is like the mountains of God. Your judgments are like a great deep. Yahweh, you preserve man and animal</emo_lang>.</v>
+			<v id="7" bcv="PSA.36.7"><emo_lang emotion="joy" tone="praise">How precious is your loving kindness</emo_lang>, God!<emo_lang emotion="fear" tone="praise">The children of men take refuge under the shadow of your wings</emo_lang>.</v>
+			<v id="8" bcv="PSA.36.8"><emo_lang emotion="joy" tone="praise">They shall be abundantly satisfied with the abundance of your house</emo_lang>. <emo_lang emotion="joy" tone="righteousness" tone2="praise">You will make them drink of the river of your pleasures</emo_lang>.</v>
+			<v id="9" bcv="PSA.36.9">For with you is the spring of life. <emo_lang emotion="joy" tone="praise" tone2="righteousness">In your light we will see light</emo_lang>.</v>
+			<v id="10" bcv="PSA.36.10">Oh continue your <emo_lang emotion="joy" tone="praise">loving kindness</emo_lang> to those who know you,<emo_lang emotion="joy" tone="praise" tone2="righteousness">your righteousness to the upright in heart</emo_lang>.</v>
+			<v id="11" bcv="PSA.36.11"><emo_lang emotion="fear" tone="petitioning" tone2="righteousness">Don’t let the foot of pride come against me. Don’t let the hand of the wicked drive me away</emo_lang>.</v>
+			<v id="12" bcv="PSA.36.12"><emo_lang emotion="contentment" tone="righteousness">There the workers of iniquity are fallen</emo_lang>. <emo_lang emotion="anger" tone="righteousness" tone2="violence">They are thrust down, and shall not be able to rise</emo_lang>.</v>
 		</c>
 		<c id="37">
 			<v id="1" bcv="PSA.37.1">Don’t fret because of evildoers,neither be envious against those who work unrighteousness.</v>
