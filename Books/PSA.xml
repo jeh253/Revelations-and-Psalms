@@ -702,19 +702,19 @@
 			<v id="17" bcv="PSA.40.17">But <emo_lang emotion="sorrow" tone="anxiety">I am poor and needy</emo_lang>. <emo_lang emotion="fear" tone="petitioning">May the Lord think about me</emo_lang>. <emo_lang emotion="fear" tone="praise">You are my help and my deliverer</emo_lang>. <emo_lang emotion="fear" tone="petitioning">Don’t delay</emo_lang>, my God.</v>
 		</c>
 		<c id="41">
-			<v id="1" bcv="PSA.41.1">Blessed is he who considers the poor. Yahweh will deliver him in the day of evil.</v>
-			<v id="2" bcv="PSA.41.2">Yahweh will preserve him, and keep him alive. He shall be blessed on the earth,and he will not surrender him to the will of his enemies.</v>
-			<v id="3" bcv="PSA.41.3">Yahweh will sustain him on his sickbed,and restore him from his bed of illness.</v>
-			<v id="4" bcv="PSA.41.4">I said, “Yahweh, have mercy on me!Heal me, for I have sinned against you.”</v>
-			<v id="5" bcv="PSA.41.5">My enemies speak evil against me:“When will he die, and his name perish?”</v>
-			<v id="6" bcv="PSA.41.6">If he comes to see me, he speaks falsehood. His heart gathers iniquity to itself. When he goes abroad, he tells it.</v>
-			<v id="7" bcv="PSA.41.7">All who hate me whisper together against me. They imagine the worst for me.</v>
+			<v id="1" bcv="PSA.41.1"><emo_lang emotion="joy" tone="righteousness">Blessed is he who considers the poor. Yahweh will deliver him in the day of evil</emo_lang>.</v>
+			<v id="2" bcv="PSA.41.2"><emo_lang emotion="joy" tone="righteousness" tone2="praise">Yahweh will preserve him, and keep him alive. He shall be blessed on the earth,and he will not surrender him to the will of his enemies</emo_lang>.</v>
+			<v id="3" bcv="PSA.41.3"><emo_lang emotion="fear" tone="righteousness" tone2="praise">Yahweh will sustain him on his sickbed,and restore him from his bed of illness</emo_lang>.</v>
+			<v id="4" bcv="PSA.41.4">I said, “<emo_lang emotion="sorrow" tone="pleading">Yahweh, have mercy on me!Heal me, for I have sinned against you</emo_lang>.”</v>
+			<v id="5" bcv="PSA.41.5"><emo_lang emotion="anger" tone="fear">My enemies speak evil against me</emo_lang>:“<emo_lang emotion="anger" tone="violence">When will he die, and his name perish</emo_lang>?”</v>
+			<v id="6" bcv="PSA.41.6"><emo_lang emotion="anger" tone="righteousness">If he comes to see me, he speaks falsehood. His heart gathers iniquity to itself. When he goes abroad, he tells it</emo_lang>.</v>
+			<v id="7" bcv="PSA.41.7"><emo_lang emotion="anger" tone="fear">All who hate me whisper together against me. They imagine the worst for me</emo_lang>.</v>
 			<v id="8" bcv="PSA.41.8">“An evil disease”, they say, “has afflicted him. Now that he lies he shall rise up no more.”</v>
-			<v id="9" bcv="PSA.41.9">Yes, my own familiar friend, in whom I trusted,who ate bread with me,has lifted up his heel against me.</v>
-			<v id="10" bcv="PSA.41.10">But you, Yahweh, have mercy on me, and raise me up,that I may repay them.</v>
-			<v id="11" bcv="PSA.41.11">By this I know that you delight in me,because my enemy doesn’t triumph over me.</v>
-			<v id="12" bcv="PSA.41.12">As for me, you uphold me in my integrity,and set me in your presence forever.</v>
-			<v id="13" bcv="PSA.41.13">Blessed be Yahweh, the God of Israel,from everlasting and to everlasting!Amen and amen.</v>
+			<v id="9" bcv="PSA.41.9">Yes, my own familiar friend, in whom I trusted,who ate bread with me,<emo_lang emotion="sorrow" tone="violence">has lifted up his heel against me</emo_lang>.</v>
+			<v id="10" bcv="PSA.41.10">But you, Yahweh, <emo_lang emotion="anger" tone="petitioning" tone2="righteousness">have mercy on me, and raise me up,that I may repay them</emo_lang>.</v>
+			<v id="11" bcv="PSA.41.11">By this <emo_lang emotion="joy" tone="praise">I know that you delight in me</emo_lang>,because <emo_lang emotion="joy" tone="righteousness">my enemy doesn’t triumph over me</emo_lang>.</v>
+			<v id="12" bcv="PSA.41.12">As for me, <emo_lang emotion="joy" tone="praise" tone2="righteousness">you uphold me in my integrity,and set me in your presence forever</emo_lang>.</v>
+			<v id="13" bcv="PSA.41.13"><emo_lang emotion="joy" tone="praise">Blessed be Yahweh, the God of Israel,from everlasting and to everlasting!Amen and amen</emo_lang>.</v>
 		</c>
 		<c id="42">
 			<v id="1" bcv="PSA.42.1">As the deer pants for the water brooks,so my soul pants after you, God.</v>
