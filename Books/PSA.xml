@@ -684,22 +684,22 @@
 		</c>
 		<c id="40">
 			<v id="1" bcv="PSA.40.1">I waited patiently for Yahweh. He turned to me, and heard my cry.</v>
-			<v id="2" bcv="PSA.40.2">He brought me up also out of a horrible pit,out of the miry clay. He set my feet on a rock,and gave me a firm place to stand.</v>
-			<v id="3" bcv="PSA.40.3">He has put a new song in my mouth, even praise to our God. Many shall see it, and fear, and shall trust in Yahweh.</v>
-			<v id="4" bcv="PSA.40.4">Blessed is the man who makes Yahweh his trust,and doesn’t respect the proud, nor such as turn away to lies.</v>
-			<v id="5" bcv="PSA.40.5">Many, Yahweh, my God, are the wonderful works which you have done,and your thoughts which are toward us. They can’t be declared back to you. If I would declare and speak of them, they are more than can be counted.</v>
-			<v id="6" bcv="PSA.40.6">Sacrifice and offering you didn’t desire. You have opened my ears. You have not required burnt offering and sin offering.</v>
+			<v id="2" bcv="PSA.40.2"><emo_lang emotion="fear" tone="praise">He brought me up also out of a horrible pit,out of the miry clay. He set my feet on a rock,and gave me a firm place to stand</emo_lang>.</v>
+			<v id="3" bcv="PSA.40.3"><emo_lang emotion="joy" tone="praise">He has put a new song in my mouth, even praise to our God</emo_lang>. <emo_lang emotion="joy" tone="righteousness" tone2="praise">Many shall see it, and fear, and shall trust in Yahweh</emo_lang>.</v>
+			<v id="4" bcv="PSA.40.4"><emo_lang emotion="joy" tone="righteousness">Blessed is the man who makes Yahweh his trust,and doesn’t respect the proud, nor such as turn away to lies</emo_lang>.</v>
+			<v id="5" bcv="PSA.40.5"><emo_lang emotion="joy" tone="praise">Many, Yahweh, my God, are the wonderful works which you have done,and your thoughts which are toward us</emo_lang>. They can’t be declared back to you. If I would declare and speak of them, <emo_lang emotion="joy" tone="praise">they are more than can be counted</emo_lang>.</v>
+			<v id="6" bcv="PSA.40.6"><emo_lang emotion="contentment" tone="praise" tone2="righteousness">Sacrifice and offering you didn’t desire</emo_lang>. You have opened my ears. <emo_lang emotion="contentment" tone="praise" tone2="righteousness">You have not required burnt offering and sin offering</emo_lang>.</v>
 			<v id="7" bcv="PSA.40.7">Then I said, “Behold, I have come. It is written about me in the book in the scroll.</v>
-			<v id="8" bcv="PSA.40.8">I delight to do your will, my God. Yes, your law is within my heart.”</v>
-			<v id="9" bcv="PSA.40.9">I have proclaimed glad news of righteousness in the great assembly. Behold, I will not seal my lips, Yahweh, you know.</v>
-			<v id="10" bcv="PSA.40.10">I have not hidden your righteousness within my heart. I have declared your faithfulness and your salvation. I have not concealed your loving kindness and your truth from the great assembly.</v>
-			<v id="11" bcv="PSA.40.11">Don’t withhold your tender mercies from me, Yahweh. Let your loving kindness and your truth continually preserve me.</v>
-			<v id="12" bcv="PSA.40.12">For innumerable evils have surrounded me. My iniquities have overtaken me, so that I am not able to look up. They are more than the hairs of my head. My heart has failed me.</v>
-			<v id="13" bcv="PSA.40.13">Be pleased, Yahweh, to deliver me. Hurry to help me, Yahweh.</v>
-			<v id="14" bcv="PSA.40.14">Let them be disappointed and confounded together who seek after my soul to destroy it. Let them be turned backward and brought to dishonor who delight in my hurt.</v>
-			<v id="15" bcv="PSA.40.15">Let them be desolate by reason of their shame that tell me, “Aha! Aha!”</v>
-			<v id="16" bcv="PSA.40.16">Let all those who seek you rejoice and be glad in you. Let such as love your salvation say continually, “Let Yahweh be exalted!”</v>
-			<v id="17" bcv="PSA.40.17">But I am poor and needy. May the Lord think about me. You are my help and my deliverer. Don’t delay, my God.</v>
+			<v id="8" bcv="PSA.40.8"><emo_lang emotion="joy" tone="righteousness">I delight to do your will, my God. Yes, your law is within my heart</emo_lang>.”</v>
+			<v id="9" bcv="PSA.40.9"><emo_lang emotion="joy" tone="righteousness">I have proclaimed glad news of righteousness in the great assembly</emo_lang>. Behold, I will not seal my lips, Yahweh, you know.</v>
+			<v id="10" bcv="PSA.40.10"><emo_lang emotion="joy" tone="righteousness">I have not hidden your righteousness within my heart. I have declared your faithfulness and your salvation. I have not concealed your loving kindness and your truth from the great assembly</emo_lang>.</v>
+			<v id="11" bcv="PSA.40.11"><emo_lang emotion="fear" tone="pleading">Don’t withhold your tender mercies from me</emo_lang>, Yahweh. <emo_lang emotion="contentment" tone="petitioning">Let your loving kindness and your truth continually preserve me</emo_lang>.</v>
+			<v id="12" bcv="PSA.40.12">For <emo_lang emotion="fear" tone="fear">innumerable evils have surrounded me. My iniquities have overtaken me</emo_lang>, so that I am not able to look up. They are more than the hairs of my head. <emo_lang emotion="sorrow" tone="fear">My heart has failed me</emo_lang>.</v>
+			<v id="13" bcv="PSA.40.13"><emo_lang emotion="fear" tone="pleading">Be pleased, Yahweh, to deliver me. Hurry to help me, Yahweh</emo_lang>.</v>
+			<v id="14" bcv="PSA.40.14"><emo_lang emotion="anger" tone="righteousness">Let them be disappointed and confounded together who seek after my soul to destroy it. Let them be turned backward and brought to dishonor who delight in my hurt</emo_lang>.</v>
+			<v id="15" bcv="PSA.40.15"><emo_lang emotion="anger" tone="righteousness">Let them be desolate by reason of their shame</emo_lang> that tell me, “Aha! Aha!”</v>
+			<v id="16" bcv="PSA.40.16"><emo_lang emotion="joy" tone="righteousness">Let all those who seek you rejoice and be glad in you</emo_lang>. Let such as love your salvation say continually, “<emo_lang emotion="joy" tone="praise">Let Yahweh be exalted</emo_lang>!”</v>
+			<v id="17" bcv="PSA.40.17">But <emo_lang emotion="sorrow" tone="anxiety">I am poor and needy</emo_lang>. <emo_lang emotion="fear" tone="petitioning">May the Lord think about me</emo_lang>. <emo_lang emotion="fear" tone="praise">You are my help and my deliverer</emo_lang>. <emo_lang emotion="fear" tone="petitioning">Don’t delay</emo_lang>, my God.</v>
 		</c>
 		<c id="41">
 			<v id="1" bcv="PSA.41.1">Blessed is he who considers the poor. Yahweh will deliver him in the day of evil.</v>
