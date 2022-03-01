@@ -642,28 +642,28 @@
 			<v id="40" bcv="PSA.37.40"><emo_lang emotion="joy" tone="praise" tone2="righteousness">Yahweh helps them, and rescues them. He rescues them from the wicked, and saves them,because they have taken refuge in him</emo_lang>.</v>
 		</c>
 		<c id="38">
-			<v id="1" bcv="PSA.38.1">Yahweh, don’t rebuke me in your wrath,neither chasten me in your hot displeasure.</v>
-			<v id="2" bcv="PSA.38.2">For your arrows have pierced me,your hand presses hard on me.</v>
-			<v id="3" bcv="PSA.38.3">There is no soundness in my flesh because of your indignation,neither is there any health in my bones because of my sin.</v>
-			<v id="4" bcv="PSA.38.4">For my iniquities have gone over my head. As a heavy burden, they are too heavy for me.</v>
-			<v id="5" bcv="PSA.38.5">My wounds are loathsome and corrupt,because of my foolishness.</v>
-			<v id="6" bcv="PSA.38.6">I am pained and bowed down greatly. I go mourning all day long.</v>
-			<v id="7" bcv="PSA.38.7">For my waist is filled with burning. There is no soundness in my flesh.</v>
-			<v id="8" bcv="PSA.38.8">I am faint and severely bruised. I have groaned by reason of the anguish of my heart.</v>
-			<v id="9" bcv="PSA.38.9">Lord, all my desire is before you. My groaning is not hidden from you.</v>
-			<v id="10" bcv="PSA.38.10">My heart throbs. My strength fails me. As for the light of my eyes, it has also left me.</v>
-			<v id="11" bcv="PSA.38.11">My lovers and my friends stand aloof from my plague. My kinsmen stand far away.</v>
-			<v id="12" bcv="PSA.38.12">They also who seek after my life lay snares. Those who seek my hurt speak mischievous things,and meditate deceits all day long.</v>
+			<v id="1" bcv="PSA.38.1">Yahweh, <emo_lang emotion="fear" tone="fear">don’t rebuke me in your wrath,neither chasten me in your hot displeasure</emo_lang>.</v>
+			<v id="2" bcv="PSA.38.2">For <emo_lang emotion="fear" tone="violence">your arrows have pierced me,your hand presses hard on me</emo_lang>.</v>
+			<v id="3" bcv="PSA.38.3"><emo_lang emotion="fear" tone="anxiety">There is no soundness in my flesh because of your indignation,neither is there any health in my bones because of my sin</emo_lang>.</v>
+			<v id="4" bcv="PSA.38.4"><emo_lang emotion="sorrow" tone="anxiety">For my iniquities have gone over my head. As a heavy burden, they are too heavy for me</emo_lang>.</v>
+			<v id="5" bcv="PSA.38.5"><emo_lang emotion="sorrow" tone="anxiety">My wounds are loathsome and corrupt,because of my foolishness</emo_lang>.</v>
+			<v id="6" bcv="PSA.38.6"><emo_lang emotion="sorrow" tone="anxiety">I am pained and bowed down greatly. I go mourning all day long</emo_lang>.</v>
+			<v id="7" bcv="PSA.38.7"><emo_lang emotion="sorrow" tone="anxiety">For my waist is filled with burning. There is no soundness in my flesh</emo_lang>.</v>
+			<v id="8" bcv="PSA.38.8"><emo_lang emotion="sorrow" tone="anxiety" tone2="violence">I am faint and severely bruised</emo_lang>. <emo_lang emotion="sorrow" tone="anxiety">I have groaned by reason of the anguish of my heart</emo_lang>.</v>
+			<v id="9" bcv="PSA.38.9">Lord, <emo_lang emotion="sorrow" tone="pleading">all my desire is before you. My groaning is not hidden from you</emo_lang>.</v>
+			<v id="10" bcv="PSA.38.10"><emo_lang emotion="sorrow" tone="anxiety">My heart throbs. My strength fails me. As for the light of my eyes, it has also left me</emo_lang>.</v>
+			<v id="11" bcv="PSA.38.11"><emo_lang emotion="sorrow" tone="anxiety">My lovers and my friends stand aloof from my plague. My kinsmen stand far away</emo_lang>.</v>
+			<v id="12" bcv="PSA.38.12"><emo_lang emotion="anger" tone="violence">They also who seek after my life lay snares</emo_lang>. <emo_lang emotion="anger" tone="fear">Those who seek my hurt speak mischievous things,and meditate deceits all day long</emo_lang>.</v>
 			<v id="13" bcv="PSA.38.13">But I, as a deaf man, don’t hear. I am as a mute man who doesn’t open his mouth.</v>
 			<v id="14" bcv="PSA.38.14">Yes, I am as a man who doesn’t hear,in whose mouth are no reproofs.</v>
-			<v id="15" bcv="PSA.38.15">For in you, Yahweh, do I hope. You will answer, Lord my God.</v>
-			<v id="16" bcv="PSA.38.16">For I said, “Don’t let them gloat over me,or exalt themselves over me when my foot slips.”</v>
-			<v id="17" bcv="PSA.38.17">For I am ready to fall. My pain is continually before me.</v>
-			<v id="18" bcv="PSA.38.18">For I will declare my iniquity. I will be sorry for my sin.</v>
-			<v id="19" bcv="PSA.38.19">But my enemies are vigorous and many. Those who hate me without reason are numerous.</v>
-			<v id="20" bcv="PSA.38.20">They who render evil for good are also adversaries to me,because I follow what is good.</v>
-			<v id="21" bcv="PSA.38.21">Don’t forsake me, Yahweh. My God, don’t be far from me.</v>
-			<v id="22" bcv="PSA.38.22">Hurry to help me,Lord, my salvation.</v>
+			<v id="15" bcv="PSA.38.15"><emo_lang emotion="joy" tone="righteousness" tone2="praise">For in you, Yahweh, do I hope. You will answer, Lord my God</emo_lang>.</v>
+			<v id="16" bcv="PSA.38.16">For I said, “<emo_lang emotion="fear" tone="pleading">Don’t let them gloat over me,or exalt themselves over me when my foot slips</emo_lang>.”</v>
+			<v id="17" bcv="PSA.38.17">For I am ready to fall. <emo_lang emotion="sorrow" tone="anxiety">My pain is continually before me</emo_lang>.</v>
+			<v id="18" bcv="PSA.38.18">For <emo_lang emotion="sorrow" tone="righteousness">I will declare my iniquity. I will be sorry for my sin</emo_lang>.</v>
+			<v id="19" bcv="PSA.38.19">But <emo_lang emotion="fear" tone="fear">my enemies are vigorous and many. Those who hate me without reason are numerous</emo_lang>.</v>
+			<v id="20" bcv="PSA.38.20"><emo_lang emotion="anger" tone="righteousness">They who render evil for good are also adversaries to me,because I follow what is good</emo_lang>.</v>
+			<v id="21" bcv="PSA.38.21"><emo_lang emotion="fear" tone="petitioning">Don’t forsake me, Yahweh. My God, don’t be far from me</emo_lang>.</v>
+			<v id="22" bcv="PSA.38.22"><emo_lang emotion="fear" tone="pleading">Hurry to help me</emo_lang>,Lord, my salvation.</v>
 		</c>
 		<c id="39">
 			<v id="1" bcv="PSA.39.1">I said, “I will watch my ways, so that I don’t sin with my tongue. I will keep my mouth with a bridle while the wicked is before me.”</v>
