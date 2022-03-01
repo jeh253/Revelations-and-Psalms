@@ -737,33 +737,33 @@
 			<v id="5" bcv="PSA.43.5"><emo_lang emotion="sorrow" tone="anxiety">Why are you in despair, my soul?Why are you disturbed within me</emo_lang>?<emo_lang emotion="joy" tone="praise">Hope in God</emo_lang>!For <emo_lang emotion="joy" tone="righteousness">I shall still praise him</emo_lang>:my Savior, my helper, and my God.</v>
 		</c>
 		<c id="44">
-			<v id="1" bcv="PSA.44.1">We have heard with our ears, God;our fathers have told us,what work you did in their days,in the days of old.</v>
-			<v id="2" bcv="PSA.44.2">You drove out the nations with your hand,but you planted them. You afflicted the peoples,but you spread them abroad.</v>
-			<v id="3" bcv="PSA.44.3">For they didn’t get the land in possession by their own sword,neither did their own arm save them;but your right hand, and your arm, and the light of your face,because you were favorable to them.</v>
-			<v id="4" bcv="PSA.44.4">You are my King, God. Command victories for Jacob!</v>
-			<v id="5" bcv="PSA.44.5">Through you, will we push down our adversaries. Through your name, we will tread them under who rise up against us.</v>
+			<v id="1" bcv="PSA.44.1">We have heard with our ears, God;our fathers have told us,<emo_lang emotion="joy" tone="praise">what work you did</emo_lang> in their days,in the days of old.</v>
+			<v id="2" bcv="PSA.44.2"><emo_lang emotion="joy" tone="praise" tone2="violence">You drove out the nations with your hand</emo_lang>,but you planted them. <emo_lang emotion="anger" tone="righteousness" tone2="violence">You afflicted the peoples</emo_lang>,but you spread them abroad.</v>
+			<v id="3" bcv="PSA.44.3">For <emo_lang emotion="contentment" tone="righteousness">they didn’t get the land in possession by their own sword,neither did their own arm save them</emo_lang>;but your right hand, and your arm, and the light of your face,because <emo_lang emotion="joy" tone="praise">you were favorable to them</emo_lang>.</v>
+			<v id="4" bcv="PSA.44.4"><emo_lang emotion="joy" tone="praise">You are my King</emo_lang>, God. Command victories for Jacob!</v>
+			<v id="5" bcv="PSA.44.5"><emo_lang emotion="joy" tone="praise" tone2="violence">Through you, will we push down our adversaries. Through your name, we will tread them under who rise up against us</emo_lang>.</v>
 			<v id="6" bcv="PSA.44.6">For I will not trust in my bow,neither shall my sword save me.</v>
-			<v id="7" bcv="PSA.44.7">But you have saved us from our adversaries,and have shamed those who hate us.</v>
-			<v id="8" bcv="PSA.44.8">In God we have made our boast all day long,we will give thanks to your name forever. 
+			<v id="7" bcv="PSA.44.7">But <emo_lang emotion="joy" tone="praise">you have saved us from our adversaries,and have shamed those who hate us</emo_lang>.</v>
+			<v id="8" bcv="PSA.44.8">In God we have made our boast all day long,<emo_lang emotion="joy" tone="praise" tone2="righteousness">we will give thanks to your name forever</emo_lang>. 
 			</v>
-			<v id="9" bcv="PSA.44.9">But now you rejected us, and brought us to dishonor,and don’t go out with our armies.</v>
-			<v id="10" bcv="PSA.44.10">You make us turn back from the adversary. Those who hate us take plunder for themselves.</v>
-			<v id="11" bcv="PSA.44.11">You have made us like sheep for food,and have scattered us among the nations.</v>
-			<v id="12" bcv="PSA.44.12">You sell your people for nothing,and have gained nothing from their sale.</v>
-			<v id="13" bcv="PSA.44.13">You make us a reproach to our neighbors,a scoffing and a derision to those who are around us.</v>
-			<v id="14" bcv="PSA.44.14">You make us a byword among the nations,a shaking of the head among the peoples.</v>
-			<v id="15" bcv="PSA.44.15">All day long my dishonor is before me,and shame covers my face,</v>
-			<v id="16" bcv="PSA.44.16">At the taunt of one who reproaches and verbally abuses,because of the enemy and the avenger.</v>
-			<v id="17" bcv="PSA.44.17">All this has come on us,yet we haven’t forgotten you. We haven’t been false to your covenant.</v>
-			<v id="18" bcv="PSA.44.18">Our heart has not turned back,neither have our steps strayed from your path,</v>
-			<v id="19" bcv="PSA.44.19">Though you have crushed us in the haunt of jackals,and covered us with the shadow of death.</v>
+			<v id="9" bcv="PSA.44.9"><emo_lang emotion="anger" tone="fear">But now you rejected us, and brought us to dishonor,and don’t go out with our armies</emo_lang>.</v>
+			<v id="10" bcv="PSA.44.10"><emo_lang emotion="anger" tone="fear">You make us turn back from the adversary. Those who hate us take plunder for themselves</emo_lang>.</v>
+			<v id="11" bcv="PSA.44.11"><emo_lang emotion="anger" tone="anxiety">You have made us like sheep for food,and have scattered us among the nations</emo_lang>.</v>
+			<v id="12" bcv="PSA.44.12"><emo_lang emotion="anger" tone="anxiety">You sell your people for nothing,and have gained nothing from their sale</emo_lang>.</v>
+			<v id="13" bcv="PSA.44.13"><emo_lang emotion="anger" tone="anxiety">You make us a reproach to our neighbors,a scoffing and a derision to those who are around us</emo_lang>.</v>
+			<v id="14" bcv="PSA.44.14"><emo_lang emotion="anger" tone="fear">You make us a byword among the nations,a shaking of the head among the peoples</emo_lang>.</v>
+			<v id="15" bcv="PSA.44.15"><emo_lang emotion="sorrow" tone="anxiety">All day long my dishonor is before me,and shame covers my face</emo_lang>,</v>
+			<v id="16" bcv="PSA.44.16">At <emo_lang emotion="anger" tone="fear" tone2="violence">the taunt of one who reproaches and verbally abuses</emo_lang>,because of the enemy and the avenger.</v>
+			<v id="17" bcv="PSA.44.17">All this has come on us,yet <emo_lang emotion="fear" tone="righteousness">we haven’t forgotten you. We haven’t been false to your covenant</emo_lang>.</v>
+			<v id="18" bcv="PSA.44.18"><emo_lang emotion="fear" tone="righteousness">Our heart has not turned back,neither have our steps strayed from your path</emo_lang>,</v>
+			<v id="19" bcv="PSA.44.19">Though <emo_lang emotion="fear" tone="violence">you have crushed us in the haunt of jackals,and covered us with the shadow of death</emo_lang>.</v>
 			<v id="20" bcv="PSA.44.20">If we have forgotten the name of our God,or spread out our hands to a strange god;</v>
-			<v id="21" bcv="PSA.44.21">won’t God search this out?For he knows the secrets of the heart.</v>
-			<v id="22" bcv="PSA.44.22">Yes, for your sake we are killed all day long. We are regarded as sheep for the slaughter.</v>
-			<v id="23" bcv="PSA.44.23">Wake up!Why do you sleep, Lord?Arise!Don’t reject us forever.</v>
-			<v id="24" bcv="PSA.44.24">Why do you hide your face,and forget our affliction and our oppression?</v>
+			<v id="21" bcv="PSA.44.21">won’t God search this out?For <emo_lang emotion="fear" tone="righteousness">he knows the secrets of the heart</emo_lang>.</v>
+			<v id="22" bcv="PSA.44.22">Yes, <emo_lang emotion="anger" tone="violence" tone2="righteousness">for your sake we are killed all day long</emo_lang>. <emo_lang emotion="anger" tone="fear" tone2="violence">We are regarded as sheep for the slaughter</emo_lang>.</v>
+			<v id="23" bcv="PSA.44.23"><emo_lang emotion="fear" tone="pleading">Wake up!Why do you sleep, Lord?Arise!Don’t reject us forever</emo_lang>.</v>
+			<v id="24" bcv="PSA.44.24"><emo_lang emotion="fear" tone="pleading">Why do you hide your face,and forget our affliction and our oppression</emo_lang>?</v>
 			<v id="25" bcv="PSA.44.25">For our soul is bowed down to the dust. Our body clings to the earth.</v>
-			<v id="26" bcv="PSA.44.26">Rise up to help us. Redeem us for your loving kindness’ sake.</v>
+			<v id="26" bcv="PSA.44.26"><emo_lang emotion="fear" tone="petitioning">Rise up to help us</emo_lang>. <emo_lang emotion="fear" tone="petitioning" tone2="praise">Redeem us for your loving kindness’ sake</emo_lang>.</v>
 		</c>
 		<c id="45">
 			<v id="1" bcv="PSA.45.1">My heart overflows with a noble theme. I recite my verses for the king. My tongue is like the pen of a skillful writer.</v>
