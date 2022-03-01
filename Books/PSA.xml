@@ -717,24 +717,24 @@
 			<v id="13" bcv="PSA.41.13"><emo_lang emotion="joy" tone="praise">Blessed be Yahweh, the God of Israel,from everlasting and to everlasting!Amen and amen</emo_lang>.</v>
 		</c>
 		<c id="42">
-			<v id="1" bcv="PSA.42.1">As the deer pants for the water brooks,so my soul pants after you, God.</v>
-			<v id="2" bcv="PSA.42.2">My soul thirsts for God, for the living God. When shall I come and appear before God?</v>
-			<v id="3" bcv="PSA.42.3">My tears have been my food day and night,while they continually ask me, “Where is your God?”</v>
-			<v id="4" bcv="PSA.42.4">These things I remember, and pour out my soul within me,how I used to go with the crowd, and led them to God’s house,with the voice of joy and praise, a multitude keeping a holy day.</v>
-			<v id="5" bcv="PSA.42.5">Why are you in despair, my soul?Why are you disturbed within me?Hope in God!For I shall still praise him for the saving help of his presence.</v>
-			<v id="6" bcv="PSA.42.6">My God, my soul is in despair within me. Therefore I remember you from the land of the Jordan,the heights of Hermon, from the hill Mizar.</v>
+			<v id="1" bcv="PSA.42.1">As the deer pants for the water brooks,so <emo_lang emotion="contentment" tone="pleading">my soul pants after you</emo_lang>, God.</v>
+			<v id="2" bcv="PSA.42.2"><emo_lang emotion="fear" tone="pleading">My soul thirsts for God, for the living God. When shall I come and appear before God</emo_lang>?</v>
+			<v id="3" bcv="PSA.42.3"><emo_lang emotion="sorrow" tone="anxiety">My tears have been my food day and night</emo_lang>,while they continually ask me, “<emo_lang emotion="fear" tone="anxiety">Where is your God</emo_lang>?”</v>
+			<v id="4" bcv="PSA.42.4">These things I remember, and pour out my soul within me,<emo_lang emotion="sorrow" tone="praise" tone2="righteousness">how I used to go with the crowd, and led them to God’s house,with the voice of joy and praise, a multitude keeping a holy day</emo_lang>.</v>
+			<v id="5" bcv="PSA.42.5"><emo_lang emotion="sorrow" tone="anxiety">Why are you in despair, my soul?Why are you disturbed within me</emo_lang>?<emo_lang emotion="joy" tone="praise">Hope in God</emo_lang>!For <emo_lang emotion="joy" tone="praise" tone2="righteousness">I shall still praise him for the saving help of his presence</emo_lang>.</v>
+			<v id="6" bcv="PSA.42.6">My God, <emo_lang emotion="sorrow" tone="anxiety">my soul is in despair within me</emo_lang>. Therefore I remember you from the land of the Jordan,the heights of Hermon, from the hill Mizar.</v>
 			<v id="7" bcv="PSA.42.7">Deep calls to deep at the noise of your waterfalls. All your waves and your billows have swept over me.</v>
-			<v id="8" bcv="PSA.42.8">Yahweh will command his loving kindness in the daytime. In the night his song shall be with me:a prayer to the God of my life.</v>
-			<v id="9" bcv="PSA.42.9">I will ask God, my rock, “Why have you forgotten me?Why do I go mourning because of the oppression of the enemy?”</v>
-			<v id="10" bcv="PSA.42.10">As with a sword in my bones, my adversaries reproach me,while they continually ask me, “Where is your God?”</v>
-			<v id="11" bcv="PSA.42.11">Why are you in despair, my soul?Why are you disturbed within me?Hope in God! For I shall still praise him,the saving help of my countenance, and my God.</v>
+			<v id="8" bcv="PSA.42.8">Yahweh will command his <emo_lang emotion="joy" tone="praise">loving kindness</emo_lang> in the daytime. In the night <emo_lang emotion="joy" tone="praise">his song shall be with me</emo_lang>:<emo_lang emotion="joy" tone="righteousness">a prayer to the God of my life</emo_lang>.</v>
+			<v id="9" bcv="PSA.42.9">I will ask God, <emo_lang emotion="joy" tone="praise">my rock</emo_lang>, “<emo_lang emotion="sorrow" tone="anxiety">Why have you forgotten me?Why do I go mourning because of the oppression of the enemy</emo_lang>?”</v>
+			<v id="10" bcv="PSA.42.10"><emo_lang emotion="fear" tone="anxiety" tone2="violence">As with a sword in my bones, my adversaries reproach me</emo_lang>,while they continually ask me, “<emo_lang emotion="fear" tone="anxiety">Where is your God</emo_lang>?”</v>
+			<v id="11" bcv="PSA.42.11"><emo_lang emotion="sorrow" tone="anxiety">Why are you in despair, my soul?Why are you disturbed within me</emo_lang>?<emo_lang emotion="joy" tone="praise">Hope in God</emo_lang>! For <emo_lang emotion="joy" tone="praise" tone2="righteousness">I shall still praise him,the saving help of my countenance</emo_lang>, and my God.</v>
 		</c>
 		<c id="43">
-			<v id="1" bcv="PSA.43.1">Vindicate me, God, and plead my cause against an ungodly nation. Oh, deliver me from deceitful and wicked men.</v>
-			<v id="2" bcv="PSA.43.2">For you are the God of my strength. Why have you rejected me?Why do I go mourning because of the oppression of the enemy?</v>
-			<v id="3" bcv="PSA.43.3">Oh, send out your light and your truth. Let them lead me. Let them bring me to your holy hill,To your tents.</v>
-			<v id="4" bcv="PSA.43.4">Then I will go to the altar of God,to God, my exceeding joy. I will praise you on the harp, God, my God.</v>
-			<v id="5" bcv="PSA.43.5">Why are you in despair, my soul?Why are you disturbed within me?Hope in God!For I shall still praise him:my Savior, my helper, and my God.</v>
+			<v id="1" bcv="PSA.43.1"><emo_lang emotion="anger" tone="petitioning">Vindicate me, God, and plead my cause against an ungodly nation. Oh, deliver me from deceitful and wicked men</emo_lang>.</v>
+			<v id="2" bcv="PSA.43.2">For <emo_lang emotion="fear" tone="praise">you are the God of my strength</emo_lang>. <emo_lang emotion="sorrow" tone="anxiety">Why have you rejected me?Why do I go mourning because of the oppression of the enemy</emo_lang>?</v>
+			<v id="3" bcv="PSA.43.3">Oh, <emo_lang emotion="fear" tone="petitioning">send out your light and your truth. Let them lead me. Let them bring me to your holy hill,To your tents</emo_lang>.</v>
+			<v id="4" bcv="PSA.43.4">Then <emo_lang emotion="joy" tone="righteousness">I will go to the altar of God</emo_lang>,to God, <emo_lang emotion="joy" tone="praise">my exceeding joy. I will praise you on the harp</emo_lang>, God, my God.</v>
+			<v id="5" bcv="PSA.43.5"><emo_lang emotion="sorrow" tone="anxiety">Why are you in despair, my soul?Why are you disturbed within me</emo_lang>?<emo_lang emotion="joy" tone="praise">Hope in God</emo_lang>!For <emo_lang emotion="joy" tone="righteousness">I shall still praise him</emo_lang>:my Savior, my helper, and my God.</v>
 		</c>
 		<c id="44">
 			<v id="1" bcv="PSA.44.1">We have heard with our ears, God;our fathers have told us,what work you did in their days,in the days of old.</v>
