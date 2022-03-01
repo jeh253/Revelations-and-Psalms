@@ -666,21 +666,21 @@
 			<v id="22" bcv="PSA.38.22"><emo_lang emotion="fear" tone="pleading">Hurry to help me</emo_lang>,Lord, my salvation.</v>
 		</c>
 		<c id="39">
-			<v id="1" bcv="PSA.39.1">I said, “I will watch my ways, so that I don’t sin with my tongue. I will keep my mouth with a bridle while the wicked is before me.”</v>
-			<v id="2" bcv="PSA.39.2">I was mute with silence. I held my peace, even from good. My sorrow was stirred.</v>
-			<v id="3" bcv="PSA.39.3">My heart was hot within me. While I meditated, the fire burned. I spoke with my tongue:</v>
-			<v id="4" bcv="PSA.39.4">“Yahweh, show me my end,what is the measure of my days. Let me know how frail I am.</v>
-			<v id="5" bcv="PSA.39.5">Behold, you have made my days hand widths. My lifetime is as nothing before you. Surely every man stands as a breath.”
+			<v id="1" bcv="PSA.39.1">I said, “<emo_lang emotion="fear" tone="righteousness">I will watch my ways, so that I don’t sin with my tongue. I will keep my mouth with a bridle while the wicked is before me</emo_lang>.”</v>
+			<v id="2" bcv="PSA.39.2">I was mute with silence. <emo_lang emotion="sorrow" tone="anxiety">I held my peace, even from good</emo_lang>. My sorrow was stirred.</v>
+			<v id="3" bcv="PSA.39.3"><emo_lang emotion="fear" tone="anxiety">My heart was hot within me</emo_lang>. While I meditated, the fire burned. I spoke with my tongue:</v>
+			<v id="4" bcv="PSA.39.4">“Yahweh, <emo_lang emotion="fear" tone="pleading">show me my end,what is the measure of my days. Let me know how frail I am</emo_lang>.</v>
+			<v id="5" bcv="PSA.39.5">Behold, <emo_lang emotion="fear" tone="anxiety">you have made my days hand widths. My lifetime is as nothing before you</emo_lang>. Surely every man stands as a breath.”
 			</v>
 			<v id="6" bcv="PSA.39.6">“Surely every man walks like a shadow. Surely they busy themselves in vain. He heaps up, and doesn’t know who shall gather.</v>
-			<v id="7" bcv="PSA.39.7">Now, Lord, what do I wait for?My hope is in you.</v>
-			<v id="8" bcv="PSA.39.8">Deliver me from all my transgressions. Don’t make me the reproach of the foolish.</v>
+			<v id="7" bcv="PSA.39.7">Now, Lord, what do I wait for?<emo_lang emotion="fear" tone="praise">My hope is in you</emo_lang>.</v>
+			<v id="8" bcv="PSA.39.8"><emo_lang emotion="fear" tone="petitioning">Deliver me from all my transgressions. Don’t make me the reproach of the foolish</emo_lang>.</v>
 			<v id="9" bcv="PSA.39.9">I was mute. I didn’t open my mouth,because you did it.</v>
-			<v id="10" bcv="PSA.39.10">Remove your scourge away from me. I am overcome by the blow of your hand.</v>
-			<v id="11" bcv="PSA.39.11">When you rebuke and correct man for iniquity,you consume his wealth like a moth. Surely every man is but a breath.”
+			<v id="10" bcv="PSA.39.10"><emo_lang emotion="fear" tone="petitioning" tone2="violence">Remove your scourge away from me. I am overcome by the blow of your hand</emo_lang>.</v>
+			<v id="11" bcv="PSA.39.11"><emo_lang emotion="fear" tone="righteousness">When you rebuke and correct man for iniquity,you consume his wealth like a moth</emo_lang>. Surely every man is but a breath.”
 			</v>
-			<v id="12" bcv="PSA.39.12">“Hear my prayer, Yahweh, and give ear to my cry. Don’t be silent at my tears. For I am a stranger with you,a foreigner, as all my fathers were.</v>
-			<v id="13" bcv="PSA.39.13">Oh spare me, that I may recover strength,before I go away, and exist no more.”</v>
+			<v id="12" bcv="PSA.39.12">“<emo_lang emotion="fear" tone="petitioning">Hear my prayer, Yahweh, and give ear to my cry. Don’t be silent at my tears</emo_lang>. For I am a stranger with you,a foreigner, as all my fathers were.</v>
+			<v id="13" bcv="PSA.39.13"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Oh spare me, that I may recover strength,before I go away, and exist no more</emo_lang>.”</v>
 		</c>
 		<c id="40">
 			<v id="1" bcv="PSA.40.1">I waited patiently for Yahweh. He turned to me, and heard my cry.</v>
