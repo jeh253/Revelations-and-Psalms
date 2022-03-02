@@ -1384,15 +1384,15 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="20" bcv="PSA.77.20"><emo_lang emotion="contentment" tone="praise">You led your people like a flock</emo_lang>,by the hand of Moses and Aaron.</v>
 		</c>
 		<c id="78">
-			<v id="1" bcv="PSA.78.1">Hear my teaching, my people. Turn your ears to the words of my mouth.</v>
-			<v id="2" bcv="PSA.78.2">I will open my mouth in a parable. I will utter dark sayings of old,</v>
+			<v id="1" bcv="PSA.78.1">Hear my teaching, my people. Turn your ears to the words of my mouth.</v><!--righteousness-->
+			<v id="2" bcv="PSA.78.2">I will open my mouth in a parable. I will utter dark sayings of old,</v><!--righteousness?-->
 			<v id="3" bcv="PSA.78.3">Which we have heard and known,and our fathers have told us.</v>
 			<v id="4" bcv="PSA.78.4">We will not hide them from their children, <emo_lang emotion="contentment" tone="praise" tone2="petitioning">telling to the generation to come the praises of Yahweh,his strength, and his wondrous deeds that he has done</emo_lang>.</v>
 			<v id="5" bcv="PSA.78.5">For he established a covenant in Jacob,and appointed a teaching in Israel,which he commanded our fathers,that they should make them known to their children;</v>
 			<v id="6" bcv="PSA.78.6">that the generation to come might know, even the children who should be born;who should arise and tell their children,</v>
 			<v id="7" bcv="PSA.78.7">that they might set their hope in God,and not forget God’s deeds,but keep his commandments,</v>
 			<v id="8" bcv="PSA.78.8">and might not be as their fathers,<emo_lang emotion="anger" tone="righteousness">a stubborn and rebellious generation,a generation that didn’t make their hearts loyal,whose spirit was not steadfast with God</emo_lang>.</v>
-			<v id="9" bcv="PSA.78.9">The children of Ephraim, being armed and carrying bows,turned back in the day of battle.</v>
+			<v id="9" bcv="PSA.78.9">The children of Ephraim, being armed and carrying bows,turned back in the day of battle.</v><!--violence-->
 			<v id="10" bcv="PSA.78.10"><emo_lang emotion="anger" tone="righteousness">They didn’t keep God’s covenant,and refused to walk in his law</emo_lang>.</v>
 			<v id="11" bcv="PSA.78.11"><emo_lang emotion="anger" tone="righteousness">They forgot his doings,his wondrous deeds that he had shown them</emo_lang>.</v>
 			<v id="12" bcv="PSA.78.12"><emo_lang emotion="contentment" tone="praise">He did marvelous things in the sight of their fathers,in the land of Egypt, in the field of Zoan</emo_lang>.</v>
@@ -1405,7 +1405,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="19" bcv="PSA.78.19">Yes, <emo_lang emotion="anger" tone="righteousness">they spoke against God. They said, “Can God prepare a table in the wilderness</emo_lang>?</v>
 			<v id="20" bcv="PSA.78.20">Behold, he struck the rock, so that waters gushed out,and streams overflowed. Can he give bread also?Will he provide meat for his people?”</v>
 			<v id="21" bcv="PSA.78.21">Therefore <emo_lang emotion="anger" tone="righteousness">Yahweh heard, and was angry. A fire was kindled against Jacob,anger also went up against Israel</emo_lang>,</v>
-			<v id="22" bcv="PSA.78.22">because they didn’t believe in God,and didn’t trust in his salvation.</v>
+			<v id="22" bcv="PSA.78.22">because they didn’t believe in God,and didn’t trust in his salvation.</v><!--anger-->
 			<v id="23" bcv="PSA.78.23">Yet he commanded the skies above,and opened the doors of heaven.</v>
 			<v id="24" bcv="PSA.78.24">He rained down manna on them to eat,and gave them food from the sky.</v>
 			<v id="25" bcv="PSA.78.25">Man ate the bread of angels. He sent them food to the full.</v>
@@ -1417,7 +1417,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="31" bcv="PSA.78.31">when <emo_lang emotion="anger" tone="righteousness" tone2="violence">the anger of God went up against them,killed some of their fattest,and struck down the young men of Israel</emo_lang>.</v>
 			<v id="32" bcv="PSA.78.32">For all this <emo_lang emotion="anger" tone="righteousness">they still sinned,and didn’t believe in his wondrous works</emo_lang>.</v>
 			<v id="33" bcv="PSA.78.33">Therefore <emo_lang emotion="anger" tone="righteousness">he consumed their days in vanity,and their years in terror</emo_lang>.</v>
-			<v id="34" bcv="PSA.78.34"><emo_lang emotion="anger" tone="righteousness">When he killed them, then they inquired after him. They returned and sought God earnestly</emo_lang>.</v>
+			<v id="34" bcv="PSA.78.34"><emo_lang emotion="anger" tone="righteousness"><!--violence-->When he killed them, then they inquired after him. They returned and sought God earnestly</emo_lang>.</v>
 			<v id="35" bcv="PSA.78.35">They remembered that God was their rock,the Most High God, their redeemer.</v>
 			<v id="36" bcv="PSA.78.36">But <emo_lang emotion="anger" tone="righteousness">they flattered him with their mouth,and lied to him with their tongue</emo_lang>.</v>
 			<v id="37" bcv="PSA.78.37">For <emo_lang emotion="anger" tone="righteousness">their heart was not right with him,neither were they faithful in his covenant</emo_lang>.</v>
@@ -1427,27 +1427,27 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="41" bcv="PSA.78.41"><emo_lang emotion="anger" tone="righteousness">They turned again and tempted God,and provoked the Holy One of Israel</emo_lang>.</v>
 			<v id="42" bcv="PSA.78.42">They didn’t remember his hand,nor the day when he redeemed them from the adversary;</v>
 			<v id="43" bcv="PSA.78.43">how he set his signs in Egypt,his wonders in the field of Zoan,</v>
-			<v id="44" bcv="PSA.78.44">he turned their rivers into blood,and their streams, so that they could not drink.</v>
+			<v id="44" bcv="PSA.78.44">he turned their rivers into blood,and their streams, so that they could not drink.</v><!--anger/righteousness/violence for the following lines-->
 			<v id="45" bcv="PSA.78.45">He sent among them swarms of flies, which devoured them;and frogs, which destroyed them.</v>
 			<v id="46" bcv="PSA.78.46">He gave also their increase to the caterpillar,and their labor to the locust.</v>
 			<v id="47" bcv="PSA.78.47">He destroyed their vines with hail,their sycamore fig trees with frost.</v>
 			<v id="48" bcv="PSA.78.48">He gave over their livestock also to the hail,and their flocks to hot thunderbolts.</v>
 			<v id="49" bcv="PSA.78.49"><emo_lang emotion="anger" tone="righteousness">He threw on them the fierceness of his anger,wrath, indignation, and trouble,and a band of angels of evil</emo_lang>.</v>
 			<v id="50" bcv="PSA.78.50"><emo_lang emotion="anger" tone="righteousness">He made a path for his anger. He didn’t spare their soul from death,but gave their life over to the pestilence</emo_lang>,</v>
-			<v id="51" bcv="PSA.78.51">and struck all the firstborn in Egypt,the chief of their strength in the tents of Ham.</v>
+			<v id="51" bcv="PSA.78.51">and struck all the firstborn in Egypt<!--anger/righteousness/violence-->,the chief of their strength in the tents of Ham.</v>
 			<v id="52" bcv="PSA.78.52">But <emo_lang emotion="contentment" tone="praise" tone2="boasting">he led out his own people like sheep,and guided them in the wilderness like a flock</emo_lang>.</v>
 			<v id="53" bcv="PSA.78.53"><emo_lang emotion="contentment" tone="praise" tone2="boasting">He led them safely, so that they weren’t afraid</emo_lang>,but the sea overwhelmed their enemies.</v>
 			<v id="54" bcv="PSA.78.54">He brought them to the border of his sanctuary,to this mountain, which his right hand had taken.</v>
 			<v id="55" bcv="PSA.78.55">He also drove out the nations before them,allotted them for an inheritance by line,and made the tribes of Israel to dwell in their tents.</v>
 			<v id="56" bcv="PSA.78.56">Yet <emo_lang emotion="anger" tone="righteousness">they tempted and rebelled against the Most High God,and didn’t keep his testimonies</emo_lang>;</v>
-			<v id="57" bcv="PSA.78.57">but turned back, and dealt treacherously like their fathers. <emo_lang emotion="anger" tone="righteousness">They were twisted like a deceitful bow</emo_lang>.</v>
+			<v id="57" bcv="PSA.78.57">but turned back, and dealt treacherously like their fathers. <emo_lang emotion="anger" tone="righteousness">They were twisted like a deceitful bow</emo_lang>.</v><!--anger also with the treacherous fathers part?-->
 			<v id="58" bcv="PSA.78.58">For <emo_lang emotion="anger" tone="righteousness">they provoked him to anger with their high places,and moved him to jealousy with their engraved images</emo_lang>.</v>
 			<v id="59" bcv="PSA.78.59">When God heard this, <emo_lang emotion="anger" tone="righteousness">he was angry,and greatly abhorred Israel</emo_lang>;</v>
 			<v id="60" bcv="PSA.78.60">So that he abandoned the tent of Shiloh,the tent which he placed among men;</v>
 			<v id="61" bcv="PSA.78.61">and delivered his strength into captivity,his glory into the adversary’s hand.</v>
 			<v id="62" bcv="PSA.78.62"><emo_lang emotion="anger" tone="righteousness">He also gave his people over to the sword,and was angry with his inheritance</emo_lang>.</v>
-			<v id="63" bcv="PSA.78.63">Fire devoured their young men. Their virgins had no wedding song.</v>
-			<v id="64" bcv="PSA.78.64">Their priests fell by the sword,and their widows couldn’t weep.</v>
+			<v id="63" bcv="PSA.78.63">Fire devoured their young men<!--violence-->. Their virgins had no wedding song.</v>
+			<v id="64" bcv="PSA.78.64">Their priests fell by the sword,and their widows couldn’t weep.</v><!--violence-->
 			<v id="65" bcv="PSA.78.65">Then the Lord awakened as one out of sleep,like a mighty man who shouts by reason of wine.</v>
 			<v id="66" bcv="PSA.78.66"><emo_lang emotion="anger" tone="violence">He struck his adversaries backward. He put them to a perpetual reproach</emo_lang>.</v>
 			<v id="67" bcv="PSA.78.67">Moreover <emo_lang emotion="anger" tone="righteousness">he rejected the tent of Joseph,and didn’t choose the tribe of Ephraim</emo_lang>,</v>
@@ -1461,7 +1461,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="1" bcv="PSA.79.1"><emo_lang emotion="anger" tone="righteousness" tone2="violence">God, the nations have come into your inheritance. They have defiled your holy temple. They have laid Jerusalem in heaps</emo_lang>.</v>
 			<v id="2" bcv="PSA.79.2"><emo_lang emotion="anger" tone="righteousness" tone2="violence">They have given the dead bodies of your servants to be food for the birds of the sky,the flesh of your saints to the animals of the earth</emo_lang>.</v>
 			<v id="3" bcv="PSA.79.3"><emo_lang emotion="anger" tone="righteousness" tone2="violence">Their blood they have shed like water around Jerusalem. There was no one to bury them</emo_lang>.</v>
-			<v id="4" bcv="PSA.79.4">We have become a reproach to our neighbors,a scoffing and derision to those who are around us.</v>
+			<v id="4" bcv="PSA.79.4">We have become a reproach to our neighbors,a scoffing and derision to those who are around us.</v><!--anger-->
 			<v id="5" bcv="PSA.79.5"><emo_lang emotion="anger" tone="anxiety" tone2="violence">How long, Yahweh?Will you be angry forever?Will your jealousy burn like fire</emo_lang>?</v>
 			<v id="6" bcv="PSA.79.6"><emo_lang emotion="anger" tone="petitioning" tone2="violence">Pour out your wrath on the nations that don’t know you;on the kingdoms that don’t call on your name</emo_lang>;</v>
 			<v id="7" bcv="PSA.79.7"><emo_lang emotion="anger" tone="fear" tone2="violence">For they have devoured Jacob,and destroyed his homeland</emo_lang>.</v>
@@ -1469,7 +1469,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="9" bcv="PSA.79.9"><emo_lang emotion="fear" tone="petitioning" tone2="anxiety">Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our sins, for your name’s sake</emo_lang>.</v>
 			<v id="10" bcv="PSA.79.10">Why should the nations say, “Where is their God?”<emo_lang emotion="anger" tone="petitioning" tone2="violence">Let it be known among the nations, before our eyes,that vengeance for your servants’ blood is being poured out</emo_lang>.</v>
 			<v id="11" bcv="PSA.79.11"><emo_lang emotion="fear" tone="petitioning">Let the sighing of the prisoner come before you. According to the greatness of your power, preserve those who are sentenced to death</emo_lang>.</v>
-			<v id="12" bcv="PSA.79.12">Pay back to our neighbors seven times into their bosomtheir reproach with which they have reproached you, Lord.</v>
+			<v id="12" bcv="PSA.79.12">Pay back to our neighbors seven times into their bosom their reproach with which they have reproached you, Lord.</v>
 			<v id="13" bcv="PSA.79.13">So we, your people and sheep of your pasture, <emo_lang emotion="contentment" tone="praise">will give you thanks forever. We will praise you forever, to all generations</emo_lang>.</v>
 		</c>
 		<c id="80">
@@ -1478,7 +1478,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="3" bcv="PSA.80.3"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Turn us again, God. Cause your face to shine,and we will be saved</emo_lang>.</v>
 			<v id="4" bcv="PSA.80.4">Yahweh God of Armies,<emo_lang emotion="fear" tone="pleading" tone2="anxiety">How long will you be angry against the prayer of your people</emo_lang>?</v>
 			<v id="5" bcv="PSA.80.5">You have fed them with the bread of tears,and given them tears to drink in large measure.</v>
-			<v id="6" bcv="PSA.80.6">You make us a source of contention to our neighbors. <emo_lang emotion="fear" tone="anxiety">Our enemies laugh among themselves</emo_lang>.</v>
+			<v id="6" bcv="PSA.80.6"><!--fear/anxiety-->You make us a source of contention to our neighbors. <emo_lang emotion="fear" tone="anxiety">Our enemies laugh among themselves</emo_lang>.</v>
 			<v id="7" bcv="PSA.80.7"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Turn us again, God of Armies. Cause your face to shine,and we will be saved</emo_lang>.</v>
 			<v id="8" bcv="PSA.80.8">You brought a vine out of Egypt. You drove out the nations, and planted it.</v>
 			<v id="9" bcv="PSA.80.9">You cleared the ground for it. It took deep root, and filled the land.</v>
@@ -1488,7 +1488,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="13" bcv="PSA.80.13">The boar out of the wood ravages it. The wild animals of the field feed on it.</v>
 			<v id="14" bcv="PSA.80.14"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Turn again, we beg you, God of Armies. Look down from heaven, and see, and visit this vine</emo_lang>,</v>
 			<v id="15" bcv="PSA.80.15">the stock which your right hand planted,the branch that you made strong for yourself.</v>
-			<v id="16" bcv="PSA.80.16">It’s burned with fire. It’s cut down. <emo_lang emotion="anger" tone="righteousness">They perish at your rebuke</emo_lang>.</v>
+			<v id="16" bcv="PSA.80.16"><!--violence-->It’s burned with fire. It’s cut down. <emo_lang emotion="anger" tone="righteousness">They perish at your rebuke</emo_lang>.</v>
 			<v id="17" bcv="PSA.80.17">Let your hand be on the man of your right hand,on the son of man whom you made strong for yourself.</v>
 			<v id="18" bcv="PSA.80.18"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">So we will not turn away from you. Revive us, and we will call on your name</emo_lang>.</v>
 			<v id="19" bcv="PSA.80.19"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Turn us again, Yahweh God of Armies. Cause your face to shine, and we will be saved</emo_lang>.</v>
