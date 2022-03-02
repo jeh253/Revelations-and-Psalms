@@ -1207,7 +1207,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="23" bcv="PSA.69.23"><emo_lang emotion="anger" tone="petitioning" tone2="violence">Let their eyes be darkened, so that they can’t see. Let their backs be continually bent</emo_lang>.</v>
 			<v id="24" bcv="PSA.69.24"><emo_lang emotion="anger" tone="petitioning" tone2="violence">Pour out your indignation on them. Let the fierceness of your anger overtake them</emo_lang>.</v>
 			<v id="25" bcv="PSA.69.25"><emo_lang emotion="anger" tone="petitioning" tone2="violence">Let their habitation be desolate. Let no one dwell in their tents</emo_lang>.</v>
-			<v id="26" bcv="PSA.69.26">For they persecute him whom you have wounded. <emo_lang emotion="sorrow" tone="violence">They tell of the sorrow of those whom you have hurt</emo_lang>.</v>
+			<v id="26" bcv="PSA.69.26"><!--anger/righteousness-->For they persecute him whom you have wounded. <emo_lang emotion="sorrow" tone="violence">They tell of the sorrow of those whom you have hurt</emo_lang>.</v>
 			<v id="27" bcv="PSA.69.27"><emo_lang emotion="anger" tone="petitioning" tone2="righteousness">Charge them with crime upon crime. Don’t let them come into your righteousness</emo_lang>.</v>
 			<v id="28" bcv="PSA.69.28"><emo_lang emotion="anger" tone="petitioning" tone2="righteousness">Let them be blotted out of the book of life, and not be written with the righteous</emo_lang>.</v>
 			<v id="29" bcv="PSA.69.29"><emo_lang emotion="fear" tone="petitioning" tone2="anxiety">But I am in pain and distress. Let your salvation, God, protect me</emo_lang>.</v>
@@ -1217,7 +1217,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="33" bcv="PSA.69.33">For <emo_lang emotion="contentment" tone="boasting" tone2="praise">Yahweh hears the needy, and doesn’t despise his captive people</emo_lang>.</v>
 			<v id="34" bcv="PSA.69.34"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Let heaven and earth praise him; the seas, and everything that moves therein</emo_lang>!</v>
 			<v id="35" bcv="PSA.69.35">For God will save Zion, and build the cities of Judah. They shall settle there, and own it.</v>
-			<v id="36" bcv="PSA.69.36">The children also of his servants shall inherit it. <emo_lang emotion="contentment" tone="boasting">Those who love his name shall dwell therein</emo_lang>.</v>
+			<v id="36" bcv="PSA.69.36"><!--righteousness-->The children also of his servants shall inherit it. <emo_lang emotion="contentment" tone="boasting">Those who love his name shall dwell therein</emo_lang>.</v>
 		</c>
 		<c id="70">
 			<v id="1" bcv="PSA.70.1"><emo_lang emotion="fear" tone="petitioning" tone2="anxiety">Hurry, God, to deliver me. Come quickly to help me, Yahweh</emo_lang>.</v>
@@ -1231,16 +1231,16 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="2" bcv="PSA.71.2"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Deliver me in your righteousness, and rescue me. Turn your ear to me, and save me</emo_lang>.</v>
 			<v id="3" bcv="PSA.71.3"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Be to me a rock of refuge to which I may always go. Give the command to save me, for you are my rock and my fortress</emo_lang>.</v>
 			<v id="4" bcv="PSA.71.4"><emo_lang emotion="fear" tone="pleading" tone2="righteousness">Rescue me, my God, from the hand of the wicked,from the hand of the unrighteous and cruel man</emo_lang>.</v>
-			<v id="5" bcv="PSA.71.5">For <emo_lang emotion="contentment" tone="praising">you are my hope, Lord Yahweh; my confidence from my youth</emo_lang>.</v>
+			<v id="5" bcv="PSA.71.5">For <emo_lang emotion="contentment" tone="praise">you are my hope, Lord Yahweh; my confidence from my youth</emo_lang>.</v>
 			<v id="6" bcv="PSA.71.6">I have relied on you from the womb. You are he who took me out of my mother’s womb. <emo_lang emotion="contentment" tone="praise">I will always praise you</emo_lang>.</v>
-			<v id="7" bcv="PSA.71.7">I am a marvel to many, but <emo_lang emotion="contentment" tone="praise">you are my strong refuge</emo_lang>.</v>
+			<v id="7" bcv="PSA.71.7"><!--boasting?-->I am a marvel to many, but <emo_lang emotion="contentment" tone="praise">you are my strong refuge</emo_lang>.</v>
 			<v id="8" bcv="PSA.71.8"><emo_lang emotion="contentment" tone="praise">My mouth shall be filled with your praise, with your honor all day long</emo_lang>.</v>
 			<v id="9" bcv="PSA.71.9"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Don’t reject me in my old age. Don’t forsake me when my strength fails</emo_lang>.</v>
 			<v id="10" bcv="PSA.71.10"><emo_lang emotion="fear" tone="anxiety">For my enemies talk about me. Those who watch for my soul conspire together</emo_lang>,</v>
 			<v id="11" bcv="PSA.71.11">saying, “God has forsaken him. Pursue and take him, for no one will rescue him.”</v>
 			<v id="12" bcv="PSA.71.12"><emo_lang emotion="fear" tone="anxiety" tone2="pleading">God, don’t be far from me. My God, hurry to help me</emo_lang>.</v>
 			<v id="13" bcv="PSA.71.13"><emo_lang emotion="anger" tone="righteousness" tone2="petitioning">Let my accusers be disappointed and consumed. Let them be covered with disgrace and scorn who want to harm me</emo_lang>.</v>
-			<v id="14" bcv="PSA.71.14"><emo_lang emotion="contentment" tone="praise"></emo_lang>But I will always hope, and will add to all of your praise.</v>
+			<v id="14" bcv="PSA.71.14"><emo_lang emotion="contentment" tone="praise"></emo_lang><!--did you mean to put this around the following text?-->But I will always hope, and will add to all of your praise.</v>
 			<v id="15" bcv="PSA.71.15"><emo_lang emotion="contentment" tone="praise" tone2="righteousness">My mouth will tell about your righteousness, and of your salvation all day, though I don’t know its full measure</emo_lang>.</v>
 			<v id="16" bcv="PSA.71.16"><emo_lang emotion="contentment" tone="boasting" tone2="righteousness">I will come with the mighty acts of the Lord Yahweh. I will make mention of your righteousness, even of yours alone</emo_lang>.</v>
 			<v id="17" bcv="PSA.71.17">God, you have taught me from my youth. Until now, <emo_lang emotion="contentment" tone="praise" tone2="boasting">I have declared your wondrous works</emo_lang>.</v>
@@ -1253,17 +1253,17 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="24" bcv="PSA.71.24"><emo_lang emotion="contentment" tone="righteousness" tone2="boasting">My tongue will also talk about your righteousness all day long, for they are disappointed, and they are confounded, who want to harm me</emo_lang>.</v>
 		</c>
 		<c id="72">
-			<v id="1" bcv="PSA.72.1">God, give the king your justice; your righteousness to the royal son.</v>
-			<v id="2" bcv="PSA.72.2">He will judge your people with righteousness,and your poor with justice.</v>
+			<v id="1" bcv="PSA.72.1">God, give the king your justice; your righteousness to the royal son.</v><!--petitioning?-->
+			<v id="2" bcv="PSA.72.2">He will judge your people with righteousness,and your poor with justice.</v><!--righteousness?-->
 			<v id="3" bcv="PSA.72.3"><emo_lang emotion="contentment" tone="righteousness">The mountains shall bring prosperity to the people. The hills bring the fruit of righteousness</emo_lang>.</v>
 			<v id="4" bcv="PSA.72.4"><emo_lang emotion="contentment" tone="righteousness" tone2="boasting">He will judge the poor of the people. He will save the children of the needy, and will break the oppressor in pieces</emo_lang>.</v>
 			<v id="5" bcv="PSA.72.5"><emo_lang emotion="fear" tone="righteousness" tone2="boasting">They shall fear you while the sun endures</emo_lang>; and as long as the moon, throughout all generations.</v>
 			<v id="6" bcv="PSA.72.6">He will come down like rain on the mown grass, as showers that water the earth.</v>
 			<v id="7" bcv="PSA.72.7">In his days, <emo_lang emotion="contentment" tone="righteousness" tone2="boasting">the righteous shall flourish, and abundance of peace</emo_lang>, until the moon is no more.</v>
 			<v id="8" bcv="PSA.72.8">He shall have dominion also from sea to sea,from the River to the ends of the earth.</v>
-			<v id="9" bcv="PSA.72.9">Those who dwell in the wilderness shall bow before him. His enemies shall lick the dust.</v>
+			<v id="9" bcv="PSA.72.9">Those who dwell in the wilderness shall bow before him. His enemies shall lick the dust.</v><!--anger/righteousness-->
 			<v id="10" bcv="PSA.72.10">The kings of Tarshish and of the islands will bring tribute. The kings of Sheba and Seba shall offer gifts.</v>
-			<v id="11" bcv="PSA.72.11">Yes, all kings shall fall down before him. All nations shall serve him.</v>
+			<v id="11" bcv="PSA.72.11">Yes, all kings shall fall down before him. All nations shall serve him.</v><!--praise?/boasting?-->
 			<v id="12" bcv="PSA.72.12">For <emo_lang emotion="contentment" tone="boasting" tone2="praise">he will deliver the needy when he cries;the poor, who has no helper</emo_lang>.</v>
 			<v id="13" bcv="PSA.72.13"><emo_lang emotion="contentment" tone="boasting" tone2="praise">He will have pity on the poor and needy. He will save the souls of the needy</emo_lang>.</v>
 			<v id="14" bcv="PSA.72.14"><emo_lang emotion="contentment" tone="boasting" tone2="praise">He will redeem their soul from oppression and violence. Their blood will be precious in his sight</emo_lang>.</v>
@@ -1278,8 +1278,8 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="1" bcv="PSA.73.1"><emo_lang emotion="contentment" tone="righteousness" tone2="boasting">Surely God is good to Israel,to those who are pure in heart</emo_lang>.</v>
 			<v id="2" bcv="PSA.73.2"><emo_lang emotion="fear" tone="anxiety">But as for me, my feet were almost gone. My steps had nearly slipped</emo_lang>.</v>
 			<v id="3" bcv="PSA.73.3"><emo_lang emotion="anger" tone="anxiety">For I was envious of the arrogant, when I saw the prosperity of the wicked</emo_lang>.</v>
-			<v id="4" bcv="PSA.73.4">For there are no struggles in their death, but their strength is firm.</v>
-			<v id="5" bcv="PSA.73.5">They are free from burdens of men, neither are they plagued like other men.</v>
+			<v id="4" bcv="PSA.73.4">For there are no struggles in their death, but their strength is firm.</v><!--anger-->
+			<v id="5" bcv="PSA.73.5">They are free from burdens of men, neither are they plagued like other men.</v><!--anger-->
 			<v id="6" bcv="PSA.73.6"><emo_lang emotion="anger" tone="righteousness">Therefore pride is like a chain around their neck. Violence covers them like a garment</emo_lang>.</v>
 			<v id="7" bcv="PSA.73.7"><emo_lang emotion="anger" tone="righteousness">Their eyes bulge with fat. Their minds pass the limits of conceit</emo_lang>.</v>
 			<v id="8" bcv="PSA.73.8"><emo_lang emotion="anger" tone="righteousness">They scoff and speak with malice. In arrogance, they threaten oppression</emo_lang>.</v>
@@ -1309,16 +1309,16 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="2" bcv="PSA.74.2"><emo_lang emotion="fear" tone="anxiety" tone2="pleading">Remember your congregation, which you purchased of old,which you have redeemed to be the tribe of your inheritance;Mount Zion, in which you have lived</emo_lang>.</v>
 			<v id="3" bcv="PSA.74.3"><emo_lang emotion="anger" tone="righteousness" tone2="petitioning">Lift up your feet to the perpetual ruins, all the evil that the enemy has done in the sanctuary</emo_lang>.</v>
 			<v id="4" bcv="PSA.74.4">Your adversaries have roared in the middle of your assembly. They have set up their standards as signs.</v>
-			<v id="5" bcv="PSA.74.5">They behaved like men wielding axes,cutting through a thicket of trees.</v>
-			<v id="6" bcv="PSA.74.6">Now they break all its carved work down with hatchet and hammers.</v>
-			<v id="7" bcv="PSA.74.7">They have burned your sanctuary to the ground. They have profaned the dwelling place of your Name.</v>
-			<v id="8" bcv="PSA.74.8">They said in their heart, “We will crush them completely.”They have burned up all the places in the land where God was worshiped.</v>
+			<v id="5" bcv="PSA.74.5">They behaved like men wielding axes,cutting through a thicket of trees.</v><!--anger/violence-->
+			<v id="6" bcv="PSA.74.6">Now they break all its carved work down with hatchet and hammers.</v><!--anger/violence-->
+			<v id="7" bcv="PSA.74.7">They have burned your sanctuary to the ground. They have profaned the dwelling place of your Name.</v><!--anger/violence-->
+			<v id="8" bcv="PSA.74.8">They said in their heart, “We will crush them completely.”They have burned up all the places in the land where God was worshiped.</v><!--anger/violence/boasting-->
 			<v id="9" bcv="PSA.74.9">We see no miraculous signs. There is no longer any prophet,neither is there among us anyone who knows how long.</v>
 			<v id="10" bcv="PSA.74.10"><emo_lang emotion="fear" tone="anxiety">How long, God, shall the adversary reproach?Shall the enemy blaspheme your name forever</emo_lang>?</v>
 			<v id="11" bcv="PSA.74.11"><emo_lang emotion="fear" tone="anxiety" tone2="petitioning">Why do you draw back your hand, even your right hand?Take it from your chest and consume them</emo_lang>!</v>
 			<v id="12" bcv="PSA.74.12">Yet <emo_lang emotion="contentment" tone="praise" tone2="boasting">God is my King of old,working salvation throughout the earth</emo_lang>.</v>
-			<v id="13" bcv="PSA.74.13">You divided the sea by your strength. You broke the heads of the sea monsters in the waters.</v>
-			<v id="14" bcv="PSA.74.14">You broke the heads of Leviathan in pieces. You gave him as food to people and desert creatures.</v>
+			<v id="13" bcv="PSA.74.13">You divided the sea by your strength. You broke the heads of the sea monsters in the waters.</v><!--violence-->
+			<v id="14" bcv="PSA.74.14">You broke the heads of Leviathan in pieces. You gave him as food to people and desert creatures.</v><!--violence-->
 			<v id="15" bcv="PSA.74.15">You opened up spring and stream. You dried up mighty rivers.</v>
 			<v id="16" bcv="PSA.74.16">The day is yours, the night is also yours. You have prepared the light and the sun.</v>
 			<v id="17" bcv="PSA.74.17">You have set all the boundaries of the earth. You have made summer and winter.</v>
@@ -1348,11 +1348,11 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="3" bcv="PSA.76.3">There <emo_lang emotion="contentment" tone="boasting" tone2="violence">he broke the flaming arrows of the bow,the shield, and the sword, and the weapons of war</emo_lang>. 
 			</v>
 			<v id="4" bcv="PSA.76.4"><emo_lang emotion="contentment" tone="praise">Glorious are you, and excellent, more than mountains of game</emo_lang>.</v>
-			<v id="5" bcv="PSA.76.5">Valiant men lie plundered, they have slept their last sleep. None of the men of war can lift their hands.</v>
-			<v id="6" bcv="PSA.76.6">At your rebuke, God of Jacob, both chariot and horse are cast into a dead sleep.</v>
+			<v id="5" bcv="PSA.76.5">Valiant men lie plundered, they have slept their last sleep. None of the men of war can lift their hands.</v><!--violence?-->
+			<v id="6" bcv="PSA.76.6">At your rebuke, God of Jacob, both chariot and horse are cast into a dead sleep.</v><!--violence?-->
 			<v id="7" bcv="PSA.76.7"><emo_lang emotion="fear" tone="fear">You, even you, are to be feared. Who can stand in your sight when you are angry</emo_lang>?</v>
 			<v id="8" bcv="PSA.76.8"><emo_lang emotion="fear" tone="fear">You pronounced judgment from heaven. The earth feared, and was silent</emo_lang>,</v>
-			<v id="9" bcv="PSA.76.9">when God arose to judgment, to save all the afflicted ones of the earth. 
+			<v id="9" bcv="PSA.76.9">when God arose to judgment, to save all the afflicted ones of the earth. <!--praise/righteousness-->
 			</v>
 			<v id="10" bcv="PSA.76.10">Surely <emo_lang emotion="fear" tone="praise">the wrath of man praises you</emo_lang>. The survivors of your wrath are restrained.</v>
 			<v id="11" bcv="PSA.76.11"><emo_lang emotion="fear" tone="petitioning">Make vows to Yahweh your God, and fulfill them! Let all of his neighbors bring presents to him who is to be feared</emo_lang>.</v>
@@ -1370,7 +1370,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="8" bcv="PSA.77.8"><emo_lang emotion="fear" tone="anxiety">Has his loving kindness vanished forever?Does his promise fail for generations</emo_lang>?</v>
 			<v id="9" bcv="PSA.77.9"><emo_lang emotion="fear" tone="anxiety">Has God forgotten to be gracious?Has he, in anger, withheld his compassion</emo_lang>?”
 			</v>
-			<v id="10" bcv="PSA.77.10">Then I thought, “I will appeal to this:the years of the right hand of the Most High.”</v>
+			<v id="10" bcv="PSA.77.10">Then I thought, “I will appeal to this:the years of the right hand of the Most High.”</v><!--petitioning?-->
 			<v id="11" bcv="PSA.77.11"><emo_lang emotion="contentment" tone="praise">I will remember Yah’s deeds;for I will remember your wonders of old</emo_lang>.</v>
 			<v id="12" bcv="PSA.77.12">I will also meditate on all your work,and consider your doings.</v>
 			<v id="13" bcv="PSA.77.13">Your way, God, is in the sanctuary. <emo_lang emotion="contentment" tone="praise">What god is great like God</emo_lang>?</v>
@@ -1378,7 +1378,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="15" bcv="PSA.77.15"><emo_lang emotion="contentment" tone="praise">You have redeemed your people with your arm,the sons of Jacob and Joseph</emo_lang>. 
 			</v>
 			<v id="16" bcv="PSA.77.16">The waters saw you, God. The waters saw you, and <emo_lang emotion="fear" tone="fear">they writhed. The depths also convulsed</emo_lang>.</v>
-			<v id="17" bcv="PSA.77.17">The clouds poured out water. The skies resounded with thunder. Your arrows also flashed around.</v>
+			<v id="17" bcv="PSA.77.17">The clouds poured out water. The skies resounded with thunder. Your arrows also flashed around.</v><!--violence-->
 			<v id="18" bcv="PSA.77.18">The voice of your thunder was in the whirlwind. The lightnings lit up the world. <emo_lang emotion="fear" tone="fear">The earth trembled and shook</emo_lang>.</v>
 			<v id="19" bcv="PSA.77.19">Your way was through the sea;your paths through the great waters. Your footsteps were not known.</v>
 			<v id="20" bcv="PSA.77.20"><emo_lang emotion="contentment" tone="praise">You led your people like a flock</emo_lang>,by the hand of Moses and Aaron.</v>
