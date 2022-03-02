@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 	<book id="PSA">
-		<c id="1">
+		<c id="1"> <!-- feral: *question regarding lines for group meeting*-->
 			<v id="1" bcv="PSA.1.1"><emo_lang emotion="joy" tone="praise">Blessed</emo_lang> is the man who <emo_lang emotion="joy" tone="righteousness">doesn’t walk in the counsel of the wicked</emo_lang>,<emo_lang emotion="joy" tone="righteousness">nor stand on the path of sinners</emo_lang>,<emo_lang emotion="joy" tone="righteousness">nor sit in the seat of scoffers</emo_lang>;</v>
 			<v id="2" bcv="PSA.1.2">but his <emo_lang emotion="joy" tone="praise">delight</emo_lang> is in Yahweh’s law. On his law he <emo_lang emotion="contentment" tone="praise">meditates</emo_lang> day and night.</v>
 			<v id="3" bcv="PSA.1.3">He will be like a tree planted by the streams of water,that <emo_lang emotion="contentment" tone="praise">produces its fruit in its season</emo_lang>,whose leaf also <emo_lang emotion="contentment" tone="praise">does not wither</emo_lang>. Whatever he does shall <emo_lang emotion="joy" tone="praise">prosper</emo_lang>.</v>
@@ -13,7 +13,7 @@
 			<v id="1" bcv="PSA.2.1">Why do the nations <emo_lang emotion="anger" tone="fear">rage</emo_lang>,and the peoples <emo_lang emotion="anger" tone="anxiety">plot a vain thing</emo_lang>?</v>
 			<v id="2" bcv="PSA.2.2"><emo_lang emotion="anger" tone="anxiety">The kings of the earth take a stand,and the rulers take counsel together,against Yahweh, and against his Anointed</emo_lang>, saying,</v>
 			<v id="3" bcv="PSA.2.3">“Let’s <emo_lang emotion="anger" tone="violence">break</emo_lang> their bonds apart,and <emo_lang emotion="anger" tone="violence">cast</emo_lang> their cords from us.”</v>
-			<v id="4" bcv="PSA.2.4"><emo_lang emotion="contenment" tone="righteousness">He who sits in the heavens will laugh. The Lord will have them in derision</emo_lang>.</v>
+			<v id="4" bcv="PSA.2.4"><emo_lang emotion="contenment" tone="righteousness"><!-- possibly anger? derision is mockery-->He who sits in the heavens will laugh. The Lord will have them in derision</emo_lang>.</v>
 			<v id="5" bcv="PSA.2.5">Then <emo_lang emotion="anger" tone="righteousness">he will speak to them in his anger</emo_lang>,and <emo_lang emotion="anger" tone="violence">terrify them in his wrath</emo_lang></v>
 			<v id="6" bcv="PSA.2.6">“Yet I have set my King on my holy hill of Zion.”</v>
 			<v id="7" bcv="PSA.2.7">I will tell of the decree. Yahweh said to me, “<emo_lang emotion="joy" tone="praise">You are my son. Today I have become your father</emo_lang>.</v>
@@ -30,14 +30,14 @@
 			<v id="3" bcv="PSA.3.3">But you, Yahweh, are a <emo_lang emotion="joy" tone="praise">shield around me</emo_lang>,<emo_lang emotion="joy" tone="praise">my glory</emo_lang>, and <emo_lang emotion="joy" tone="praise">the one who lifts up my head</emo_lang>.</v>
 			<v id="4" bcv="PSA.3.4"><emo_lang emotion="joy" tone="praise">I cry to Yahweh with my voice,and he answers me out of his holy hill</emo_lang>. 
 			</v>
-			<v id="5" bcv="PSA.3.5">I laid myself down and slept. I awakened; for <emo_lang emotion="joy" tone="praise">Yahweh sustains me</emo_lang>.</v>
+			<v id="5" bcv="PSA.3.5"><emo_lang emotion="contentment" tone="praise"><!-- can we do no tones?-->I laid myself down and slept.</emo_lang> I awakened; for <emo_lang emotion="joy" tone="praise">Yahweh sustains me</emo_lang>.</v>
 			<v id="6" bcv="PSA.3.6"><emo_lang emotion="joy" tone="praise">I will not be afraid</emo_lang> of <emo_lang emotion="fear" tone="fear">tens of thousands of people who have set themselves against me on every side</emo_lang>.</v>
 			<v id="7" bcv="PSA.3.7">Arise, Yahweh!<emo_lang emotion="fear" tone="petitioning">Save me, my God</emo_lang>!For <emo_lang emotion="joy" tone="violence">you have struck all of my enemies on the cheek bone.</emo_lang> <emo_lang emotion="joy" tone="violence">You have broken the teeth of the wicked.</emo_lang></v>
 			<v id="8" bcv="PSA.3.8"><emo_lang emotion="joy" tone="praise">Salvation</emo_lang> belongs to Yahweh. <emo_lang emotion="joy" tone="praise">Your blessing be on your people</emo_lang>. 
 			</v>
 		</c>
 		<c id="4">
-			<v id="1" bcv="PSA.4.1"><emo_lang emotion="fear" tone="pleading">Answer me</emo_lang> when I call, God of my righteousness. <emo_lang emotion="sorrow" tone="pleading">Give me relief from my distress</emo_lang>. <emo_lang emotion="sorrow" tone="pleading">Have mercy on me, and hear my prayer</emo_lang>.</v>
+			<v id="1" bcv="PSA.4.1"><emo_lang emotion="fear" tone="pleading">Answer me</emo_lang> when I call, <emo_lang emotion="joy" tone="praise" tone2="righteousness">God of my righteousness</emo_lang>. <emo_lang emotion="sorrow" tone="pleading">Give me relief from my distress</emo_lang>. <emo_lang emotion="sorrow" tone="pleading">Have mercy on me, and hear my prayer</emo_lang>.</v>
 			<v id="2" bcv="PSA.4.2">You sons of men, <emo_lang emotion="anger" tone="anxiety">how long shall my glory be turned into dishonor</emo_lang>?<emo_lang emotion="anger" tone="anxiety">Will you love vanity, and seek after falsehood</emo_lang>?
 			</v>
 			<v id="3" bcv="PSA.4.3">But know that <emo_lang emotion="joy" tone="righteousness">Yahweh has set apart for himself him who is godly</emo_lang>:<emo_lang emotion="joy" tone="praise">Yahweh will hear when I call to him</emo_lang>.</v>
@@ -125,8 +125,8 @@
 			</v>
 			<v id="17" bcv="PSA.9.17"><emo_lang emotion="anger" tone="righteousness">The wicked shall be turned back to Sheol</emo_lang>,even all the nations that forget God.</v>
 			<v id="18" bcv="PSA.9.18"><emo_lang emotion="joy" tone="petitioning">For the needy shall not always be forgotten,nor the hope of the poor perish forever</emo_lang>.</v>
-			<v id="19" bcv="PSA.9.19">Arise, Yahweh! Don’t let man prevail. Let the nations be judged in your sight.</v>
-			<v id="20" bcv="PSA.9.20"><emo_lang emotion="anger" tone="pleading">Put them in fear</emo_lang>, Yahweh. Let the nations know that they are only men. 
+			<v id="19" bcv="PSA.9.19"><emo_lang emotion="anger" tone="petitioning">Arise, Yahweh! Don’t let man prevail. Let the nations be judged in your sight.</emo_lang></v>
+			<v id="20" bcv="PSA.9.20"><emo_lang emotion="anger" tone="pleading">Put them in fear</emo_lang>, Yahweh. <emo_lang emotion="anger" tone="petitioning" tone2="righteousness">Let the nations know that they are only men</emo_lang>. 
 			</v>
 		</c>
 		<c id="10">
@@ -163,7 +163,7 @@
 			<v id="2" bcv="PSA.12.2"><emo_lang emotion="anger" tone="fear">Everyone lies to his neighbor. They speak with flattering lips, and with a double heart</emo_lang>.</v>
 			<v id="3" bcv="PSA.12.3"><emo_lang emotion="anger" tone="violence" tone2="righteousness">May Yahweh cut off all flattering lips,and the tongue that boasts</emo_lang>,</v>
 			<v id="4" bcv="PSA.12.4">who have said, “<emo_lang emotion="anger" tone="boasting">With our tongue we will prevail. Our lips are our own. Who is lord over us</emo_lang>?”</v>
-			<v id="5" bcv="PSA.12.5">“Because of the oppression of the weak and because of the groaning of the needy,I will now arise,” says Yahweh;“<emo_lang emotion="anger" tone="righteousness">I will set him in safety from those who malign him</emo_lang>.”</v>
+			<v id="5" bcv="PSA.12.5">“<emo_lang emotion="anger" tone="righteousness">Because of the oppression of the weak and because of the groaning of the needy</emo_lang>,I will now arise,” says Yahweh;“<emo_lang emotion="anger" tone="righteousness">I will set him in safety from those who malign him</emo_lang>.”</v>
 			<v id="6" bcv="PSA.12.6"><emo_lang emotion="joy" tone="praise">Yahweh’s words are flawless words,as silver refined in a clay furnace, purified seven times</emo_lang>.</v>
 			<v id="7" bcv="PSA.12.7">You will keep them, Yahweh. <emo_lang emotion="joy" tone="petitioning">You will preserve them from this generation forever</emo_lang>.</v>
 			<v id="8" bcv="PSA.12.8"><emo_lang emotion="anger" tone="fear">The wicked walk on every side,when what is vile is exalted among the sons of men</emo_lang>.</v>
@@ -172,7 +172,7 @@
 			<v id="1" bcv="PSA.13.1"><emo_lang emotion="sorrow" tone="pleading">How long, Yahweh?Will you forget me forever?How long will you hide your face from me</emo_lang>?</v>
 			<v id="2" bcv="PSA.13.2"><emo_lang emotion="sorrow" tone="pleading">How long shall I take counsel in my soul,having sorrow in my heart every day?How long shall my enemy triumph over me</emo_lang>?</v>
 			<v id="3" bcv="PSA.13.3"><emo_lang emotion="fear" tone="petitioning">Behold, and answer me, Yahweh, my God. Give light to my eyes, lest I sleep in death</emo_lang>;</v>
-			<v id="4" bcv="PSA.13.4">lest my enemy say, “I have prevailed against him;”lest my adversaries rejoice when I fall.</v>
+			<v id="4" bcv="PSA.13.4">lest my enemy say, “I have prevailed against him;”<emo_lang emotion="sorrow" tone="anxiety">lest my adversaries rejoice when I fall</emo_lang>.</v>
 			<v id="5" bcv="PSA.13.5"><emo_lang emotion="contentment" tone="righteousness">But I trust in your loving kindness</emo_lang>. <emo_lang emotion="joy" tone="praise">My heart rejoices in your salvation</emo_lang>.</v>
 			<v id="6" bcv="PSA.13.6"><emo_lang emotion="joy" tone="praise">I will sing to Yahweh,because he has been good to me</emo_lang>.</v>
 		</c>
@@ -286,7 +286,7 @@
 			<v id="9" bcv="PSA.19.9"><emo_lang emotion="joy" tone="praise" tone2="righteousness">The fear of Yahweh is clean, enduring forever. Yahweh’s ordinances are true, and righteous altogether</emo_lang>.</v>
 			<v id="10" bcv="PSA.19.10"><emo_lang emotion="joy" tone="praise">Thoy are more to be desired than gold</emo_lang>, yes, than much fine gold;<emo_lang emotion="joy" tone="praise">sweeter also than honey</emo_lang> and the extract of the honeycomb.</v>
 			<v id="11" bcv="PSA.19.11">Moreover your servant is warned by them. In keeping them there is great reward.</v>
-			<v id="12" bcv="PSA.19.12">Who can discern his errors?Forgive me from hidden errors.</v>
+			<v id="12" bcv="PSA.19.12">Who can discern his errors?<emo_lang emotion="sorrow" tone="petitioning">Forgive me from hidden errors</emo_lang>.</v>
 			<v id="13" bcv="PSA.19.13"><emo_lang emotion="anger" tone="petitioning" tone2="righteousness">Keep back your servant also from presumptuous sins. Let them not have dominion over me</emo_lang>. <emo_lang emotion="contentment" tone="righteousness">Then I will be upright. I will be blameless and innocent of great transgression</emo_lang>.</v>
 			<v id="14" bcv="PSA.19.14"><emo_lang emotion="joy" tone="petitioning">Let the words of my mouth and the meditation of my heart be acceptable in your sight</emo_lang>,Yahweh, <emo_lang emotion="joy" tone="praise">my rock, and my redeemer</emo_lang>.</v>
 		</c>
@@ -418,7 +418,7 @@
 			<v id="4" bcv="PSA.27.4">One thing I have asked of Yahweh, that I will seek after:<emo_lang emotion="joy" tone="petitioning">that I may dwell in Yahweh’s house all the days of my life,to see Yahweh’s beauty,and to inquire in his temple</emo_lang>.</v>
 			<v id="5" bcv="PSA.27.5">For in the day of trouble, <emo_lang emotion="joy" tone="righteousness">he will keep me secretly in his pavilion. In the secret place of his tabernacle, he will hide me. He will lift me up on a rock</emo_lang>.</v>
 			<v id="6" bcv="PSA.27.6">Now my head will be lifted up above my enemies around me;<emo_lang emotion="joy" tone="praise">I will offer sacrifices of joy in his tent. I will sing, yes, I will sing praises to Yahweh</emo_lang>.</v>
-			<v id="7" bcv="PSA.27.7">Hear, Yahweh, when I cry with my voice. Have mercy also on me, and answer me.</v>
+			<v id="7" bcv="PSA.27.7">Hear, Yahweh, when I cry with my voice. <emo_lang emotion="sorrow" tone="pleading">Have mercy also on me, and answer me</emo_lang>.</v>
 			<v id="8" bcv="PSA.27.8">When you said, “Seek my face,”my heart said to you, “<emo_lang emotion="joy" tone="righteousness">I will seek your face</emo_lang>, Yahweh.”</v>
 			<v id="9" bcv="PSA.27.9"><emo_lang emotion="fear" tone="anxiety">Don’t hide your face from me. Don’t put your servant away in anger</emo_lang>. <emo_lang emotion="fear" tone="praise">You have been my help</emo_lang>. <emo_lang emotion="fear" tone="pleading">Don’t abandon me,neither forsake me, God of my salvation</emo_lang>.</v>
 			<v id="10" bcv="PSA.27.10"><emo_lang emotion="fear" tone="axniety">When my father and my mother forsake me</emo_lang>,then <emo_lang emotion="joy" tone="praise">Yahweh will take me up</emo_lang>.</v>
@@ -486,7 +486,7 @@
 			<v id="18" bcv="PSA.31.18"><emo_lang emotion="anger" tone="petitioning">Let the lying lips be mute</emo_lang>,which <emo_lang emotion="anger" tone="righteousness">speak against the righteous insolently, with pride and contempt</emo_lang>.</v>
 			<v id="19" bcv="PSA.31.19">Oh <emo_lang emotion="joy" tone="praise">how great is your goodness</emo_lang>,which <emo_lang emotion="joy" tone="praise" tone2="righteousness">you have laid up for those who fear you,which you have worked for those who take refuge in you</emo_lang>,before the sons of men!</v>
 			<v id="20" bcv="PSA.31.20">In the shelter of your presence <emo_lang emotion="joy" tone="petitioning" tone2="praise">you will hide them from the plotting of man. You will keep them secretly in a dwelling away from the strife of tongues</emo_lang>.</v>
-			<v id="21" bcv="PSA.31.21">Praise be to Yahweh,for he has shown me his marvelous loving kindness in a strong city.</v>
+			<v id="21" bcv="PSA.31.21"><emo_lang emotion="joy" tone="praise">Praise be to Yahweh,for he has shown me his marvelous loving kindness in a strong city.</emo_lang></v>
 			<v id="22" bcv="PSA.31.22">As for me, I said in my haste, “<emo_lang emotion="fear" tone="anxiety">I am cut off from before your eyes</emo_lang>.”Nevertheless <emo_lang emotion="joy" tone="praise">you heard the voice of my petitions when I cried to you</emo_lang>.</v>
 			<v id="23" bcv="PSA.31.23">Oh <emo_lang emotion="joy" tone="praise">love</emo_lang> Yahweh, all you his saints!Yahweh <emo_lang emotion="joy" tone="praise" tone2="righteousness">preserves the faithful,and fully recompenses him who behaves arrogantly</emo_lang>.</v>
 			<v id="24" bcv="PSA.31.24"><emo_lang emotion="joy" tone="righteousness">Be strong, and let your heart take courage</emo_lang>,all you who hope in Yahweh.</v>
@@ -571,7 +571,7 @@
 			<v id="13" bcv="PSA.35.13">But as for me, <emo_lang emotion="contentment" tone="righteousness">when they were sick, my clothing was sackcloth. I afflicted my soul with fasting. My prayer returned into my own bosom</emo_lang>.</v>
 			<v id="14" bcv="PSA.35.14"><emo_lang emotion="contentment" tone="righteousness">I behaved myself as though it had been my friend or my brother</emo_lang>. <emo_lang emotion="sorrow" tone="righteousness">I bowed down mourning, as one who mourns his mother</emo_lang>.</v>
 			<v id="15" bcv="PSA.35.15">But <emo_lang emotion="anger" tone="boasting">in my adversity, they rejoiced</emo_lang>, and gathered themselves together. <emo_lang emotion="fear" tone="violence">The attackers gathered themselves together against me</emo_lang>, and I didn’t know it. <emo_lang emotion="anger" tone="violence">They tore at me, and didn’t cease</emo_lang>.</v>
-			<v id="16" bcv="PSA.35.16">Like the profane mockers in feasts,<emo_lang emotion="anger" tone="violence">they gnashed their teeth at me</emo_lang>.</v>
+			<v id="16" bcv="PSA.35.16">Like <emo_lang emotion="anger" tone="anxiety">the profane mockers in feasts</emo_lang>,<emo_lang emotion="anger" tone="violence">they gnashed their teeth at me</emo_lang>.</v>
 			<v id="17" bcv="PSA.35.17">Lord, <emo_lang emotion="fear" tone="pleading">how long will you look on?Rescue my soul from their destruction,my precious life from the lions</emo_lang>.</v>
 			<v id="18" bcv="PSA.35.18"><emo_lang emotion="fear" tone="praise" tone2="pleading">I will give you thanks in the great assembly. I will praise you among many people</emo_lang>.</v>
 			<v id="19" bcv="PSA.35.19"><emo_lang emotion="fear" tone="pleading">Don’t let those who are my enemies wrongfully rejoice over me;neither let those who hate me without a cause wink their eyes</emo_lang>.</v>
@@ -683,7 +683,7 @@
 			<v id="13" bcv="PSA.39.13"><emo_lang emotion="fear" tone="pleading" tone2="anxiety">Oh spare me, that I may recover strength,before I go away, and exist no more</emo_lang>.”</v>
 		</c>
 		<c id="40">
-			<v id="1" bcv="PSA.40.1">I waited patiently for Yahweh. He turned to me, and heard my cry.</v>
+			<v id="1" bcv="PSA.40.1"><emo_lang emotion="contentment" tone="boasting">I waited patiently for Yahweh</emo_lang>. He turned to me, and heard my cry.</v>
 			<v id="2" bcv="PSA.40.2"><emo_lang emotion="fear" tone="praise">He brought me up also out of a horrible pit,out of the miry clay. He set my feet on a rock,and gave me a firm place to stand</emo_lang>.</v>
 			<v id="3" bcv="PSA.40.3"><emo_lang emotion="joy" tone="praise">He has put a new song in my mouth, even praise to our God</emo_lang>. <emo_lang emotion="joy" tone="righteousness" tone2="praise">Many shall see it, and fear, and shall trust in Yahweh</emo_lang>.</v>
 			<v id="4" bcv="PSA.40.4"><emo_lang emotion="joy" tone="righteousness">Blessed is the man who makes Yahweh his trust,and doesn’t respect the proud, nor such as turn away to lies</emo_lang>.</v>
@@ -762,7 +762,7 @@
 			<v id="22" bcv="PSA.44.22">Yes, <emo_lang emotion="anger" tone="violence" tone2="righteousness">for your sake we are killed all day long</emo_lang>. <emo_lang emotion="anger" tone="fear" tone2="violence">We are regarded as sheep for the slaughter</emo_lang>.</v>
 			<v id="23" bcv="PSA.44.23"><emo_lang emotion="fear" tone="pleading">Wake up!Why do you sleep, Lord?Arise!Don’t reject us forever</emo_lang>.</v>
 			<v id="24" bcv="PSA.44.24"><emo_lang emotion="fear" tone="pleading">Why do you hide your face,and forget our affliction and our oppression</emo_lang>?</v>
-			<v id="25" bcv="PSA.44.25">For our soul is bowed down to the dust. Our body clings to the earth.</v>
+			<v id="25" bcv="PSA.44.25"><emo_lang emotion="sorrow" tone="anxiety">For our soul is bowed down to the dust. Our body clings to the earth</emo_lang>.</v>
 			<v id="26" bcv="PSA.44.26"><emo_lang emotion="fear" tone="petitioning">Rise up to help us</emo_lang>. <emo_lang emotion="fear" tone="petitioning" tone2="praise">Redeem us for your loving kindness’ sake</emo_lang>.</v>
 		</c>
 		<c id="45">
@@ -840,7 +840,7 @@
 			<v id="7" bcv="PSA.49.7"><emo_lang emotion="anger" tone="righteousness">none of them can by any means redeem his brother,nor give God a ransom for him</emo_lang>.</v>
 			<v id="8" bcv="PSA.49.8">For the <emo_lang emotion="anger" tone="righteousness">redemption of their life is costly</emo_lang>,no payment is ever enough,</v>
 			<v id="9" bcv="PSA.49.9"><emo_lang emotion="anger" tone="righteousness">that he should live on forever,that he should not see corruption</emo_lang>.</v>
-			<v id="10" bcv="PSA.49.10">For he sees that wise men die;likewise the fool and the senseless perish,and leave their wealth to others.</v>
+			<v id="10" bcv="PSA.49.10">For he sees that wise men die;likewise <emo_lang emotion="anger" tone="righteousness" tone2="violence">the fool and the senseless perish</emo_lang>,and leave their wealth to others.</v>
 			<v id="11" bcv="PSA.49.11">Their inward thought is that their houses will endure forever,and their dwelling places to all generations. They name their lands after themselves.</v>
 			<v id="12" bcv="PSA.49.12">But <emo_lang emotion="contentment" tone="righteousness">man, despite his riches, doesn’t endure. He is like the animals that perish</emo_lang>.</v>
 			<v id="13" bcv="PSA.49.13"><emo_lang emotion="contentment" tone="righteousness">This is the destiny of those who are foolish,and of those who approve their sayings</emo_lang>. 
@@ -2188,7 +2188,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="7" bcv="PSA.114.7"><emo_lang emotion="fear" tone="anxiety">Tremble, you earth, at the presence of the Lord,at the presence of the God of Jacob</emo_lang>,</v>
 			<v id="8" bcv="PSA.114.8">who turned the rock into a pool of water,the flint into a spring of waters.</v>
 		</c>
-	<c id="115">
+	<c id="115"><!-- start of feral's markup-->
 			<v id="1" bcv="PSA.115.1">Not to us, Yahweh, not to us,but <emo_lang emotion="joy">to
 				your name give glory</emo_lang>,for your <emo_lang emotion="joy">loving
 					kindness</emo_lang>, and for your truth’s sake.</v>
