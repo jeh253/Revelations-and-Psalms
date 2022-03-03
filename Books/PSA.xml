@@ -2016,7 +2016,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="22" bcv="PSA.106.22">wondrous works in the land of Ham,and awesome things by the Red Sea.</v>
 			<v id="23" bcv="PSA.106.23">Therefore <emo_lang emotion="anger" tone="righteousness">he said that he would destroy them,had Moses, his chosen, not stood before him in the breach,to turn away his wrath, so that he wouldn’t destroy them</emo_lang>.</v>
 			<v id="24" bcv="PSA.106.24">Yes, <emo_lang emotion="anger" tone="righteousness">they despised the pleasant land. They didn’t believe his word</emo_lang>,</v>
-			<v id="25" bcv="PSA.106.25">but murmured in their tents,and didn’t listen to Yahweh’s voice.</v>
+			<v id="25" bcv="PSA.106.25">but murmured in their tents,and didn’t listen to Yahweh’s voice.</v><!--anger/righteousness-->
 			<v id="26" bcv="PSA.106.26">Therefore <emo_lang emotion="anger" tone="righteousness">he swore to them that he would overthrow them in the wilderness</emo_lang>,</v>
 			<v id="27" bcv="PSA.106.27">that <emo_lang emotion="anger" tone="righteousness">he would overthrow their offspring among the nations,and scatter them in the lands</emo_lang>.</v>
 			<v id="28" bcv="PSA.106.28">They joined themselves also to Baal Peor,and ate the sacrifices of the dead.</v>
@@ -2037,7 +2037,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="43" bcv="PSA.106.43">He rescued them many times,but <emo_lang emotion="anger" tone="righteousness">they were rebellious in their counsel,and were brought low in their iniquity</emo_lang>.</v>
 			<v id="44" bcv="PSA.106.44"><emo_lang emotion="fear" tone="praise">Nevertheless he regarded their distress,when he heard their cry</emo_lang>.</v>
 			<v id="45" bcv="PSA.106.45">He remembered for them his covenant,and repented according to the multitude of his loving kindnesses.</v>
-			<v id="46" bcv="PSA.106.46">He made them also to be pitiedby all those who carried them captive.</v>
+			<v id="46" bcv="PSA.106.46">He made them also to be pitied by all those who carried them captive.</v>
 			<v id="47" bcv="PSA.106.47"><emo_lang emotion="joy" tone="praise">Save us, Yahweh, our God,gather us from among the nations,to give thanks to your holy name,to triumph in your praise</emo_lang>!</v>
 			<v id="48" bcv="PSA.106.48"><emo_lang emotion="joy" tone="praise">Blessed be Yahweh, the God of Israel,from everlasting even to everlasting!Let all the people say, “Amen.”Praise Yah</emo_lang>!</v>
 		</c>
@@ -2061,7 +2061,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="17" bcv="PSA.107.17"><emo_lang emotion="anger" tone="righteousness">Fools are afflicted because of their disobedience,and because of their iniquities</emo_lang>.</v>
 			<v id="18" bcv="PSA.107.18">Their soul abhors all kinds of food. They draw near to the gates of death.</v>
 			<v id="19" bcv="PSA.107.19">Then <emo_lang emotion="sorrow" tone="boasting">they cry to Yahweh in their trouble,he saves them out of their distresses</emo_lang>.</v>
-			<v id="20" bcv="PSA.107.20">He sends his word, and heals them,and delivers them from their graves.</v>
+			<v id="20" bcv="PSA.107.20">He sends his word, and heals them,and delivers them from their graves.</v><!--praise-->
 			<v id="21" bcv="PSA.107.21"><emo_lang emotion="joy" tone="petitioning" tone2="praise">Let them praise Yahweh for his loving kindness,for his wonderful deeds to the children of men</emo_lang>!</v>
 			<v id="22" bcv="PSA.107.22"><emo_lang emotion="joy" tone="petitioning" tone2="praise">Let them offer the sacrifices of thanksgiving,and declare his deeds with singing</emo_lang>.</v>
 			<v id="23" bcv="PSA.107.23">Those who go down to the sea in ships,who do business in great waters;</v>
@@ -2125,10 +2125,10 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="21" bcv="PSA.109.21"><emo_lang emotion="contentment" tone="praise" tone2="pleading">But deal with me, Yahweh the Lord, for your name’s sake,because your loving kindness is good, deliver me</emo_lang>;</v>
 			<v id="22" bcv="PSA.109.22">for <emo_lang emotion="fear" tone="anxiety">I am poor and needy. My heart is wounded within me</emo_lang>.</v>
 			<v id="23" bcv="PSA.109.23">I fade away like an evening shadow. I am shaken off like a locust.</v>
-			<v id="24" bcv="PSA.109.24">My knees are weak through fasting. My body is thin and lacks fat.</v>
+			<v id="24" bcv="PSA.109.24">My knees are weak through fasting. My body is thin and lacks fat.</v><!--fear?-->
 			<v id="25" bcv="PSA.109.25">I have also become a reproach to them. When they see me, they shake their head.</v>
 			<v id="26" bcv="PSA.109.26"><emo_lang emotion="fear" tone="anxiety" tone2="pleading">Help me, Yahweh, my God. Save me according to your loving kindness</emo_lang>;</v>
-			<v id="27" bcv="PSA.109.27">that they may know that this is your hand;that you, Yahweh, have done it.</v>
+			<v id="27" bcv="PSA.109.27">that they may know that this is your hand;that you, Yahweh, have done it.</v><!--praise-->
 			<v id="28" bcv="PSA.109.28"><emo_lang emotion="contentment" tone="praise" tone2="righteousness">They may curse, but you bless. When they arise, they will be shamed,but your servant shall rejoice</emo_lang>.</v>
 			<v id="29" bcv="PSA.109.29"><emo_lang emotion="anger" tone="righteousness" tone2="petitioning">Let my adversaries be clothed with dishonor. Let them cover themselves with their own shame as with a robe</emo_lang>.</v>
 			<v id="30" bcv="PSA.109.30"><emo_lang emotion="contentment" tone="praise">I will give great thanks to Yahweh with my mouth. Yes, I will praise him among the multitude</emo_lang>.</v>
@@ -2151,7 +2151,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="5" bcv="PSA.111.5"><emo_lang emotion="fear" tone="praise">He has given food to those who fear him. He always remembers his covenant</emo_lang>.</v>
 			<v id="6" bcv="PSA.111.6">He has shown his people the power of his works, in giving them the heritage of the nations.</v>
 			<v id="7" bcv="PSA.111.7"><emo_lang emotion="contentment" tone="praise">The works of his hands are truth and justice. All his precepts are sure</emo_lang>.</v>
-			<v id="8" bcv="PSA.111.8">They are established forever and ever. They are done in truth and uprightness.</v>
+			<v id="8" bcv="PSA.111.8">They are established forever and ever. They are done in truth and uprightness.</v><!--praise/righteousness-->
 			<v id="9" bcv="PSA.111.9"><emo_lang emotion="contentment" tone="praise">He has sent redemption to his people. He has ordained his covenant forever. His name is holy and awesome</emo_lang>!</v>
 			<v id="10" bcv="PSA.111.10"><emo_lang emotion="fear" tone="praise">The fear of Yahweh is the beginning of wisdom. All those who do his work have a good understanding. His praise endures forever</emo_lang>!</v>
 		</c>
@@ -2164,7 +2164,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="6" bcv="PSA.112.6"><emo_lang emotion="fear" tone="boasting" tone2="righteousness">For he will never be shaken. The righteous will be remembered forever</emo_lang>.</v>
 			<v id="7" bcv="PSA.112.7"><emo_lang emotion="fear" tone="boasting">He will not be afraid of evil news. His heart is steadfast, trusting in Yahweh</emo_lang>.</v>
 			<v id="8" bcv="PSA.112.8">His heart is established. <emo_lang emotion="fear" tone="boasting">He will not be afraid in the end when he sees his adversaries</emo_lang>.</v>
-			<v id="9" bcv="PSA.112.9">He has dispersed, he has given to the poor. <emo_lang emotion="contentment" tone="boasting" tone2="righteousness">His righteousness endures forever. His horn will be exalted with honor</emo_lang>.</v>
+			<v id="9" bcv="PSA.112.9"><!--praise?-->He has dispersed, he has given to the poor. <emo_lang emotion="contentment" tone="boasting" tone2="righteousness">His righteousness endures forever. His horn will be exalted with honor</emo_lang>.</v>
 			<v id="10" bcv="PSA.112.10"><emo_lang emotion="anger" tone="righteousness">The wicked will see it, and be grieved. He shall gnash with his teeth, and melt away. The desire of the wicked will perish</emo_lang>.</v>
 		</c>
 		<c id="113">
