@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ng_list_test.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <!-- order is enforced -->
+    <l>Some <tag type="b a">text</tag> for testing</l>
+    <l>Some <tag type="a c">text</tag> for testing</l>
+    <l>Some text for testing</l>
+    <l>Some <tag type="c">text</tag> for testing</l>
+    <l>Some <tag type="a">text</tag> for testing</l>
+</root>

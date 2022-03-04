@@ -1,0 +1,6 @@
+
+start = root
+root = element root {l+}
+l = element l {mixed{tag*}}
+tag = element tag {type*, text*}
+type = attribute type {list {(("a" | "b" | "c")+)}}
