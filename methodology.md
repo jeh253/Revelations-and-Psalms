@@ -25,7 +25,7 @@ Attributes:
   - contentment
   - fear
 
-  Tone: Tone is attributed based on the way that the emotional phrase is being considered within it's context. Tone has more than one option (tags `<tone>, <tone2>`) in the event that an emotional word or phrase may be considered to fall under two of the following. It is important to note that since the tagging is being done by three separate individuals there will be slight variations of what tone is attributed to each tag with emotional language.
+  Tone: Tone is attributed based on the way that the emotional phrase is being considered within it's context. Tone has more than one option but are attributed within the same attribute, in the event that an emotional word or phrase may be considered to fall under two of the following. It is important to note that since the tagging is being done by three separate individuals there will be slight variations of what tone is attributed to each tag with emotional language.
   
   The tones that are listed as attributes are:
   - Pleading
