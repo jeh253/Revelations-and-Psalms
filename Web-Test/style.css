@@ -1,0 +1,44 @@
+body {
+  overflow-y: hidden;
+}
+img {
+  margin: 0 25%;
+  width: 50%;
+  height: 100vh;
+  object-fit: fill;
+}
+.center {
+  position: absolute;
+  left: 27%;
+  top: 0;
+  width: 47.5%;
+  height: 100vh;
+  overflow-y: scroll;
+}
+p {
+  color: white;
+  font-size: 1.5em;
+}
+button {
+  margin: auto .5em;
+  height: 3em;
+}
+#navTabs {
+  position: absolute;
+  right: 10.9%;
+  top: 24.6%;
+  
+  transform: rotate(90deg);
+}
+#about {
+    display: none;
+}
+#corpus {
+    display: none;
+}
+#analysis {
+    display: none;
+}
+#conclusion {
+    display: none;
+}
