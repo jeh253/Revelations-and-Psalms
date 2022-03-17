@@ -1,7 +1,7 @@
 start = root
-root = element root {book+}
-book = element book {c+,id+}
-c = element c {v+,id+}
+root = element root {book}
+book = element book {c+,id}
+c = element c {v+,id}
 v = element v {mixed{id, bcv, (emo_lang)*}}
 id = attribute id {text}
 bcv = attribute bcv {text}
