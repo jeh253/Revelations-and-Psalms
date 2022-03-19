@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../repetition.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <root>
 	<book id="PSA">
 		<c id="1"> <!-- feral: *question regarding lines for group meeting*-->
