@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/repetition.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schemas/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 	<book id="REV">
 		<c id="1">
@@ -77,7 +78,7 @@
 			<v id="6" bcv="REV.2.6"><emo_lang emotion="anger" tone="righteousness">But this you have, that you hate the works of the Nicolaitans,
 				which I also hate.</emo_lang></v>
 			<v id="7" bcv="REV.2.7">He who has an ear, let him hear what the Spirit says to the
-				assemblies. <emo_lang emotion="joy" tone="praise?">To him who overcomes I will give to eat from the tree of life, which is
+				assemblies. <emo_lang emotion="joy" tone="praise">To him who overcomes I will give to eat from the tree of life, which is
 				in the Paradise of my God.</emo_lang></v>
 			<v id="8" bcv="REV.2.8">“To the angel of the assembly in Smyrna write:“The first and the
 				last, who was dead, and has come to life says these things:</v>
@@ -154,8 +155,8 @@
 			<v id="7" bcv="REV.3.7">“To the angel of the assembly in Philadelphia write:“He who is
 				holy, he who is true, he who has the key of David, he who opens and no one can shut,
 				and who shuts and no one opens, says these things:</v>
-			<v id="8" bcv="REV.3.8">“I know your works <!-- Reassurance? (behold, I have set before you an open door,
-				which no one can shut)-->, that you have a little power, and kept my word, and didn’t
+			<v id="8" bcv="REV.3.8">“I know your works, behold, I have set before you an open door,
+				which no one can shut, that you have a little power, and kept my word, and didn’t
 				deny my name.</v>
 			<v id="9" bcv="REV.3.9">Behold, I give some of the synagogue of Satan, of those who say
 				they are Jews, and they are not, but lie. <emo_lang emotion="anger" tone="boasting">Behold, I will make them to come and
@@ -178,7 +179,7 @@
 			<v id="16" bcv="REV.3.16"><emo_lang emotion="anger" tone="violence">So, because you are lukewarm, and neither hot nor cold, I will
 				vomit you out of my mouth.</emo_lang></v>
 			<v id="17" bcv="REV.3.17">Because you say, ‘I am rich, and have gotten riches, and have
-				need of nothing;’ and don’t know that <emo_lang emotion="anger" tone="righteousness"> <!-- Disgust??-->you are the wretched one, miserable, poor,
+				need of nothing;’ and don’t know that <emo_lang emotion="anger" tone="righteousness"> you are the wretched one, miserable, poor,
 				blind, and naked;</emo_lang></v>
 			<v id="18" bcv="REV.3.18">I counsel you to buy from me gold refined by fire, that you
 				may become rich; and white garments, that you may clothe yourself, and that the
@@ -308,8 +309,8 @@
 			<v id="15" bcv="REV.6.15">The kings of the earth, the princes, the commanding officers,
 				the rich, the strong, and every slave and free person, <emo_lang emotion="anger" tone="fear">hid themselves in the caves
 				and in the rocks of the mountains.</emo_lang></v>
-			<v id="16" bcv="REV.6.16">They told the mountains and the rocks, “<emo_lang emotion="sorrow" tone="fear" tone2="pleading">Fall on us, and hide
-				us from the face of him who sits on the throne</emo_lang>, and from <emo_lang emotion="anger" tone="righteousness" tone2="anger">the wrath of the Lamb</emo_lang>,</v>
+			<v id="16" bcv="REV.6.16">They told the mountains and the rocks, “<emo_lang emotion="sorrow" tone="fear pleading">Fall on us, and hide
+				us from the face of him who sits on the throne</emo_lang>, and from <emo_lang emotion="anger" tone="righteousness">the wrath of the Lamb</emo_lang>,</v>
 			<v id="17" bcv="REV.6.17">for the great day of his wrath has come; and <emo_lang emotion="sorrow" tone="anxiety">who is able to
 				stand?</emo_lang>”</v>
 		</c>
@@ -443,7 +444,7 @@
 				didn’t repent of the works of their hands, that they wouldn’t worship demons, and
 				the idols of gold, and of silver, and of brass, and of stone, and of wood; which
 				can’t see, hear, or walk.</v>
-			<v id="21" bcv="REV.9.21"><emo_lang emotion="anger" tone="">They didn’t repent of their murders, their sorceries, their
+			<v id="21" bcv="REV.9.21"><emo_lang emotion="anger" tone="righteousness">They didn’t repent of their murders, their sorceries, their
 				sexual immorality, or their thefts.</emo_lang></v>
 		</c>
 		<c id="10">
@@ -510,7 +511,7 @@
 			<v id="12" bcv="REV.11.12">I heard a loud voice from heaven saying to them, “Come up
 				here!” They went up into heaven in the cloud, and their enemies saw them.</v>
 			<v id="13" bcv="REV.11.13">In that day there was a great earthquake, and a tenth of the
-				city fell. <emo_lang emotion="fear" tone="praise" tone2="violence">Seven thousand people were killed in the earthquake, and the rest were
+				city fell. <emo_lang emotion="fear" tone="praise violence">Seven thousand people were killed in the earthquake, and the rest were
 				terrified, and gave glory to the God of heaven.</emo_lang></v>
 			<v id="14" bcv="REV.11.14">The second woe is past. Behold, <emo_lang emotion="sorrow" tone="anxiety">the third woe comes
 				quickly.</emo_lang></v>
@@ -524,7 +525,7 @@
 			<v id="18" bcv="REV.11.18"><emo_lang emotion="anger" tone="righteousness">The nations were angry, and your wrath came,</emo_lang> as did the time
 				for the dead to be judged, and to give your bondservants the prophets, their reward,
 				as well as to the saints, and those who fear your name, to the small and the great,
-				and <emo_lang emotion="anger" tone="violence" tone2="righteousness">to destroy those who destroy the earth.</emo_lang>”</v>
+				and <emo_lang emotion="anger" tone="violence righteousness">to destroy those who destroy the earth.</emo_lang>”</v>
 			<v id="19" bcv="REV.11.19">God’s temple that is in heaven was opened, and the ark of the
 				Lord’s covenant was seen in his temple. Lightnings, sounds, thunders, an earthquake,
 				and great hail followed.</v>
@@ -567,7 +568,7 @@
 				time, and times, and half a time, from the face of the serpent.</v>
 			<v id="15" bcv="REV.12.15">The serpent spewed water out of his mouth after the woman
 				like a river, <emo_lang emotion="anger" tone="violence">that he might cause her to be carried away by the stream</emo_lang>.</v>
-			<v id="16" bcv="REV.12.16"><emo_lang emotion="joy" tone="praise?">The earth helped the woman</emo_lang>, and the earth opened its mouth
+			<v id="16" bcv="REV.12.16"><emo_lang emotion="joy" tone="praise">The earth helped the woman</emo_lang>, and the earth opened its mouth
 				and swallowed up the river which the dragon spewed out of his mouth.</v>
 			<v id="17" bcv="REV.12.17"><emo_lang emotion="anger" tone="violence">The dragon grew angry with the woman, and went away to make
 				war with the rest of her offspring</emo_lang>, who keep God’s commandments and hold Jesus’
@@ -720,7 +721,7 @@
 				and righteous are your judgments.</emo_lang>”</v>
 			<v id="8" bcv="REV.16.8">The fourth poured out his bowl on the sun, and <emo_lang emotion="anger" tone="violence">it was given to
 				him to scorch men with fire.</emo_lang></v>
-			<v id="9" bcv="REV.16.9"><emo_lang emotion="anger" tone="righteousness?"> <!-- tone: contempt? -->People were scorched with great heat, and people blasphemed the
+			<v id="9" bcv="REV.16.9"><emo_lang emotion="anger" tone="righteousness"> People were scorched with great heat, and people blasphemed the
 				name of God who has the power over these plagues.</emo_lang> They didn’t repent and give him
 				glory.</v>
 			<v id="10" bcv="REV.16.10">The fifth poured out his bowl on the throne of the beast, and
@@ -818,7 +819,7 @@
 				her iniquities.</emo_lang></v>
 			<v id="6" bcv="REV.18.6">Return to her just as she returned, and repay her double as she
 				did, and according to her works. In the cup which she mixed, mix to her double.</v>
-			<v id="7" bcv="REV.18.7"><emo_lang emotion="anger" tone="violence" tone2="righteousness">However much she glorified herself, and grew wanton, so much
+			<v id="7" bcv="REV.18.7"><emo_lang emotion="anger" tone="violence righteousness">However much she glorified herself, and grew wanton, so much
 				give her of torment and mourning.</emo_lang> For she says in her heart, ‘I sit a queen, and am
 				no widow, and will in no way see mourning.’</v>
 			<v id="8" bcv="REV.18.8"><emo_lang emotion="anger" tone="violence">Therefore in one day her plagues will come: death, mourning,
@@ -854,7 +855,7 @@
 				mourning, saying, ‘Woe, woe, the great city, in which all who had their ships in the
 				sea were made rich by reason of her great wealth!’ For she is made desolate in one
 				hour.</emo_lang></v>
-			<v id="20" bcv="REV.18.20">“<emo_lang emotion="joy" tone="praise" tone2="petitioning">Rejoice over her, O heaven, you saints, apostles, and
+			<v id="20" bcv="REV.18.20">“<emo_lang emotion="joy" tone="praise petitioning">Rejoice over her, O heaven, you saints, apostles, and
 				prophets; for God has judged your judgment on her.</emo_lang>”</v>
 			<v id="21" bcv="REV.18.21">A mighty angel took up a stone like a great millstone and
 				cast it into the sea, saying, “Thus with violence will Babylon, the great city, be
@@ -867,7 +868,7 @@
 				voice of the bridegroom and of the bride will be heard no more at all in you; for
 				your merchants were the princes of the earth; for with your sorcery all the nations
 				were deceived.</v>
-			<v id="24" bcv="REV.18.24"><emo_lang emotion="anger" tone="righteousness"><!-- tone: accusatory?-->In her was found the blood of prophets and of saints, and of
+			<v id="24" bcv="REV.18.24"><emo_lang emotion="anger" tone="righteousness">In her was found the blood of prophets and of saints, and of
 				all who have been slain on the earth.</emo_lang>”</v>
 		</c>
 		<c id="19">
@@ -875,9 +876,9 @@
 				great multitude in heaven, saying, “<emo_lang emotion="joy" tone="praise">Hallelujah! Salvation, power, and glory belong
 				to our God</emo_lang>;</v>
 			<v id="2" bcv="REV.19.2">for his judgments are true and righteous. For he has judged the
-				<emo_lang emotion="anger" tone="violence" tone2="righteousness">great prostitute, who corrupted the earth with her sexual immorality, and he has
+				<emo_lang emotion="anger" tone="violence righteousness">great prostitute, who corrupted the earth with her sexual immorality, and he has
 				avenged the blood of his servants at her hand.</emo_lang>”</v>
-			<v id="3" bcv="REV.19.3">A second said, “<emo_lang emotion="joy" tone="violence" tone2="righteousness">Hallelujah! Her smoke goes up forever and
+			<v id="3" bcv="REV.19.3">A second said, “<emo_lang emotion="joy" tone="violence righteousness">Hallelujah! Her smoke goes up forever and
 				ever.</emo_lang>”</v>
 			<v id="4" bcv="REV.19.4">The twenty-four elders and the four living creatures fell down
 				and worshiped God who sits on the throne, saying, “<emo_lang emotion="joy" tone="praise">Amen! Hallelujah!</emo_lang>”</v>
@@ -886,7 +887,7 @@
 			<v id="6" bcv="REV.19.6">I heard something like the voice of a great multitude, and like
 				the voice of many waters, and like the voice of mighty thunders, saying,
 				“<emo_lang emotion="joy" tone="praise">Hallelujah! For the Lord our God, the Almighty, reigns!</emo_lang></v>
-			<v id="7" bcv="REV.19.7"> <!-- multiple lines?? -->Let’s rejoice and be exceedingly glad, and let’s give the glory
+			<v id="7" bcv="REV.19.7"> Let’s rejoice and be exceedingly glad, and let’s give the glory
 				to him. For the marriage of the Lamb has come, and his wife has made herself
 				ready.”</v>
 			<v id="8" bcv="REV.19.8">It was given to her that she would array herself in bright,
@@ -895,7 +896,7 @@
 				the marriage supper of the Lamb.</emo_lang>’” He said to me, “These are true words of God.”</v>
 			<v id="10" bcv="REV.19.10">I fell down before his feet to worship him. He said to me,
 				“Look! Don’t do it! I am a fellow bondservant with you and with your brothers who
-				hold the testimony of Jesus. <emo_lang emotion="joy" tone="praise" tone2="petitioning">Worship God, for the testimony of Jesus is the Spirit
+				hold the testimony of Jesus. <emo_lang emotion="joy" tone="praise petitioning">Worship God, for the testimony of Jesus is the Spirit
 				of Prophecy.</emo_lang>”</v>
 			<v id="11" bcv="REV.19.11">I saw the heaven opened, and behold, a white horse, and he
 				who sat on it is called Faithful and True. <emo_lang emotion="anger" tone="righteousness">In righteousness he judges and makes
@@ -907,7 +908,7 @@
 				called “The Word of God.”</v>
 			<v id="14" bcv="REV.19.14">The armies which are in heaven followed him on white horses,
 				clothed in white, pure, fine linen.</v>
-			<v id="15" bcv="REV.19.15"><emo_lang emotion="anger" tone="violence" tone2="righteousness">Out of his mouth proceeds a sharp, double-edged sword, that
+			<v id="15" bcv="REV.19.15"><emo_lang emotion="anger" tone="violence righteousness">Out of his mouth proceeds a sharp, double-edged sword, that
 				with it he should strike the nations. He will rule them with an iron rod. He treads
 				the wine press of the fierceness of the wrath of God, the Almighty.</emo_lang></v>
 			<v id="16" bcv="REV.19.16">He has on his garment and on his thigh a name written, “KING
@@ -915,7 +916,7 @@
 			<v id="17" bcv="REV.19.17">I saw an angel standing in the sun. He cried with a loud
 				voice, saying to all the birds that fly in the sky, “Come! Be gathered together to
 				the great supper of God,</v>
-			<v id="18" bcv="REV.19.18"><emo_lang emotion="anger" tone="violence" tone2="petitioning">that you may eat the flesh of kings, the flesh of captains,
+			<v id="18" bcv="REV.19.18"><emo_lang emotion="anger" tone="violence petitioning">that you may eat the flesh of kings, the flesh of captains,
 				the flesh of mighty men, and the flesh of horses and of those who sit on them, and
 				the flesh of all men, both free and slave, small and great.</emo_lang>”</v>
 			<v id="19" bcv="REV.19.19">I saw the beast, and the kings of the earth, and their
@@ -977,10 +978,10 @@
 				the first earth have passed away, and the sea is no more.</v>
 			<v id="2" bcv="REV.21.2">I saw the holy city, New Jerusalem, coming down out of heaven
 				from God, <emo_lang emotion="joy" tone="praise">prepared like a bride adorned for her husband.</emo_lang></v>
-			<v id="3" bcv="REV.21.3">I heard a loud voice out of heaven saying, “<emo_lang emotion="joy" tone="petitioning" tone2="praise">Behold, God’s
+			<v id="3" bcv="REV.21.3">I heard a loud voice out of heaven saying, “<emo_lang emotion="joy" tone="petitioning praise">Behold, God’s
 				dwelling is with people, and he will dwell with them, and they will be his people,
 				and God himself will be with them as their God.</emo_lang></v>
-			<v id="4" bcv="REV.21.4"><!-- multiple lines -->He will wipe away every tear from their eyes. Death will be no
+			<v id="4" bcv="REV.21.4">He will wipe away every tear from their eyes. Death will be no
 				more; neither will there be mourning, nor crying, nor pain, any more. The first
 				things have passed away.”</v>
 			<v id="5" bcv="REV.21.5">He who sits on the throne said,“Behold, I am making all things
@@ -989,9 +990,9 @@
 				Beginning and the End. “It is done! I am the Alpha and the Omega, the Beginning and
 				the End. I will give freely to him who is thirsty from the spring of the water of
 				life.</emo_lang></v>
-			<v id="7" bcv="REV.21.7"><!--multiple lines-->He who overcomes, I will give him these things. I will be his
+			<v id="7" bcv="REV.21.7">He who overcomes, I will give him these things. I will be his
 				God, and he will be my son.</v>
-			<v id="8" bcv="REV.21.8"><emo_lang emotion="anger" tone="righteousness" tone2="violence">But for the cowardly, unbelieving, sinners, abominable,
+			<v id="8" bcv="REV.21.8"><emo_lang emotion="anger" tone="righteousness violence">But for the cowardly, unbelieving, sinners, abominable,
 				murderers, sexually immoral, sorcerers, idolaters, and all liars, their part is in
 				the lake that burns with fire and sulfur, which is the second death.</emo_lang>”</v>
 			<v id="9" bcv="REV.21.9">One of the seven angels who had the seven bowls, who were
@@ -1000,7 +1001,7 @@
 			<v id="10" bcv="REV.21.10">He carried me away in the Spirit to a great and high
 				mountain, and showed me the holy city, Jerusalem, coming down out of heaven from
 				God,</v>
-			<v id="11" bcv="REV.21.11">having the glory of God. <emo_lang emotion="joy" tone="praise" tone2="boasting">Her light was like a most precious
+			<v id="11" bcv="REV.21.11">having the glory of God. <emo_lang emotion="joy" tone="praise boasting">Her light was like a most precious
 				stone, as if it were a jasper stone, clear as crystal</emo_lang>;</v>
 			<v id="12" bcv="REV.21.12">having a great and high wall; having twelve gates, and at the
 				gates twelve angels; and names written on them, which are the names of the twelve
@@ -1084,14 +1085,14 @@
 				say, “Come!” He who is thirsty, let him come. He who desires, let him take the water
 				of life freely.</v>
 			<v id="18" bcv="REV.22.18">I testify to everyone who hears the words of the prophecy of
-				this book, if anyone adds to them, <emo_lang emotion="anger" tone="violence" tone2="petitioning">may God add to him the plagues which are written
+				this book, if anyone adds to them, <emo_lang emotion="anger" tone="violence petitioning">may God add to him the plagues which are written
 				in this book.</emo_lang></v>
 			<v id="19" bcv="REV.22.19">If anyone takes away from the words of the book of this
-				prophecy, <emo_lang emotion="anger" tone="violence" tone2="petitioning">may God take away his part from the tree of life, and out of the holy
+				prophecy, <emo_lang emotion="anger" tone="violence petitioning">may God take away his part from the tree of life, and out of the holy
 				city</emo_lang>, which are written in this book.</v>
 			<v id="20" bcv="REV.22.20">He who testifies these things says,“Yes, I come
 				quickly.”Amen! Yes, come, Lord Jesus.</v>
-			<v id="21" bcv="REV.22.21"><emo_lang emotion="joy" tone="praise" tone2="petitioning">The grace of the Lord Jesus Christ be with all the saints.</emo_lang>
+			<v id="21" bcv="REV.22.21"><emo_lang emotion="joy" tone="praise petitioning">The grace of the Lord Jesus Christ be with all the saints.</emo_lang>
 				Amen.</v>
 		</c>
 	</book>

@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../schemas/repetition.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schemas/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 	<book id="PSA">
 		<c id="1"> <!-- feral: *question regarding lines for group meeting*-->
@@ -2513,7 +2515,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="147" bcv="PSA.119.147">I rise before dawn and <emo_lang emotion="sorrow" tone="pleading">cry for help</emo_lang>. I <emo_lang emotion="joy" tone="righteousness">put my hope</emo_lang> in your words.</v>
 			<v id="148" bcv="PSA.119.148">My eyes stay open through the night watches,that I might meditate on your word.</v>
 			<v id="149" bcv="PSA.119.149"><emo_lang emotion="sorrow" tone="pleading">Hear my voice according to your loving kindness. Revive me, Yahweh, according to your ordinances.</emo_lang></v>
-			<v id="150" bcv="PSA.119.150">They draw near <emo_lang emotion="sorrow" tone="anxiety" tone2="righteusness">who follow after wickedness</emo_lang>. They are far from your law.</v>
+			<v id="150" bcv="PSA.119.150">They draw near <emo_lang emotion="sorrow" tone="anxiety righteusness">who follow after wickedness</emo_lang>. They are far from your law.</v>
 			<v id="151" bcv="PSA.119.151">You are near, Yahweh. All your commandments are truth.</v>
 			<v id="152" bcv="PSA.119.152">Of old I have known from your testimonies,that you have founded them forever.</v>
 			<v id="153" bcv="PSA.119.153"><emo_lang emotion="sorrow" tone="pleading">Consider my affliction, and deliver me</emo_lang>,for I don’t forget your law.</v>
@@ -2542,13 +2544,13 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="176" bcv="PSA.119.176">I have gone astray <emo_lang emotion="sorrow" tone="anxiety">like a lost sheep</emo_lang>. <emo_lang emotion="sorrow" tone="pleading">Seek your servant</emo_lang>, for I don’t forget your commandments.</v>
 		</c>
 		<c id="120">
-			<v id="1" bcv="PSA.120.1"><emo_lang emotion="sorrow" tone="pleading" tone2="praise">In my distress, I cried to Yahweh.</emo_lang> He answered me.</v>
+			<v id="1" bcv="PSA.120.1"><emo_lang emotion="sorrow" tone="pleading praise" >In my distress, I cried to Yahweh.</emo_lang> He answered me.</v>
 			<v id="2" bcv="PSA.120.2">Deliver my soul, Yahweh, from lying lips,from a deceitful tongue.</v>
 			<v id="3" bcv="PSA.120.3"><emo_lang emotion="anger" tone="righteousness"><!-- tone: rebuking? -->What will be given to you, and what will be done more to you, you deceitful tongue?</emo_lang></v>
 			<v id="4" bcv="PSA.120.4">Sharp arrows of the mighty,with coals of juniper.</v>
 			<v id="5" bcv="PSA.120.5"><emo_lang emotion="sorrow" tone="anxiety">Woe is me</emo_lang>, that I live in Meshech,that I dwell among the tents of Kedar!</v>
 			<v id="6" bcv="PSA.120.6"><emo_lang emotion="sorrow" tone="righteousness">My soul has had her dwelling too long with him who hates peace.</emo_lang></v>
-			<v id="7" bcv="PSA.120.7"><emo_lang emotion="sorrow" tone="righteousness" tone2="anxiety">I am for peace,but when I speak, they are for war.</emo_lang></v>
+			<v id="7" bcv="PSA.120.7"><emo_lang emotion="sorrow" tone="righteousness anxiety" >I am for peace,but when I speak, they are for war.</emo_lang></v>
 		</c>
 		<c id="121">
 			<v id="1" bcv="PSA.121.1">I will lift up my eyes to the hills. Where does my help come from?</v>
@@ -2564,7 +2566,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="1" bcv="PSA.122.1"><emo_lang emotion="joy" tone="righteousness">I was glad</emo_lang> when they said to me,“Let’s go to Yahweh’s house!”</v>
 			<v id="2" bcv="PSA.122.2">Our feet are standing within your gates, Jerusalem;</v>
 			<v id="3" bcv="PSA.122.3">Jerusalem, that is built as a city that is compact together;</v>
-			<v id="4" bcv="PSA.122.4">where the tribes go up, even Yah’s tribes,according to an ordinance for Israel,to <emo_lang emotion="joy" tone="petitioning" tone2="praise">give thanks to Yahweh’s name</emo_lang>.</v>
+			<v id="4" bcv="PSA.122.4">where the tribes go up, even Yah’s tribes,according to an ordinance for Israel,to <emo_lang emotion="joy" tone="petitioning praise" >give thanks to Yahweh’s name</emo_lang>.</v>
 			<v id="5" bcv="PSA.122.5">For there are set thrones for judgment,the thrones of David’s house.</v>
 			<v id="6" bcv="PSA.122.6">Pray for the peace of Jerusalem. <emo_lang emotion="contentment" tone="praise">Those who love you will prosper.</emo_lang></v>
 			<v id="7" bcv="PSA.122.7"><emo_lang emotion="contentment" tone="petitioning">Peace be within your walls,and prosperity within your palaces.</emo_lang></v>
@@ -2580,10 +2582,10 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 		<c id="124">
 			<v id="1" bcv="PSA.124.1">If it had not been Yahweh who was on our side,let Israel now say,</v>
 			<v id="2" bcv="PSA.124.2">if it had not been Yahweh who was on our side,when men rose up against us;</v>
-			<v id="3" bcv="PSA.124.3"><emo_lang emotion="sorrow" tone="violence" tone2="anxiety">then they would have swallowed us up alive,when their wrath was kindled against us</emo_lang>;</v>
-			<v id="4" bcv="PSA.124.4"><emo_lang emotion="sorrow" tone="violence" tone2="anxiety">then the waters would have overwhelmed us,the stream would have gone over our soul</emo_lang>;</v>
+			<v id="3" bcv="PSA.124.3"><emo_lang emotion="sorrow" tone="violence anxiety" >then they would have swallowed us up alive,when their wrath was kindled against us</emo_lang>;</v>
+			<v id="4" bcv="PSA.124.4"><emo_lang emotion="sorrow" tone="violence anxiety" >then the waters would have overwhelmed us,the stream would have gone over our soul</emo_lang>;</v>
 			<v id="5" bcv="PSA.124.5">then the proud waters would have gone over our soul.</v>
-			<v id="6" bcv="PSA.124.6"><emo_lang emotion="joy" tone="praise" tone2="violence">Blessed be Yahweh,who has not given us as a prey to their teeth.</emo_lang></v>
+			<v id="6" bcv="PSA.124.6"><emo_lang emotion="joy" tone="praise violence" >Blessed be Yahweh,who has not given us as a prey to their teeth.</emo_lang></v>
 			<v id="7" bcv="PSA.124.7">Our soul has escaped like a bird out of the fowler’s snare. The snare is broken, and we have escaped.</v>
 			<v id="8" bcv="PSA.124.8">Our help is in Yahweh’s name,who made heaven and earth.</v>
 		</c>
@@ -2597,10 +2599,10 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 		<c id="126">
 			<v id="1" bcv="PSA.126.1">When Yahweh brought back those who returned to Zion,we were like those who dream.</v>
 			<v id="2" bcv="PSA.126.2"><emo_lang emotion="joy" tone="boasting">Then our mouth was filled with laughter,and our tongue with singing.</emo_lang> Then they said among the nations,“<emo_lang emotion="joy" tone="praise">Yahweh has done great things for them.</emo_lang>”</v>
-			<v id="3" bcv="PSA.126.3"><emo_lang emotion="joy" tone="praise" tone2="boasting">Yahweh has done great things for us,and we are glad.</emo_lang></v>
+			<v id="3" bcv="PSA.126.3"><emo_lang emotion="joy" tone="praise boasting" >Yahweh has done great things for us,and we are glad.</emo_lang></v>
 			<v id="4" bcv="PSA.126.4">Restore our fortunes again, Yahweh,like the streams in the Negev.</v>
-			<v id="5" bcv="PSA.126.5"><emo_lang emotion="joy" tone="boasting" tone2="praise">Those who sow in tears will reap in joy.</emo_lang></v>
-			<v id="6" bcv="PSA.126.6"><emo_lang emotion="joy" tone="boasting" tone2="praise">He who goes out weeping, carrying seed for sowing,will certainly come again with joy, carrying his sheaves.</emo_lang></v>
+			<v id="5" bcv="PSA.126.5"><emo_lang emotion="joy" tone="boasting praise" >Those who sow in tears will reap in joy.</emo_lang></v>
+			<v id="6" bcv="PSA.126.6"><emo_lang emotion="joy" tone="boasting praise" >He who goes out weeping, carrying seed for sowing,will certainly come again with joy, carrying his sheaves.</emo_lang></v>
 		</c>
 		<c id="127">
 			<v id="1" bcv="PSA.127.1">Unless Yahweh builds the house,they who build it labor in vain. Unless Yahweh watches over the city,the watchman guards it in vain.</v>
@@ -2621,7 +2623,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="1" bcv="PSA.129.1"><emo_lang emotion="sorrow" tone="anxiety">Many times they have afflicted me from my youth up</emo_lang>. Let Israel now say,</v>
 			<v id="2" bcv="PSA.129.2"><emo_lang emotion="sorrow" tone="boasting">many times they have afflicted me from my youth up,yet they have not prevailed against me.</emo_lang></v>
 			<v id="3" bcv="PSA.129.3"><emo_lang emotion="sorrow" tone="violence">The plowers plowed on my back.</emo_lang> They made their furrows long.</v>
-			<v id="4" bcv="PSA.129.4"><emo_lang emotion="anger" tone="righteousness" tone2="violence">Yahweh is righteous. He has cut apart the cords of the wicked.</emo_lang></v>
+			<v id="4" bcv="PSA.129.4"><emo_lang emotion="anger" tone="righteousness violence" >Yahweh is righteous. He has cut apart the cords of the wicked.</emo_lang></v>
 			<v id="5" bcv="PSA.129.5"><emo_lang emotion="anger" tone="petitioning">Let them be disappointed and turned backward</emo_lang>, all those who hate Zion.</v>
 			<v id="6" bcv="PSA.129.6"><emo_lang emotion="anger" tone="petitioning">Let them be as the grass on the housetops,which withers before it grows up</emo_lang>;</v>
 			<v id="7" bcv="PSA.129.7">with which the reaper doesn’t fill his hand,nor he who binds sheaves, his bosom.</v>
@@ -2631,10 +2633,10 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="1" bcv="PSA.130.1"><emo_lang emotion="sorrow" tone="pleading">Out of the depths I have cried to you</emo_lang>, Yahweh.</v>
 			<v id="2" bcv="PSA.130.2">Lord, <emo_lang emotion="sorrow" tone="petitioning">hear my voice. Let your ears be attentive to the voice of my petitions.</emo_lang></v>
 			<v id="3" bcv="PSA.130.3">If you, Yah, kept a record of sins,Lord, who could stand?</v>
-			<v id="4" bcv="PSA.130.4">But there is forgiveness with you,therefore <emo_lang emotion="fear" tone="boasting" tone2="praise">you are feared.</emo_lang></v>
-			<v id="5" bcv="PSA.130.5">I wait for Yahweh. My soul waits. <emo_lang emotion="joy" tone="righteousness"><!-- emotion: hope? -->I hope in his word.</emo_lang></v>
+			<v id="4" bcv="PSA.130.4">But there is forgiveness with you,therefore <emo_lang emotion="fear" tone="boasting praise" >you are feared.</emo_lang></v>
+			<v id="5" bcv="PSA.130.5">I wait for Yahweh. My soul waits. <emo_lang emotion="joy" tone="righteousness">I hope in his word.</emo_lang></v>
 			<v id="6" bcv="PSA.130.6"><emo_lang emotion="sorrow" tone="pleading">My soul longs for the Lord</emo_lang> more than watchmen long for the morning;more than watchmen for the morning.</v>
-			<v id="7" bcv="PSA.130.7"><emo_lang emotion="contentment" tone="petitioning" tone2="praise">Israel, hope in Yahweh,for with Yahweh there is loving kindness. With him is abundant redemption.</emo_lang></v>
+			<v id="7" bcv="PSA.130.7"><emo_lang emotion="contentment" tone="petitioning praise" >Israel, hope in Yahweh,for with Yahweh there is loving kindness. With him is abundant redemption.</emo_lang></v>
 			<v id="8" bcv="PSA.130.8">He will redeem Israel from all their sins.</v>
 		</c>
 		<c id="131">
@@ -2651,7 +2653,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="6" bcv="PSA.132.6">Behold, we heard of it in Ephrathah. We found it in the field of Jaar:</v>
 			<v id="7" bcv="PSA.132.7">“We will go into his dwelling place. We will worship at his footstool.</v>
 			<v id="8" bcv="PSA.132.8">Arise, Yahweh, into your resting place;you, and the ark of your strength.</v>
-			<v id="9" bcv="PSA.132.9"><emo_lang emotion="contentment" tone="petitioning" tone2="righteousness">Let your priests be clothed with righteousness. Let your saints shout for joy!</emo_lang>”</v>
+			<v id="9" bcv="PSA.132.9"><emo_lang emotion="contentment" tone="petitioning righteousness" >Let your priests be clothed with righteousness. Let your saints shout for joy!</emo_lang>”</v>
 			<v id="10" bcv="PSA.132.10">For your servant David’s sake,<emo_lang emotion="sorrow" tone="pleading">don’t turn away the face of your anointed one</emo_lang>.</v>
 			<v id="11" bcv="PSA.132.11">Yahweh has sworn to David in truth. He will not turn from it:“<emo_lang emotion="joy" tone="boasting">I will set the fruit of your body on your throne.</emo_lang></v>
 			<v id="12" bcv="PSA.132.12">If your children will keep my covenant,my testimony that I will teach them,<emo_lang emotion="joy" tone="boasting">their children also will sit on your throne forever more.</emo_lang>”</v>
@@ -2660,11 +2662,11 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="15" bcv="PSA.132.15"><emo_lang emotion="contentment" tone="boasting">I will abundantly bless her provision. I will satisfy her poor with bread.</emo_lang></v>
 			<v id="16" bcv="PSA.132.16"><emo_lang emotion="joy" tone="boasting">Her priests I will also clothe with salvation. Her saints will shout aloud for joy.</emo_lang></v>
 			<v id="17" bcv="PSA.132.17">There I will make the horn of David to bud. <emo_lang emotion="contentment" tone="boasting">I have ordained a lamp for my anointed.</emo_lang></v>
-			<v id="18" bcv="PSA.132.18"><emo_lang emotion="anger" tone="boasting" tone2="righteousness">I will clothe his enemies with shame</emo_lang>,but on himself, <emo_lang emotion="joy" tone="boasting">his crown will be resplendent.</emo_lang>”</v>
+			<v id="18" bcv="PSA.132.18"><emo_lang emotion="anger" tone="boasting righteousness" >I will clothe his enemies with shame</emo_lang>,but on himself, <emo_lang emotion="joy" tone="boasting">his crown will be resplendent.</emo_lang>”</v>
 		</c>
 		<c id="133">
 			<v id="1" bcv="PSA.133.1"><emo_lang emotion="joy" tone="praise">See how good and how pleasant it is</emo_lang> for brothers to live together in unity!</v>
-			<v id="2" bcv="PSA.133.2"><emo_lang emotion="joy" tone="praise" tone2="righteousness">It is like the precious oil on the head</emo_lang>,that ran down on the beard,even Aaron’s beard;that came down on the edge of his robes;</v>
+			<v id="2" bcv="PSA.133.2"><emo_lang emotion="joy" tone="praise righteousness" >It is like the precious oil on the head</emo_lang>,that ran down on the beard,even Aaron’s beard;that came down on the edge of his robes;</v>
 			<v id="3" bcv="PSA.133.3">like the dew of Hermon,that comes down on the hills of Zion:for <emo_lang emotion="joy" tone="praise">there Yahweh gives the blessing,even life forever more</emo_lang>.</v>
 		</c>
 		<c id="134">
@@ -2677,15 +2679,15 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="2" bcv="PSA.135.2">you who stand in Yahweh’s house,in the courts of our God’s house.</v>
 			<v id="3" bcv="PSA.135.3"><emo_lang emotion="joy" tone="petitioning">Praise Yah</emo_lang>, for <emo_lang emotion="joy" tone="praise">Yahweh is good</emo_lang>. <emo_lang emotion="joy" tone="petitioning">Sing praises to his name, for that is pleasant.</emo_lang></v>
 			<v id="4" bcv="PSA.135.4">For Yah has chosen Jacob for himself;Israel for his own possession.</v>
-			<v id="5" bcv="PSA.135.5"><emo_lang emotion="joy" tone="praise" tone2="boasting">For I know that Yahweh is great,that our Lord is above all gods.</emo_lang></v>
+			<v id="5" bcv="PSA.135.5"><emo_lang emotion="joy" tone="praise boasting" >For I know that Yahweh is great,that our Lord is above all gods.</emo_lang></v>
 			<v id="6" bcv="PSA.135.6">Whatever Yahweh pleased, that he has done,in heaven and in earth, in the seas and in all deeps;</v>
 			<v id="7" bcv="PSA.135.7">who causes the clouds to rise from the ends of the earth;who makes lightnings with the rain;who brings the wind out of his treasuries;</v>
 			<v id="8" bcv="PSA.135.8"><emo_lang emotion="anger" tone="violence">Who struck the firstborn of Egypt</emo_lang>,both of man and animal;</v>
 			<v id="9" bcv="PSA.135.9"><emo_lang emotion="joy" tone="praise">Who sent signs and wonders</emo_lang> into the middle of you, Egypt,on Pharaoh, and on all his servants;</v>
-			<v id="10" bcv="PSA.135.10"><emo_lang emotion="anger" tone="righteousness" tone2="violence">who struck many nations,and killed mighty kings</emo_lang>,</v>
+			<v id="10" bcv="PSA.135.10"><emo_lang emotion="anger" tone="righteousness violence" >who struck many nations,and killed mighty kings</emo_lang>,</v>
 			<v id="11" bcv="PSA.135.11">Sihon king of the Amorites,Og king of Bashan,and all the kingdoms of Canaan,</v>
 			<v id="12" bcv="PSA.135.12">and gave their land for a heritage,a heritage to Israel, his people.</v>
-			<v id="13" bcv="PSA.135.13"><emo_lang emotion="joy" tone="praise" tone2="boasting">Your name, Yahweh, endures forever</emo_lang>;your renown, Yahweh, throughout all generations.</v>
+			<v id="13" bcv="PSA.135.13"><emo_lang emotion="joy" tone="praise boasting" >Your name, Yahweh, endures forever</emo_lang>;your renown, Yahweh, throughout all generations.</v>
 			<v id="14" bcv="PSA.135.14"><emo_lang emotion="joy" tone="righteousness">For Yahweh will judge his people,and have compassion on his servants.</emo_lang></v>
 			<v id="15" bcv="PSA.135.15">The idols of the nations are silver and gold,the work of men’s hands.</v>
 			<v id="16" bcv="PSA.135.16">They have mouths, but they can’t speak. They have eyes, but they can’t see.</v>
@@ -2696,24 +2698,24 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="21" bcv="PSA.135.21"><emo_lang emotion="joy" tone="praise">Blessed be Yahweh</emo_lang> from Zion,Who dwells at Jerusalem. <emo_lang emotion="joy" tone="praise">Praise Yah!</emo_lang></v>
 		</c>
 		<c id="136">
-			<v id="1" bcv="PSA.136.1"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Give thanks to Yahweh, for he is good;for his loving kindness endures forever.</emo_lang></v>
-			<v id="2" bcv="PSA.136.2"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Give thanks to the God of gods;for his loving kindness endures forever</emo_lang>.</v>
-			<v id="3" bcv="PSA.136.3"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Give thanks to the Lord of lords;for his loving kindness endures forever</emo_lang>:</v>
+			<v id="1" bcv="PSA.136.1"><emo_lang emotion="joy" tone="praise petitioning" >Give thanks to Yahweh, for he is good;for his loving kindness endures forever.</emo_lang></v>
+			<v id="2" bcv="PSA.136.2"><emo_lang emotion="joy" tone="praise petitioning" >Give thanks to the God of gods;for his loving kindness endures forever</emo_lang>.</v>
+			<v id="3" bcv="PSA.136.3"><emo_lang emotion="joy" tone="praise petitioning" >Give thanks to the Lord of lords;for his loving kindness endures forever</emo_lang>:</v>
 			<v id="4" bcv="PSA.136.4"><emo_lang emotion="joy" tone="praise">To him who alone does great wonders;for his loving kindness endures forever</emo_lang>:</v>
 			<v id="5" bcv="PSA.136.5"><emo_lang emotion="joy" tone="praise">To him who by understanding made the heavens;for his loving kindness endures forever</emo_lang>:</v>
 			<v id="6" bcv="PSA.136.6"><emo_lang emotion="joy" tone="praise">To him who spread out the earth above the waters;for his loving kindness endures forever</emo_lang>:</v>
 			<v id="7" bcv="PSA.136.7"><emo_lang emotion="joy" tone="praise">To him who made the great lights;for his loving kindness endures forever</emo_lang>:</v>
 			<v id="8" bcv="PSA.136.8">The sun to rule by day;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
 			<v id="9" bcv="PSA.136.9">The moon and stars to rule by night;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>:</v>
-			<v id="10" bcv="PSA.136.10">To him who <emo_lang emotion="anger" tone="praise" tone2="violence">struck down the Egyptian firstborn</emo_lang>;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
+			<v id="10" bcv="PSA.136.10">To him who <emo_lang emotion="anger" tone="praise violence" >struck down the Egyptian firstborn</emo_lang>;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
 			<v id="11" bcv="PSA.136.11">And brought out Israel from among them;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
 			<v id="12" bcv="PSA.136.12">With a strong hand, and with an outstretched arm;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>:</v>
 			<v id="13" bcv="PSA.136.13">To him who divided the Red Sea apart;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
 			<v id="14" bcv="PSA.136.14">And made Israel to pass through the middle of it;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
-			<v id="15" bcv="PSA.136.15">But <emo_lang emotion="anger" tone="praise" tone2="violence">overthrew Pharaoh and his army in the Red Sea</emo_lang>;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>:</v>
+			<v id="15" bcv="PSA.136.15">But <emo_lang emotion="anger" tone="praise violence" >overthrew Pharaoh and his army in the Red Sea</emo_lang>;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>:</v>
 			<v id="16" bcv="PSA.136.16">To him who led his people through the wilderness;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>:</v>
-			<v id="17" bcv="PSA.136.17">To him who <emo_lang emotion="anger" tone="praise" tone2="violence">struck great kings</emo_lang>;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
-			<v id="18" bcv="PSA.136.18">And <emo_lang emotion="anger" tone="praise" tone2="violence">killed mighty kings</emo_lang>;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>:</v>
+			<v id="17" bcv="PSA.136.17">To him who <emo_lang emotion="anger" tone="praise violence" >struck great kings</emo_lang>;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
+			<v id="18" bcv="PSA.136.18">And <emo_lang emotion="anger" tone="praise violence" >killed mighty kings</emo_lang>;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>:</v>
 			<v id="19" bcv="PSA.136.19">Sihon king of the Amorites;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
 			<v id="20" bcv="PSA.136.20">Og king of Bashan;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
 			<v id="21" bcv="PSA.136.21">And gave their land as an inheritance;for <emo_lang emotion="joy" tone="praise">his loving kindness endures forever</emo_lang>;</v>
@@ -2728,9 +2730,9 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="2" bcv="PSA.137.2">On the willows in that land,we hung up our harps.</v>
 			<v id="3" bcv="PSA.137.3">For there, those who led us captive asked us for songs. Those who <emo_lang emotion="sorrow" tone="violence">tormented us</emo_lang> demanded songs of joy:“<emo_lang emotion="anger" tone="anxiety">Sing us one of the songs of Zion!</emo_lang>”</v>
 			<v id="4" bcv="PSA.137.4">How can we sing Yahweh’s song in a foreign land?</v>
-			<v id="5" bcv="PSA.137.5">If I forget you, Jerusalem,<emo_lang emotion="sorrow" tone="righteousness" tone2="petitioning">let my right hand forget its skill</emo_lang>.</v>
-			<v id="6" bcv="PSA.137.6"><emo_lang emotion="sorrow" tone="righteousness" tone2="petitioning">Let my tongue stick to the roof of my mouth</emo_lang> if I don’t remember you;if I don’t prefer Jerusalem above my chief joy.</v>
-			<v id="7" bcv="PSA.137.7">Remember, Yahweh, against the children of Edom in the day of Jerusalem,who said, “<emo_lang emotion="anger" tone="violence" tone2="petitioning">Raze it!Raze it even to its foundation!</emo_lang>”</v>
+			<v id="5" bcv="PSA.137.5">If I forget you, Jerusalem,<emo_lang emotion="sorrow" tone="righteousness petitioning" >let my right hand forget its skill</emo_lang>.</v>
+			<v id="6" bcv="PSA.137.6"><emo_lang emotion="sorrow" tone="righteousness petitioning" >Let my tongue stick to the roof of my mouth</emo_lang> if I don’t remember you;if I don’t prefer Jerusalem above my chief joy.</v>
+			<v id="7" bcv="PSA.137.7">Remember, Yahweh, against the children of Edom in the day of Jerusalem,who said, “<emo_lang emotion="anger" tone="violence petitioning" >Raze it!Raze it even to its foundation!</emo_lang>”</v>
 			<v id="8" bcv="PSA.137.8">Daughter of Babylon, <emo_lang emotion="anger" tone="violence">doomed to destruction</emo_lang>,<emo_lang emotion="joy" tone="boasting">he will be happy</emo_lang> who rewards you,as you have served us.</v>
 			<v id="9" bcv="PSA.137.9"><emo_lang emotion="joy"  tone="righteousness">Happy shall he be</emo_lang>,who <emo_lang emotion="anger" tone="violence">takes and dashes your little ones against the rock.</emo_lang></v>
 		</c>
@@ -2738,10 +2740,10 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="1" bcv="PSA.138.1"><emo_lang emotion="joy" tone="praise">I will give you thanks with my whole heart. Before the gods, I will sing praises to you.</emo_lang></v>
 			<v id="2" bcv="PSA.138.2"><emo_lang emotion="joy" tone="praise">I will bow down toward your holy temple,and give thanks to your Name for your loving kindness and for your truth;for you have exalted your Name and your Word above all.</emo_lang></v>
 			<v id="3" bcv="PSA.138.3">In the day that I called, you answered me. <emo_lang emotion="joy" tone="praise">You encouraged me</emo_lang> with strength in my soul.</v>
-			<v id="4" bcv="PSA.138.4"><emo_lang emotion="joy" tone="praise" tone2="boasting">All the kings of the earth will give you thanks</emo_lang>, Yahweh,for they have heard the words of your mouth.</v>
+			<v id="4" bcv="PSA.138.4"><emo_lang emotion="joy" tone="praise boasting" >All the kings of the earth will give you thanks</emo_lang>, Yahweh,for they have heard the words of your mouth.</v>
 			<v id="5" bcv="PSA.138.5">Yes, they will sing of the ways of Yahweh;for <emo_lang emotion="joy" tone="praise">great is Yahweh’s glory</emo_lang>.</v>
 			<v id="6" bcv="PSA.138.6">For though Yahweh is high, <emo_lang emotion="joy" tone="praise">yet he looks after the lowly</emo_lang>;but the proud, he knows from afar.</v>
-			<v id="7" bcv="PSA.138.7"><emo_lang emotion="sorrow" tone="praise">Though I walk in the middle of trouble, you will revive me.</emo_lang> <emo_lang emotion="joy" tone="praise" tone2="righteousness">You will stretch out your hand against the wrath of my enemies</emo_lang>. <emo_lang emotion="joy" tone="praise">Your right hand will save me</emo_lang>.</v>
+			<v id="7" bcv="PSA.138.7"><emo_lang emotion="sorrow" tone="praise">Though I walk in the middle of trouble, you will revive me.</emo_lang> <emo_lang emotion="joy" tone="praise righteousness" >You will stretch out your hand against the wrath of my enemies</emo_lang>. <emo_lang emotion="joy" tone="praise">Your right hand will save me</emo_lang>.</v>
 			<v id="8" bcv="PSA.138.8">Yahweh will fulfill that which concerns me;<emo_lang emotion="joy" tone="praise">your loving kindness, Yahweh, endures forever</emo_lang>. <emo_lang emotion="sorrow" tone="petitioning">Don’t forsake the works of your own hands</emo_lang>.</v>
 		</c>
 		<c id="139">
@@ -2763,7 +2765,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="16" bcv="PSA.139.16">Your eyes saw my body. In your book they were all written,the days that were ordained for me,when as yet there were none of them.</v>
 			<v id="17" bcv="PSA.139.17"><emo_lang emotion="joy" tone="praise">How precious to me are your thoughts</emo_lang>, God!How vast is their sum!</v>
 			<v id="18" bcv="PSA.139.18">If I would count them, they are more in number than the sand. When I wake up, I am still with you.</v>
-			<v id="19" bcv="PSA.139.19">If only you, God, <emo_lang emotion="anger" tone="violence" tone2="righteousness">would kill the wicked</emo_lang>. <emo_lang emotion="anger" tone="righteousness">Get away from me, you bloodthirsty men</emo_lang>!</v>
+			<v id="19" bcv="PSA.139.19">If only you, God, <emo_lang emotion="anger" tone="violence righteousness" >would kill the wicked</emo_lang>. <emo_lang emotion="anger" tone="righteousness">Get away from me, you bloodthirsty men</emo_lang>!</v>
 			<v id="20" bcv="PSA.139.20">For <emo_lang emotion="anger" tone="righteousness">they speak against you wickedly</emo_lang>. <emo_lang emotion="anger" tone="righteousness">Your enemies take your name in vain</emo_lang>.</v>
 			<v id="21" bcv="PSA.139.21">Yahweh, <emo_lang emotion="anger" tone="righteousness">don’t I hate those who hate you</emo_lang>?Am I not <emo_lang emotion="sorrow" tone="righteousness">grieved with those who rise up against you</emo_lang>?</v>
 			<v id="22" bcv="PSA.139.22"><emo_lang emotion="anger" tone="righteousness">I hate them with perfect hatred. They have become my enemies.</emo_lang></v>
@@ -2786,7 +2788,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="10" bcv="PSA.140.10"><emo_lang emotion="anger"  tone="violence">Let burning coals fall on them. Let them be thrown into the fire,into miry pits</emo_lang>, from where they never rise.</v>
 			<v id="11" bcv="PSA.140.11">An <emo_lang emotion="anger" tone="righteousness">evil speaker</emo_lang> won’t be established in the earth. Evil will hunt the violent man to overthrow him.</v>
 			<v id="12" bcv="PSA.140.12">I know that Yahweh will <emo_lang emotion="contentment" tone="praise">maintain the cause of the afflicted,and justice for the needy.</emo_lang></v>
-			<v id="13" bcv="PSA.140.13">Surely <emo_lang emotion="joy" tone="praise" tone2="righteousness">the righteous will give thanks to your name. The upright will dwell in your presence.</emo_lang></v>
+			<v id="13" bcv="PSA.140.13">Surely <emo_lang emotion="joy" tone="praise righteousness" >the righteous will give thanks to your name. The upright will dwell in your presence.</emo_lang></v>
 		</c>
 		<c id="141">
 			<v id="1" bcv="PSA.141.1">Yahweh, I have called on you. <emo_lang emotion="sorrow" tone="petitioning">Come to me quickly! Listen to my voice when I call to you.</emo_lang></v>
@@ -2797,7 +2799,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="6" bcv="PSA.141.6">Their judges are <emo_lang emotion="anger" tone="violence">thrown down by the sides of the rock</emo_lang>. They will hear my words, for they are well spoken.</v>
 			<v id="7" bcv="PSA.141.7">“As when one plows and breaks up the earth,<emo_lang emotion="sorrow" tone="violence">our bones are scattered at the mouth of Sheol.</emo_lang>”</v>
 			<v id="8" bcv="PSA.141.8">For my eyes are on you, Yahweh, the Lord. In you, I take refuge. <emo_lang emotion="sorrow" tone="pleading">Don’t leave my soul destitute</emo_lang>.</v>
-			<v id="9" bcv="PSA.141.9"><emo_lang emotion="sorrow" tone="petitioning" tone2="righteousness">Keep me from the snare which they have laid for me,from the traps of the workers of iniquity.</emo_lang></v>
+			<v id="9" bcv="PSA.141.9"><emo_lang emotion="sorrow" tone="petitioning righteousness" >Keep me from the snare which they have laid for me,from the traps of the workers of iniquity.</emo_lang></v>
 			<v id="10" bcv="PSA.141.10"><emo_lang emotion="anger" tone="petitioning">Let the wicked fall together into their own nets</emo_lang>,while I pass by.</v>
 		</c>
 		<c id="142">
@@ -2817,20 +2819,20 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="5" bcv="PSA.143.5">I remember the days of old. I meditate on all your doings. I contemplate the work of your hands.</v>
 			<v id="6" bcv="PSA.143.6">I spread out my hands to you. <emo_lang emotion="sorrow" tone="pleading">My soul thirsts for you, like a parched land.</emo_lang> 
 			</v>
-			<v id="7" bcv="PSA.143.7"><emo_lang emotion="sorrow" tone="anxiety">Hurry to answer me</emo_lang>, Yahweh. <emo_lang emotion="sorrow" tone="anxiety">My spirit fails</emo_lang>. <emo_lang emotion="sorrow" tone="pleading" tone2="anxiety">Don’t hide your face from me,so that I don’t become like those who go down into the pit</emo_lang>.</v>
+			<v id="7" bcv="PSA.143.7"><emo_lang emotion="sorrow" tone="anxiety">Hurry to answer me</emo_lang>, Yahweh. <emo_lang emotion="sorrow" tone="anxiety">My spirit fails</emo_lang>. <emo_lang emotion="sorrow" tone="pleading anxiety" >Don’t hide your face from me,so that I don’t become like those who go down into the pit</emo_lang>.</v>
 			<v id="8" bcv="PSA.143.8"><emo_lang emotion="joy" tone="pleading">Cause me to hear your loving kindness in the morning,for I trust in you. Cause me to know the way in which I should walk,for I lift up my soul to you.</emo_lang></v>
-			<v id="9" bcv="PSA.143.9"><emo_lang emotion="sorrow" tone="pleading" tone2="anxiety">Deliver me, Yahweh, from my enemies. I flee to you to hide me.</emo_lang></v>
-			<v id="10" bcv="PSA.143.10">Teach me to do your will,for you are my God. <emo_lang emotion="joy" tone="praise">Your Spirit is good</emo_lang>. <emo_lang emotion="contentment" tone="petitioning" tone2="righteousness">Lead me in the land of uprightness</emo_lang>.</v>
+			<v id="9" bcv="PSA.143.9"><emo_lang emotion="sorrow" tone="pleading anxiety" >Deliver me, Yahweh, from my enemies. I flee to you to hide me.</emo_lang></v>
+			<v id="10" bcv="PSA.143.10">Teach me to do your will,for you are my God. <emo_lang emotion="joy" tone="praise">Your Spirit is good</emo_lang>. <emo_lang emotion="contentment" tone="petitioning righteousness" >Lead me in the land of uprightness</emo_lang>.</v>
 			<v id="11" bcv="PSA.143.11"><emo_lang emotion="sorrow" tone="pleading">Revive me</emo_lang>, Yahweh, for your name’s sake. In your righteousness, <emo_lang emotion="sorrow" tone="pleading">bring my soul out of trouble</emo_lang>.</v>
 			<v id="12" bcv="PSA.143.12">In your loving kindness, cut off my enemies,and destroy all those who afflict my soul,For I am your servant.</v>
 		</c>
 		<c id="144">
-			<v id="1" bcv="PSA.144.1"><emo_lang emotion="joy" tone="praise">Blessed be Yahweh, my rock</emo_lang>,<emo_lang emotion="anger" tone="praise" tone2="violence">who teaches my hands to war,and my fingers to battle</emo_lang>:</v>
+			<v id="1" bcv="PSA.144.1"><emo_lang emotion="joy" tone="praise">Blessed be Yahweh, my rock</emo_lang>,<emo_lang emotion="anger" tone="praise violence" >who teaches my hands to war,and my fingers to battle</emo_lang>:</v>
 			<v id="2" bcv="PSA.144.2"><emo_lang emotion="joy" tone="praise">my loving kindness, my fortress,my high tower, my deliverer,my shield, and he in whom I take refuge</emo_lang>;<emo_lang emotion="anger" tone="praise">who subdues my people under me</emo_lang>.</v>
 			<v id="3" bcv="PSA.144.3">Yahweh, what is man, that you care for him?Or the son of man, that you think of him?</v>
 			<v id="4" bcv="PSA.144.4">Man is like a breath. His days are like a shadow that passes away.</v>
 			<v id="5" bcv="PSA.144.5"><emo_lang emotion="joy" tone="petitioning">Part your heavens, Yahweh, and come down</emo_lang>. <emo_lang emotion="joy" tone="praise">Touch the mountains, and they will smoke</emo_lang>.</v>
-			<v id="6" bcv="PSA.144.6"><emo_lang emotion="anger" tone="violence" tone2="petitioning">Throw out lightning, and scatter them. Send out your arrows, and rout them.</emo_lang></v>
+			<v id="6" bcv="PSA.144.6"><emo_lang emotion="anger" tone="violence petitioning" >Throw out lightning, and scatter them. Send out your arrows, and rout them.</emo_lang></v>
 			<v id="7" bcv="PSA.144.7"><emo_lang emotion="sorrow" tone="petitioning">Stretch out your hand from above,rescue me, and deliver me out of great waters,out of the hands of foreigners</emo_lang>;</v>
 			<v id="8" bcv="PSA.144.8"><emo_lang emotion="anger" tone="righteousness">whose mouths speak deceit,whose right hand is a right hand of falsehood</emo_lang>.</v>
 			<v id="9" bcv="PSA.144.9"><emo_lang emotion="joy" tone="praise">I will sing a new song to you</emo_lang>, God. On a ten-stringed lyre, <emo_lang emotion="joy" tone="praise">I will sing praises to you</emo_lang>.</v>
@@ -2861,7 +2863,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="17" bcv="PSA.145.17"><emo_lang emotion="joy" tone="praise">Yahweh is righteous in all his ways,and gracious in all his works.</emo_lang></v>
 			<v id="18" bcv="PSA.145.18"><emo_lang emotion="joy" tone="praise">Yahweh is near to all those who call on him,to all who call on him in truth.</emo_lang></v>
 			<v id="19" bcv="PSA.145.19"><emo_lang emotion="joy" tone="praise">He will fulfill the desire of those who fear him. He also will hear their cry, and will save them.</emo_lang></v>
-			<v id="20" bcv="PSA.145.20"><emo_lang emotion="joy" tone="praise">Yahweh preserves all those who love him</emo_lang>,but <emo_lang emotion="anger" tone="violence" tone2="righteousness">all the wicked he will destroy</emo_lang>.</v>
+			<v id="20" bcv="PSA.145.20"><emo_lang emotion="joy" tone="praise">Yahweh preserves all those who love him</emo_lang>,but <emo_lang emotion="anger" tone="violence righteousness" >all the wicked he will destroy</emo_lang>.</v>
 			<v id="21" bcv="PSA.145.21"><emo_lang emotion="joy" tone="praise">My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever.</emo_lang></v>
 		</c>
 		<c id="146">
@@ -2888,7 +2890,7 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="9" bcv="PSA.147.9">He <emo_lang emotion="joy" tone="praise">provides food</emo_lang> for the livestock,and for the young ravens when they call.</v>
 			<v id="10" bcv="PSA.147.10">He doesn’t delight in the strength of the horse. He takes no pleasure in the legs of a man.</v>
 			<v id="11" bcv="PSA.147.11">Yahweh <emo_lang emotion="joy" tone="praise">takes pleasure in those who fear him,in those who hope in his loving kindness</emo_lang>.</v>
-			<v id="12" bcv="PSA.147.12"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise Yahweh, Jerusalem!Praise your God, Zion!</emo_lang></v>
+			<v id="12" bcv="PSA.147.12"><emo_lang emotion="joy" tone="praise petitioning" >Praise Yahweh, Jerusalem!Praise your God, Zion!</emo_lang></v>
 			<v id="13" bcv="PSA.147.13"><emo_lang emotion="joy" tone="praise">For he has strengthened the bars of your gates. He has blessed your children within you.</emo_lang></v>
 			<v id="14" bcv="PSA.147.14"><emo_lang emotion="joy" tone="praise">He makes peace in your borders. He fills you with the finest of the wheat.</emo_lang></v>
 			<v id="15" bcv="PSA.147.15">He sends out his commandment to the earth. His word runs very swiftly.</v>
@@ -2896,42 +2898,42 @@ God will send out his <emo_lang emotion="joy" tone="praise">loving kindness and 
 			<v id="17" bcv="PSA.147.17">He <emo_lang emotion="anger" tone="violence">hurls down his hail like pebbles</emo_lang>. <emo_lang emotion="anger" tone="anxiety">Who can stand before his cold?</emo_lang></v>
 			<v id="18" bcv="PSA.147.18">He sends out his word, and melts them. He causes his wind to blow, and the waters flow.</v>
 			<v id="19" bcv="PSA.147.19">He shows his word to Jacob;his statutes and his ordinances to Israel.</v>
-			<v id="20" bcv="PSA.147.20"><emo_lang emotion="joy" tone="boasting">He has not done this for just any nation</emo_lang>. They don’t know his ordinances. <emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise Yah</emo_lang>!</v>
+			<v id="20" bcv="PSA.147.20"><emo_lang emotion="joy" tone="boasting">He has not done this for just any nation</emo_lang>. They don’t know his ordinances. <emo_lang emotion="joy" tone="praise petitioning">Praise Yah</emo_lang>!</v>
 		</c>
 		<c id="148">
-			<v id="1" bcv="PSA.148.1"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise Yah!Praise Yahweh from the heavens!Praise him in the heights!</emo_lang></v>
-			<v id="2" bcv="PSA.148.2"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise him, all his angels!Praise him, all his army!</emo_lang></v>
-			<v id="3" bcv="PSA.148.3"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise him, sun and moon!Praise him, all you shining stars!</emo_lang></v>
-			<v id="4" bcv="PSA.148.4"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise him, you heavens of heavens</emo_lang>,You waters that are above the heavens.</v>
-			<v id="5" bcv="PSA.148.5"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Let them praise Yahweh’s name</emo_lang>,For he commanded, and they were created.</v>
+			<v id="1" bcv="PSA.148.1"><emo_lang emotion="joy" tone="praise petitioning" >Praise Yah!Praise Yahweh from the heavens!Praise him in the heights!</emo_lang></v>
+			<v id="2" bcv="PSA.148.2"><emo_lang emotion="joy" tone="praise petitioning" >Praise him, all his angels!Praise him, all his army!</emo_lang></v>
+			<v id="3" bcv="PSA.148.3"><emo_lang emotion="joy" tone="praise petitioning" >Praise him, sun and moon!Praise him, all you shining stars!</emo_lang></v>
+			<v id="4" bcv="PSA.148.4"><emo_lang emotion="joy" tone="praise petitioning" >Praise him, you heavens of heavens</emo_lang>,You waters that are above the heavens.</v>
+			<v id="5" bcv="PSA.148.5"><emo_lang emotion="joy" tone="praise petitioning" >Let them praise Yahweh’s name</emo_lang>,For he commanded, and they were created.</v>
 			<v id="6" bcv="PSA.148.6">He has also established them forever and ever. He has made a decree which will not pass away.</v>
-			<v id="7" bcv="PSA.148.7"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise Yahweh from the earth</emo_lang>,you great sea creatures, and all depths;</v>
+			<v id="7" bcv="PSA.148.7"><emo_lang emotion="joy" tone="praise petitioning" >Praise Yahweh from the earth</emo_lang>,you great sea creatures, and all depths;</v>
 			<v id="8" bcv="PSA.148.8">lightning and hail, snow and clouds;stormy wind, fulfilling his word;</v>
 			<v id="9" bcv="PSA.148.9">mountains and all hills;fruit trees and all cedars;</v>
 			<v id="10" bcv="PSA.148.10">wild animals and all livestock;small creatures and flying birds;</v>
 			<v id="11" bcv="PSA.148.11">kings of the earth and all peoples;princes and all judges of the earth;</v>
 			<v id="12" bcv="PSA.148.12">both young men and maidens;old men and children:</v>
-			<v id="13" bcv="PSA.148.13"><emo_lang emotion="joy" tone="praise" tone2="petitioning">let them praise Yahweh’s name,for his name alone is exalted. His glory is above the earth and the heavens.</emo_lang></v>
-			<v id="14" bcv="PSA.148.14"><emo_lang emotion="joy" tone="praise" tone2="boasting">He has lifted up the horn of his people,the praise of all his saints;even of the children of Israel, a people near to him.</emo_lang> <emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise Yah!</emo_lang></v>
+			<v id="13" bcv="PSA.148.13"><emo_lang emotion="joy" tone="praise petitioning" >let them praise Yahweh’s name,for his name alone is exalted. His glory is above the earth and the heavens.</emo_lang></v>
+			<v id="14" bcv="PSA.148.14"><emo_lang emotion="joy" tone="praise boasting" >He has lifted up the horn of his people,the praise of all his saints;even of the children of Israel, a people near to him.</emo_lang> <emo_lang emotion="joy" tone="praise petitioning">Praise Yah!</emo_lang></v>
 		</c>
 		<c id="149">
-			<v id="1" bcv="PSA.149.1"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise Yahweh!Sing to Yahweh a new song,his praise</emo_lang> in the assembly of the saints.</v>
-			<v id="2" bcv="PSA.149.2"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Let Israel rejoice in him</emo_lang> who made them. <emo_lang emotion="joy" tone="praise" tone2="petitioning">Let the children of Zion be joyful</emo_lang> in their King.</v>
-			<v id="3" bcv="PSA.149.3"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Let them praise his name in the dance!Let them sing praises to him with tambourine and harp!</emo_lang></v>
+			<v id="1" bcv="PSA.149.1"><emo_lang emotion="joy" tone="praise petitioning" >Praise Yahweh!Sing to Yahweh a new song,his praise</emo_lang> in the assembly of the saints.</v>
+			<v id="2" bcv="PSA.149.2"><emo_lang emotion="joy" tone="praise petitioning" >Let Israel rejoice in him</emo_lang> who made them. <emo_lang emotion="joy" tone="praise petitioning" >Let the children of Zion be joyful</emo_lang> in their King.</v>
+			<v id="3" bcv="PSA.149.3"><emo_lang emotion="joy" tone="praise petitioning" >Let them praise his name in the dance!Let them sing praises to him with tambourine and harp!</emo_lang></v>
 			<v id="4" bcv="PSA.149.4">For Yahweh <emo_lang emotion="joy" tone="praise">takes pleasure in his people. He crowns the humble with salvation.</emo_lang></v>
-			<v id="5" bcv="PSA.149.5"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Let the saints rejoice in honor. Let them sing for joy on their beds.</emo_lang></v>
-			<v id="6" bcv="PSA.149.6"><emo_lang emotion="joy" tone="praise" tone2="petitioning">May the high praises of God be in their mouths</emo_lang>,and a two-edged sword in their hand;</v>
+			<v id="5" bcv="PSA.149.5"><emo_lang emotion="joy" tone="praise petitioning" >Let the saints rejoice in honor. Let them sing for joy on their beds.</emo_lang></v>
+			<v id="6" bcv="PSA.149.6"><emo_lang emotion="joy" tone="praise petitioning" >May the high praises of God be in their mouths</emo_lang>,and a two-edged sword in their hand;</v>
 			<v id="7" bcv="PSA.149.7"><emo_lang emotion="anger" tone="violence">To execute vengeance on the nations,and punishments on the peoples</emo_lang>;</v>
 			<v id="8" bcv="PSA.149.8"><emo_lang emotion="anger" tone="violence">To bind their kings with chains,and their nobles with fetters of iron</emo_lang>;</v>
-			<v id="9" bcv="PSA.149.9">to <emo_lang emotion="anger" tone="righteousness">execute on them the written judgment</emo_lang>. <emo_lang emotion="joy" tone="praise" tone2="petitioning">All his saints have this honor. Praise Yah!</emo_lang></v>
+			<v id="9" bcv="PSA.149.9">to <emo_lang emotion="anger" tone="righteousness">execute on them the written judgment</emo_lang>. <emo_lang emotion="joy" tone="praise petitioning" >All his saints have this honor. Praise Yah!</emo_lang></v>
 		</c>
 		<c id="150">
-			<v id="1" bcv="PSA.150.1"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise Yah!Praise God in his sanctuary!Praise him in his heavens for his acts of power!</emo_lang></v>
-			<v id="2" bcv="PSA.150.2"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise him for his mighty acts!Praise him according to his excellent greatness!</emo_lang></v>
-			<v id="3" bcv="PSA.150.3"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise him with the sounding of the trumpet!Praise him with harp and lyre!</emo_lang></v>
-			<v id="4" bcv="PSA.150.4"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise him with tambourine and dancing!Praise him with stringed instruments and flute!</emo_lang></v>
-			<v id="5" bcv="PSA.150.5"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Praise him with loud cymbals!Praise him with resounding cymbals!</emo_lang></v>
-			<v id="6" bcv="PSA.150.6"><emo_lang emotion="joy" tone="praise" tone2="petitioning">Let everything that has breath praise Yah!Praise Yah!</emo_lang></v>
+			<v id="1" bcv="PSA.150.1"><emo_lang emotion="joy" tone="praise  petitioning" >Praise Yah!Praise God in his sanctuary!Praise him in his heavens for his acts of power!</emo_lang></v>
+			<v id="2" bcv="PSA.150.2"><emo_lang emotion="joy" tone="praise petitioning" >Praise him for his mighty acts!Praise him according to his excellent greatness!</emo_lang></v>
+			<v id="3" bcv="PSA.150.3"><emo_lang emotion="joy" tone="praise petitioning" >Praise him with the sounding of the trumpet!Praise him with harp and lyre!</emo_lang></v>
+			<v id="4" bcv="PSA.150.4"><emo_lang emotion="joy" tone="praise petitioning" >Praise him with tambourine and dancing!Praise him with stringed instruments and flute!</emo_lang></v>
+			<v id="5" bcv="PSA.150.5"><emo_lang emotion="joy" tone="praise petitioning" >Praise him with loud cymbals!Praise him with resounding cymbals!</emo_lang></v>
+			<v id="6" bcv="PSA.150.6"><emo_lang emotion="joy" tone="praise petitioning" >Let everything that has breath praise Yah!Praise Yah!</emo_lang></v>
 		</c>
 	</book>
 </root>
