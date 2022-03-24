@@ -59,7 +59,17 @@ button {
     color: white;
     background-color: orange;
 }
-#flex-container {
+#flex-container-home {
+    display: flex;
+    width: 125%;
+    justify-content: center;
+}
+#flex-container-open {
+    display: flex;
+    width: 125%;
+    justify-content: center;
+}
+#flex-container-back {
     display: flex;
     width: 125%;
     justify-content: center;
