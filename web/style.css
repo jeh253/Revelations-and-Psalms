@@ -10,10 +10,32 @@ img {
 	height: 150vh;
 	object-fit: fill;
 }
-#content {
+#content-home {
 	position: relative;
 }
-#pages{
+#pages-home{
+	position: absolute;
+	left: 1em;
+	top: 0;
+	z-index: 1;
+	height: 98vh;
+	overflow-y: scroll;
+}
+#content-open {
+	position: relative;
+}
+#pages-open{
+	position: absolute;
+	left: 1em;
+	top: 0;
+	z-index: 1;
+	height: 98vh;
+	overflow-y: scroll;
+}
+#content-back {
+	position: relative;
+}
+#pages-back{
 	position: absolute;
 	left: 1em;
 	top: 0;
