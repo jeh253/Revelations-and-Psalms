@@ -1,24 +1,26 @@
 "use strict";
 
-const checkboxes = document.querySelectorAll('details > p > input');
+const button = document.querySelectorAll('button');
 window.addEventListener('DOMContentLoaded', (event) => {
     /* Attach event listeners to checkboxes */
-    for (var i = 0; i < checkboxes.length; i++) {
-        checkboxes[i].addEventListener('change', filterInsults, false)
+    for (var i = 0; i < button.length; i++) {
+        button[i].addEventListener('click', hideShow, false)
     }
 });
-function filterInsults() {
-    //Get the @id values of the checkboxes that are unchecked
-    var checked_boxes_array = Array. from (checkboxes).filter(item => item.checked).map(item => item.id);    
-    /* Find all insults (ins)
-     * Hide each insult (momentarily)
-     * Show each insult that contains an checked @id  value
-     *  */
-    const insults = document.getElementsByClassName('insult');
-    for (var i = 0; i < insults.length; i++) {
-        insults[i].style.display = 'none';
-        if (Array. from (insults[i].classList).some(item => checked_boxes_array.includes(item))) {
-            insults[i].style.display = 'block';
-        }
-    }
+function hideShow() {
+  let text = this.textContent;
+  text = text.toLowerCase();
+  const home = document.getElementById("home");
+  const about = document.getElementById('about');
+  const corpus = document.getElementById('corpus');
+  const analysis = document.getElementById('analysis');
+  const conclusion = document.getElementById('conclusion');
+  const cur = document.getElementById(text);
+  
+  home.style.display = "none";
+  about.style.display = "none";
+  corpus.style.display = "none";
+  analysis.style.display = "none";
+  conclusion.style.display = "none";
+  cur.style.display = "block";
 }
