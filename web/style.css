@@ -26,6 +26,11 @@ p {
     font-size: 1.5em;
     background-color:rgba(999, 999, 999, 0.5);
 }
+ul {
+    color: black;
+    font-size: 1.5em;
+    background-color:rgba(999, 999, 999, 0.5);
+}
 button {
     margin: auto .5em;
     height: 3em;
