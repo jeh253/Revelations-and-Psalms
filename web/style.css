@@ -10,10 +10,10 @@ img {
 	height: 150vh;
 	object-fit: fill;
 }
-#content-home {
+#content {
 	position: relative;
 }
-#pages-home{
+#pages{
 	position: absolute;
 	left: 1em;
 	top: 0;
@@ -21,28 +21,7 @@ img {
 	height: 98vh;
 	overflow-y: scroll;
 }
-#content-open {
-	position: relative;
-}
-#pages-open{
-	position: absolute;
-	left: 1em;
-	top: 0;
-	z-index: 1;
-	height: 98vh;
-	overflow-y: scroll;
-}
-#content-back {
-	position: relative;
-}
-#pages-back{
-	position: absolute;
-	left: 1em;
-	top: 0;
-	z-index: 1;
-	height: 98vh;
-	overflow-y: scroll;
-}
+
 p {
     color: black;
     font-size: 1.5em;
@@ -59,21 +38,12 @@ button {
     color: white;
     background-color: orange;
 }
-#flex-container-home {
+#flex-container {
     display: flex;
     width: 125%;
     justify-content: center;
 }
-#flex-container-open {
-    display: flex;
-    width: 125%;
-    justify-content: center;
-}
-#flex-container-back {
-    display: flex;
-    width: 125%;
-    justify-content: center;
-}
+
 #nav-tabs {
     transform-origin: top left;
     transform: rotate(90deg) translate(-.4em, -2.5em);
