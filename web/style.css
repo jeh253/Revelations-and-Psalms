@@ -56,4 +56,12 @@ ul {
     margin-right: 20px;
     text-align: center;
 }
+div{
+	position: absolute;
+	left: 1em;
+	top: 0;
+	z-index: 1;
+	height: 98vh;
+	overflow-y: scroll;
+}
 
