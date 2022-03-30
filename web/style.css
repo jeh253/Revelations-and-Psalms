@@ -91,5 +91,6 @@ div {
     position: absolute;
 }
 .menu{
-   float:right; 
+   float:right;
+   position: absolute;
 }
