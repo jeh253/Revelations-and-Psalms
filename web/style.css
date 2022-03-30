@@ -30,14 +30,6 @@ img {
     position: fixed;
 }
 
-#pages {
-    position: absolute;
-    left: 1em;
-    top: 0;
-    z-index: 1;
-    height: 98vh;
-    overflow-y: scroll;
-}
 
 p {
     color: #FFC040;
