@@ -33,6 +33,8 @@ p {
     text-align: center;
     word-wrap: anywhere;
     white-space: normal;
+    left: 300px;
+    top: 40px;
 
 }
 ul {
@@ -49,11 +51,11 @@ li {
     text-align: justify;
 }
 div {
-    position: absolute;
+    position: relative;
     left: 1em;
     top: 0;
     z-index: 1;
-    height: 98vh;
+    height:98vh;
     overflow-y: scroll;
 }
 .cover {
@@ -63,9 +65,9 @@ div {
     background-attachment: fixed;
     background-position: center;
     white-space: pre-wrap;
-    position: absolute;
+    position: relative;
     left: 300px;
-    top: 5px;
+    top: -70px;
     height: 720px;
     width: 800px;
     align-content: center;
@@ -75,14 +77,14 @@ div {
 .open {
     background: url("resize_open-book-2.jpg");
     background-repeat: no-repeat;
-    background-size: 999px, 999px;
+     background-size: 80%, 80%;
     background-attachment: fixed;
     background-position: center;
     white-space: pre-wrap;
-    position: absolute;
+    position: relative;
     left: 300px;
-    top: 5px;
-    height: 700px;
+    top: -70px;
+    height: 720px;
     width: 800px;
     align-content: center;
     align-items: center;
@@ -91,27 +93,29 @@ div {
 .closed {
     background: url("resize_back-cover-2.jpg");
     background-repeat: no-repeat;
-    background-size: 790px, 900px;
+  background-size: 790px, 900px;
     background-attachment: fixed;
     background-position: center;
     white-space: pre-wrap;
-    position: absolute;
+    position: relative;
     left: 300px;
-    top: 5px;
+    top: -70px;
     height: 720px;
     width: 800px;
     align-content: center;
     align-items: center;
 }
 .menu {
-    float: right;
+    position: relative;
     transform: rotate(90deg);
     font-size: 1.5em;
     text-align: center;
-    margin-top: 220px;
     background-color: orange;
     color: white;
-    margin-right: 96px;
+    top: 320px;
+    left:780px;
+    width:540px;
+    height: 30px;
 }
 a:link {
     color: white;
