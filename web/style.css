@@ -26,19 +26,27 @@ h3 {
 }
 p {
     color: #FFC040;
-    font-size: 1.5em;
+    font-size: 1.3em;
     background-color: rgba(00, 00, 00, 0.7);
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 75px;
+    margin-right: 50px;
     text-align: center;
+    word-wrap: anywhere;
+    white-space: normal;
+
 }
 ul {
     color: #FFC040;
-    font-size: 1.5em;
+    font-size: 1.3em;
     background-color: rgba(00, 00, 00, 0.7);
-    margin-left: 20px;
-    margin-right: 20px;
-    text-align: center;
+    margin-left: 75px;
+    margin-right: 50px;
+    word-wrap: anywhere;
+    white-space: normal;
+
+}
+li {
+    text-align: justify;
 }
 div {
     position: absolute;
@@ -51,31 +59,63 @@ div {
 .cover {
     background: url("resize_front-cover-2.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 790px, 900px;
     background-attachment: fixed;
     background-position: center;
     white-space: pre-wrap;
     position: absolute;
+    left: 300px;
+    top: 5px;
+    height: 720px;
+    width: 800px;
+    align-content: center;
+    align-items: center;
+
 }
 .open {
     background: url("resize_open-book-2.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 999px, 999px;
     background-attachment: fixed;
     background-position: center;
     white-space: pre-wrap;
     position: absolute;
+    left: 300px;
+    top: 5px;
+    height: 700px;
+    width: 800px;
+    align-content: center;
+    align-items: center;
+
 }
 .closed {
     background: url("resize_back-cover-2.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 790px, 900px;
     background-attachment: fixed;
     background-position: center;
     white-space: pre-wrap;
     position: absolute;
+    left: 300px;
+    top: 5px;
+    height: 720px;
+    width: 800px;
+    align-content: center;
+    align-items: center;
 }
-.menu{
-   float:right;
-   transform: rotate(90deg);
+.menu {
+    float: right;
+    transform: rotate(90deg);
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 220px;
+    background-color: orange;
+    color: white;
+    margin-right: 96px;
+}
+a:link {
+    color: white;
+}
+a:visited {
+    color: darkblue;
 }
