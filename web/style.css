@@ -29,9 +29,7 @@ img {
     object-fit: fill;
     position: fixed;
 }
-#content {
-    position: relative;
-}
+
 #pages {
     position: absolute;
     left: 1em;
