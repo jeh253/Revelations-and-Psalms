@@ -76,6 +76,8 @@ div {
     position: absolute;
 }
 .menu{
-   float:right;
+   position: absolute;
+   left: 100px;
+   top: 150px;
    transform: rotate(90deg);
 }
