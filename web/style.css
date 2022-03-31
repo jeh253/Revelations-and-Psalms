@@ -9,6 +9,9 @@ h1 {
     background-color: rgba(00, 00, 00, 0.7);
     margin-left: 250px;
     margin-right: 250px;
+    padding:0px;
+    margin-top: 50px;
+    margin-bottom: -25px;
 }
 h2 {
     color: #FFC040;
@@ -16,6 +19,9 @@ h2 {
     background-color: rgba(00, 00, 00, 0.7);
     margin-left: 150px;
     margin-right: 150px;
+    padding:0px;
+    margin-top: 0px;
+    margin-bottom: -5px;
 }
 h3 {
     color: #FFC040;
@@ -23,11 +29,14 @@ h3 {
     background-color: rgba(00, 00, 00, 0.7);
     margin-left: 100px;
     margin-right: 100px;
+    padding:0px;
+    margin-top: 0px;
+    margin-bottom: -10px;
 }
 p {
     color: #FFC040;
     font-size: 1.3em;
-    background-color: rgba(00, 00, 00, 0.7);
+    background-color: rgba(00,00,00, .8);
     margin-left: 75px;
     margin-right: 50px;
     text-align: center;
@@ -35,6 +44,9 @@ p {
     white-space: normal;
     left: 300px;
     top: 40px;
+    padding:0px;
+    margin-top:-20px;
+    margin-bottom: -20px;
 
 }
 ul {
@@ -45,10 +57,15 @@ ul {
     margin-right: 50px;
     word-wrap: anywhere;
     white-space: normal;
+    margin-top:0px;
+    margin-bottom:-10px;
 
 }
 li {
     text-align: justify;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding: 0px;
 }
 div {
     position: relative;
@@ -67,7 +84,7 @@ div {
     white-space: pre-wrap;
     position: relative;
     left: 300px;
-    top: -70px;
+    top: -10px;
     height: 720px;
     width: 800px;
     align-content: center;
@@ -83,7 +100,7 @@ div {
     white-space: pre-wrap;
     position: relative;
     left: 300px;
-    top: -70px;
+    top: -10px;
     height: 720px;
     width: 800px;
     align-content: center;
@@ -99,7 +116,7 @@ div {
     white-space: pre-wrap;
     position: relative;
     left: 300px;
-    top: -70px;
+    top: -10px;
     height: 720px;
     width: 800px;
     align-content: center;
