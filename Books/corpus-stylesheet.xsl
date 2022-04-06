@@ -18,7 +18,42 @@
     generic template to match whole body (Frances)
     <p> for each chapter
     line break after every verse -->
-    
+    <!-- Psalms -->
+    <xsl:template match="/">
+        <html>
+            <head>
+                <title>Psalms</title>
+            </head>
+            <body>
+                <h1>Psalms</h1>
+                <p>
+                    <xsl:apply-templates select="//c"/>
+                </p>
+            </body>
+        </html>
+    </xsl:template>
+    <xsl:template match="c">
+        <xsl:apply-templates select="v"/>
+        <br/>
+    </xsl:template>
+    <!-- Revelations -->
+    <xsl:template match="/">
+        <html>
+            <head>
+                <title>Revelations</title>
+            </head>
+            <body>
+                <h1>Revelations</h1>
+                <p>
+                    <xsl:apply-templates select="c"/>
+                </p>
+            </body>
+        </html>
+    </xsl:template>
+    <xsl:template match="c">
+        <xsl:apply-templates select="v"/>
+        <br/>
+    </xsl:template>
     <!-- chapter/verse (Feral) -->
     
     <!-- Chapters and Verses/Verse #s are all attributes -->
