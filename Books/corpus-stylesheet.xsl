@@ -15,7 +15,6 @@
     <!-- 2. Actual Corpus: Psalms & Revelations 
     generic template to match whole body (Frances)
      -->
-    <!-- Psalms -->
 
     <xsl:template match="/">
         <html>
@@ -40,21 +39,6 @@
             </body>
         </html>
     </xsl:template>
-
-    <!-- Revelations -->
-    <!--  <xsl:template match="/">
-        <html>
-            <head>
-                <title>Revelations</title>
-            </head>
-            <body>
-                <h1>Revelations</h1>
-                <div>
-                    <xsl:apply-templates select="//c"/>
-                </div>
-            </body>
-        </html>
-    </xsl:template> -->
 
     <!-- chapter/verse <p> for each chapter
     line break after every verse (Feral) -->
