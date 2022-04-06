@@ -1,63 +1,84 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns="http://www.w3.org/1999/xhtml"
-    xmlns:math="http://www.w3.org/2005/xpath-functions/math" 
-    exclude-result-prefixes="#all"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
     version="3.0">
-    <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" 
-        include-content-type="no" indent="yes"/>
-    
+    <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
+        indent="yes"/>
+
     <!-- This will be the stylesheet for the Corpus page of our website! -->
-    
+
     <!-- 1. Intro & Navigation for Corpus 
     written directly as text inside stylesheet (not pulled from anywhere) -->
-    
+
     <!-- text for Intro & Nav (Caelin) -->
-    
+
     <!-- 2. Actual Corpus: Psalms & Revelations 
     generic template to match whole body (Frances)
-    <p> for each chapter
-    line break after every verse -->
+     -->
     <!-- Psalms -->
+
     <xsl:template match="/">
         <html>
             <head>
-                <title>Psalms</title>
+                <xsl:if test="//book/@id = 'PSA'">
+                    <title>Psalms</title>
+                </xsl:if>
+                <xsl:if test="//book/@id = 'REV'">
+                    <title>Revelations</title>
+                </xsl:if>
             </head>
             <body>
-                <h1>Psalms</h1>
-                <p>
+                <xsl:if test="//book/@id = 'PSA'">
+                    <h1>Psalms</h1>
+                </xsl:if>
+                <xsl:if test="//book/@id = 'REV'">
+                    <h1>Revelations</h1>
+                </xsl:if>
+                <div>
                     <xsl:apply-templates select="//c"/>
-                </p>
+                </div>
             </body>
         </html>
     </xsl:template>
-    <xsl:template match="c">
-        <xsl:apply-templates select="v"/>
-        <br/>
-    </xsl:template>
+
     <!-- Revelations -->
-    <xsl:template match="/">
+    <!--  <xsl:template match="/">
         <html>
             <head>
                 <title>Revelations</title>
             </head>
             <body>
                 <h1>Revelations</h1>
-                <p>
-                    <xsl:apply-templates select="c"/>
-                </p>
+                <div>
+                    <xsl:apply-templates select="//c"/>
+                </div>
             </body>
         </html>
-    </xsl:template>
+    </xsl:template> -->
+
+    <!-- chapter/verse <p> for each chapter
+    line break after every verse (Feral) -->
     <xsl:template match="c">
-        <xsl:apply-templates select="v"/>
-        <br/>
+        <h2>
+            <xsl:text>Chapter: </xsl:text>
+            <xsl:apply-templates select="@id"/>
+        </h2>
+        <p>
+            <xsl:apply-templates/>
+        </p>
+
     </xsl:template>
-    <!-- chapter/verse (Feral) -->
-    
+    <xsl:template match="v">
+        <xsl:apply-templates select="@id"/>
+        <xsl:text>. </xsl:text>
+        <xsl:apply-templates/>
+        <xsl:if test="following-sibling::v">
+            <br/>
+        </xsl:if>
+    </xsl:template>
+
     <!-- Chapters and Verses/Verse #s are all attributes -->
-    
-    <!-- Link to JavaScript for the filtering system (Caelin) --> 
-    
+
+    <!-- Link to JavaScript for the filtering system (Caelin) -->
+
 </xsl:stylesheet>
