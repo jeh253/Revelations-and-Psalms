@@ -12,6 +12,12 @@
 
     <!-- text for Intro & Nav (Caelin) -->
 
+            <!-- This is the explanation component of our current filtering system. 
+            This will explain how the filtering system works, in addition to how to use it. 
+            It can be a very basic explanation with general information. I am waiting to 
+            add more text until I can get everyone's opinions of what we want to add on 
+            Thursday! -->
+
     <!-- 2. Actual Corpus: Psalms & Revelations 
     generic template to match whole body (Frances)
      -->
@@ -60,8 +66,6 @@
             <br/>
         </xsl:if>
     </xsl:template>
-
-    <!-- Chapters and Verses/Verse #s are all attributes -->
 
     <!-- Link to JavaScript for the filtering system (Caelin) -->
 
