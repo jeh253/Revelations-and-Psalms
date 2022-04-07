@@ -130,7 +130,11 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
+<<<<<<< HEAD
                                     <String>Saxon-PE</String>
+=======
+                                    <String>Saxon-HE</String>
+>>>>>>> 00cfbf8ac7fd9820de417397242ff20bf2338756
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>

@@ -21,26 +21,27 @@
     <!-- 2. Actual Corpus: Psalms & Revelations 
     generic template to match whole body (Frances)
      -->
-
-    <xsl:template match="/">
+<xsl:variable name="corpus" as="document-node()+" select="collection('?select=*.xml')"/>
+    
+    <xsl:template name="xsl:initial-template">
         <html>
             <head>
-                <xsl:if test="//book/@id = 'PSA'">
+                <xsl:if test="$corpus//book/@id = 'PSA'">
                     <title>Psalms</title>
                 </xsl:if>
-                <xsl:if test="//book/@id = 'REV'">
+                <xsl:if test="$corpus//book/@id = 'REV'">
                     <title>Revelations</title>
                 </xsl:if>
             </head>
             <body>
-                <xsl:if test="//book/@id = 'PSA'">
+                <xsl:if test="$corpus//book/@id = 'PSA'">
                     <h1>Psalms</h1>
                 </xsl:if>
-                <xsl:if test="//book/@id = 'REV'">
+                <xsl:if test="$corpus//book/@id = 'REV'">
                     <h1>Revelations</h1>
                 </xsl:if>
                 <div>
-                    <xsl:apply-templates select="//c"/>
+                    <xsl:apply-templates select="$corpus//c"/>
                 </div>
             </body>
         </html>
@@ -66,6 +67,7 @@
             <br/>
         </xsl:if>
     </xsl:template>
+    <!-- span element for attributes -->
 
     <!-- Link to JavaScript for the filtering system (Caelin) -->
 
