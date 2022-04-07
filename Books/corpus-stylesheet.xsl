@@ -23,7 +23,7 @@
      -->
 <xsl:variable name="corpus" as="document-node()+" select="collection('?select=*.xml')"/>
     
-    <xsl:template match="$corpus">
+    <xsl:template name="xsl:initial-template">
         <html>
             <head>
                 <xsl:if test="$corpus//book/@id = 'PSA'">
