@@ -67,6 +67,11 @@
             <br/>
         </xsl:if>
     </xsl:template>
+    <xsl:template match="emo_lang">
+        <span class="{@emotion}" class2="{@tone}" class3="color">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
     <!-- span element for attributes -->
 
     <!-- Link to JavaScript for the filtering system (Caelin) -->
