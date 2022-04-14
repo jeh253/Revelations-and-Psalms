@@ -5,24 +5,8 @@
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
 
-    <!-- This will be the stylesheet for the Corpus page of our website! -->
+    <xsl:variable name="corpus" as="document-node()+" select="collection('?select=*.xml')"/>
 
-    <!-- 1. Intro & Navigation for Corpus 
-    written directly as text inside stylesheet (not pulled from anywhere) -->
-
-    <!-- text for Intro & Nav (Caelin) -->
-
-            <!-- This is the explanation component of our current filtering system. 
-            This will explain how the filtering system works, in addition to how to use it. 
-            It can be a very basic explanation with general information. I am waiting to 
-            add more text until I can get everyone's opinions of what we want to add on 
-            Thursday! -->
-
-    <!-- 2. Actual Corpus: Psalms & Revelations 
-    generic template to match whole body (Frances)
-     -->
-<xsl:variable name="corpus" as="document-node()+" select="collection('?select=*.xml')"/>
-    
     <xsl:template name="xsl:initial-template">
         <html>
             <head>
@@ -34,6 +18,16 @@
                 </xsl:if>
             </head>
             <body>
+                <div class="text">
+                    <p> Not sure where to start? You can explore the corpus by clicking on any
+                        individual tone or emotion, or you can combine them to see where they
+                        overlap! If you would like to look at one specific book in particular, check
+                        the box specified “Psalms” or “Revelations”. If you would like to look at
+                        the corpus as a whole, check the box labeled “All”. Emotions and tones can
+                        be checked independently of each other, but for best results, they should be
+                        checked together. Once checked, emotions will show up as color coded text,
+                        and tones will be underlined with color. </p>
+                </div>
                 <xsl:if test="$corpus//book/@id = 'PSA'">
                     <h1>Psalms</h1>
                 </xsl:if>
@@ -43,12 +37,12 @@
                 <div>
                     <xsl:apply-templates select="$corpus//c"/>
                 </div>
+                <!-- not sure if this is in the right place but
+                    for the moment i'm gonna leave it here -->
+                <script scr="colorcode.js"/> 
             </body>
         </html>
     </xsl:template>
-
-    <!-- chapter/verse <p> for each chapter
-    line break after every verse (Feral) -->
     <xsl:template match="c">
         <h2>
             <xsl:text>Chapter: </xsl:text>
@@ -72,8 +66,4 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    <!-- span element for attributes -->
-
-    <!-- Link to JavaScript for the filtering system (Caelin) -->
-
 </xsl:stylesheet>
