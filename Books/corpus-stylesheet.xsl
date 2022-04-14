@@ -10,6 +10,7 @@
     <xsl:template name="xsl:initial-template">
         <html>
             <head>
+                <link rel="stylesheet" type="text/css" href="style.css"/>
                 <xsl:if test="$corpus//book/@id = 'PSA'">
                     <title>Psalms</title>
                 </xsl:if>
@@ -18,6 +19,7 @@
                 </xsl:if>
             </head>
             <body>
+                <!--#include virtual="menu.xhtml"-->
                 <div class="text">
                     <p> Not sure where to start? You can explore the corpus by clicking on any
                         individual tone or emotion, or you can combine them to see where they
