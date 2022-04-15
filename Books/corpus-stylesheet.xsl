@@ -19,8 +19,9 @@
                 </xsl:if>
             </head>
             <body>
+                <section class="open">
                 <!--#include virtual="menu.xhtml"-->
-                <div class="text open">
+                <div class="text">
                     <p> Not sure where to start? You can explore the corpus by clicking on any
                         individual tone or emotion, or you can combine them to see where they
                         overlap! If you would like to look at one specific book in particular, check
@@ -58,6 +59,7 @@
                 <!-- not sure if this is in the right place but
                     for the moment i'm gonna leave it here -->
                 <script scr="colorcode.js"/> 
+                </section>
             </body>
         </html>
     </xsl:template>
