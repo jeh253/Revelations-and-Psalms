@@ -34,6 +34,7 @@ p {
     color: white;
     font-size: 1.3em;
     background-color: black;
+    line-height:120%;
 
     
 
@@ -42,6 +43,7 @@ ul {
     color: #FFC040;
     font-size: 1.3em;
     background-color: rgba(00, 00, 00, 1);
+    line-height:120%;
     
 
 
@@ -49,7 +51,7 @@ ul {
 }
 li {
     text-align: justify;
- 
+ line-height:120%;
     
 
 }
@@ -118,7 +120,7 @@ div {
 
 }
 a:link {
-    color: gold;
+    color: lightblue;
 }
 a:visited {
     color: white;
