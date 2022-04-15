@@ -1,126 +1,106 @@
 body {
     overflow-y: hidden;
     overflow-x: hidden;
-    background-color: #C08040;
+    background-color: #F7F8F1;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    
 }
 h1 {
     color: #FFC040;
     text-align: center;
-    background-color: rgba(00, 00, 00, 0.7);
-    margin-left: 250px;
-    margin-right: 250px;
-    padding:0px;
-    margin-top: 50px;
-    margin-bottom: -25px;
+    background-color: black;
+
+
 }
 h2 {
     color: #FFC040;
     text-align: center;
-    background-color: rgba(00, 00, 00, 0.7);
-    margin-left: 150px;
-    margin-right: 150px;
-    padding:0px;
-    margin-top: 0px;
-    margin-bottom: -5px;
+    background-color: black;
+
+
 }
 h3 {
     color: #FFC040;
     text-align: center;
-    background-color: rgba(00, 00, 00, 0.7);
-    margin-left: 100px;
-    margin-right: 100px;
-    padding:0px;
-    margin-top: 0px;
-    margin-bottom: -10px;
+    background-color: black;
+  
 }
 p {
-    color: #FFC040;
+    color: white;
     font-size: 1.3em;
-    background-color: rgba(00,00,00, .8);
-    margin-left: 75px;
-    margin-right: 50px;
-    text-align: center;
-    word-wrap: anywhere;
-    white-space: normal;
-    left: 300px;
-    top: 40px;
-    padding:0px;
-    margin-top:-20px;
-    margin-bottom: -20px;
+    background-color: black;
+
+    
 
 }
 ul {
     color: #FFC040;
     font-size: 1.3em;
-    background-color: rgba(00, 00, 00, 0.7);
-    margin-left: 75px;
-    margin-right: 50px;
-    word-wrap: anywhere;
-    white-space: normal;
-    margin-top:0px;
-    margin-bottom:-10px;
+    background-color: rgba(00, 00, 00, 1);
+    
+
+
 
 }
 li {
     text-align: justify;
-    margin-top:0px;
-    margin-bottom:0px;
-    padding: 0px;
+ 
+    
+
 }
 div {
-    position: relative;
-    left: 1em;
-    top: 0;
-    z-index: 1;
     height:98vh;
     overflow-y: scroll;
+    height: 600px;
+    width: 800px;
+   
+
 }
 .cover {
     background: url("resize_front-cover-2.jpg");
     background-repeat: no-repeat;
-    background-size: 790px, 900px;
-    background-attachment: fixed;
-    background-position: center;
-    white-space: pre-wrap;
-    position: relative;
-    left: 300px;
-    top: -10px;
-    height: 720px;
-    width: 800px;
-    align-content: center;
-    align-items: center;
+    background-size: 800px, 800px;
+    display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+
+    
+   
 
 }
 .open {
     background: url("resize_open-book-2.jpg");
     background-repeat: no-repeat;
-     background-size: 80%, 80%;
-    background-attachment: fixed;
-    background-position: center;
-    white-space: pre-wrap;
-    position: relative;
-    left: 300px;
-    top: -10px;
-    height: 720px;
-    width: 800px;
-    align-content: center;
-    align-items: center;
+     background-size: 800px, 800px;
+    display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+   
+
 
 }
 .closed {
     background: url("resize_back-cover-2.jpg");
     background-repeat: no-repeat;
   background-size: 790px, 900px;
-    background-attachment: fixed;
-    background-position: center;
-    white-space: pre-wrap;
-    position: relative;
-    left: 300px;
-    top: -10px;
-    height: 720px;
-    width: 800px;
-    align-content: center;
-    align-items: center;
+     display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+  
 }
 .menu {
     position: relative;
@@ -128,15 +108,18 @@ div {
     font-size: 1.5em;
     text-align: center;
     background-color: orange;
-    color: white;
-    top: 320px;
-    left:780px;
-    width:540px;
-    height: 30px;
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: center;
+  order: 2;
+    
+
 }
 a:link {
-    color: white;
+    color: gold;
 }
 a:visited {
-    color: darkblue;
+    color: white;
 }
