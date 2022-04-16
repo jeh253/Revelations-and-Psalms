@@ -18,13 +18,13 @@ sidebar{
     order:0;
 }
 h1 {
-    color: #FFC040;
+    color: white;
     text-align: center;
     background-color: black;
  
 }
 h2 {
-    color: #FFC040;
+    color: white;
     text-align: center;
     background-color: black;
     margin-top: 2px;
@@ -33,7 +33,7 @@ h2 {
 
 }
 h3 {
-    color: #FFC040;
+    color: white;
     text-align: center;
     background-color: black;
     margin-top: 2px;
@@ -47,11 +47,12 @@ p {
     background-color: black;
     margin-top: 4px;
     margin-bottom: 4px;
+    line-height: 120%;
     
 
 }
 ul {
-    color: #FFC040;
+    color: white;
     font-size: 1.3em;
     background-color: rgba(00, 00, 00, 1);
     
@@ -160,7 +161,7 @@ div.attributes-filtering-box{
     transform: rotate(90deg);
     font-size: 1.5em;
     text-align: center;
-    background-color: orange;
+    background-color: darkgreen;
   display: block;
   flex-grow: 0;
   flex-shrink: 1;
