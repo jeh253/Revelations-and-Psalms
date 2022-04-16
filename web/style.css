@@ -11,21 +11,21 @@ body {
     
 }
 h1 {
-    color: #FFC040;
+    color: white;
     text-align: center;
     background-color: black;
 
 
 }
 h2 {
-    color: #FFC040;
+    color: white;
     text-align: center;
     background-color: black;
 
 
 }
 h3 {
-    color: #FFC040;
+    color: white;
     text-align: center;
     background-color: black;
   
@@ -40,7 +40,7 @@ p {
 
 }
 ul {
-    color: #FFC040;
+    color: white;
     font-size: 1.3em;
     background-color: rgba(00, 00, 00, 1);
     line-height:120%;
@@ -50,6 +50,7 @@ ul {
 
 }
 li {
+color: white;
     text-align: justify;
  line-height:120%;
     
