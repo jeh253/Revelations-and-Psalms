@@ -4,7 +4,7 @@ body {
     background-color: #F7F8F1;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     align-content: center;
     
@@ -98,7 +98,7 @@ div.texts-filtering-container{
    
 
 }
-div.attributes-filtering-container{
+div.texts-filtering-container{
     height:98vh;
     overflow-y: scroll;
     height: 200px;
