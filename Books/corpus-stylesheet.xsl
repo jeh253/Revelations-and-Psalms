@@ -11,12 +11,7 @@
         <html>
             <head>
                 <link rel="stylesheet" type="text/css" href="style.css"/>
-                <xsl:if test="$corpus//book/@id = 'PSA'">
-                    <title>Psalms</title>
-                </xsl:if>
-                <xsl:if test="$corpus//book/@id = 'REV'">
-                    <title>Revelations</title>
-                </xsl:if>
+                <title>Psalms and Revelations</title>
             </head>
             <body>
                 <section class="sidebar">
