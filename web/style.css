@@ -7,52 +7,61 @@ body {
     justify-content: center;
     align-items: center;
     align-content: center;
-
     
 }
+sidebar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    order:0;
+}
 h1 {
-    color: white;
+    color: #FFC040;
     text-align: center;
     background-color: black;
-
-
+ 
 }
 h2 {
-    color: white;
+    color: #FFC040;
     text-align: center;
     background-color: black;
-
+    margin-top: 2px;
+    margin-bottom: 2px;
+   
 
 }
 h3 {
-    color: white;
+    color: #FFC040;
     text-align: center;
     background-color: black;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    
   
 }
 p {
     color: white;
     font-size: 1.3em;
     background-color: black;
-    line-height:120%;
-
+    margin-top: 4px;
+    margin-bottom: 4px;
     
 
 }
 ul {
-    color: white;
+    color: #FFC040;
     font-size: 1.3em;
     background-color: rgba(00, 00, 00, 1);
-    line-height:120%;
     
 
 
 
 }
 li {
-color: white;
     text-align: justify;
- line-height:120%;
+ 
     
 
 }
@@ -64,6 +73,47 @@ div {
    
 
 }
+div.text {
+    height:98vh;
+    overflow-y: scroll;
+    height: 200px;
+    width: 400px;
+   
+
+}
+div.texts-filtering-box{
+    height:98vh;
+    overflow-y: scroll;
+    height: 200px;
+    width: 200px;
+   
+
+}
+div.texts-filtering-container{
+    height:98vh;
+    overflow-y: scroll;
+    height: 200px;
+    width: 200px;
+   
+
+}
+div.texts-filtering-container{
+    height:98vh;
+    overflow-y: scroll;
+    height: 200px;
+    width: 200px;
+   
+
+}
+div.attributes-filtering-box{
+    height:98vh;
+    overflow-y: scroll;
+    height: 200px;
+    width: 200px;
+   
+
+}
+
 .cover {
     background: url("resize_front-cover-2.jpg");
     background-repeat: no-repeat;
@@ -120,8 +170,44 @@ div {
     
 
 }
+text{
+    order: 0;
+    display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: flex-start;
+}
+corpus{
+background: url("resize_open-book-2.jpg");
+    background-repeat: no-repeat;
+     background-size: 800px, 800px;
+    display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: center;
+  order: 1;
+    
+}
+texts-filtering-box{
+   order: 1;
+  display: block; 
+   height: 100px;
+   width: 100px;
+  
+    
+}
+attributes-filtering-box{
+   order: 2;
+  display: block;
+height: 100px;
+   width: 100px;
+  
+    
+}
 a:link {
-    color: lightblue;
+    color: gold;
 }
 a:visited {
     color: white;
