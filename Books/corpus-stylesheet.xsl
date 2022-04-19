@@ -4,9 +4,9 @@
     version="3.0">
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
-
+    
     <xsl:variable name="corpus" as="document-node()+" select="collection('?select=*.xml')"/>
-
+    
     <xsl:template name="xsl:initial-template">
         <html>
             <head>
@@ -125,7 +125,7 @@
                 <!-- not sure if this is in the right place but
                     for the moment i'm gonna leave it here -->
                 <script scr="colorcode.js"/>
-
+                
             </body>
         </html>
     </xsl:template>
@@ -134,18 +134,18 @@
             <xsl:text>Chapter: </xsl:text>
             <xsl:apply-templates select="@id"/>
         </h2>
-        <p>
+        <div>
             <xsl:apply-templates/>
-        </p>
-
+        </div>
+        
     </xsl:template>
     <xsl:template match="v">
         <xsl:apply-templates select="@id"/>
         <xsl:text>. </xsl:text>
         <xsl:apply-templates/>
-        <xsl:if test="following-sibling::v">
+        <!--<xsl:if test="following-sibling::v">
             <br/>
-        </xsl:if>
+        </xsl:if>-->
     </xsl:template>
     <xsl:template match="emo_lang">
         <span class="{@emotion} {@tone} color">
