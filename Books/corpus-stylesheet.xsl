@@ -49,7 +49,7 @@
                         <h2 class="sidebar-header">I want to look at:</h2>
                         <div class="attributes-filtering-container">
                             <h3 class="sidebar-header">Emotion</h3>
-                            <input type="checkbox" id="joy" name="joy" checked="checked"
+                            <input type="checkbox" id="joy" name="joy" checked="unchecked"
                                 class="color"/>
                             <label for="joy">Joy</label>
                             <br/>
@@ -134,15 +134,15 @@
             <xsl:text>Chapter: </xsl:text>
             <xsl:apply-templates select="@id"/>
         </h2>
-        <div>
+        <div class="chapter">
             <xsl:apply-templates/>
         </div>
         
     </xsl:template>
     <xsl:template match="v">
-        <xsl:apply-templates select="@id"/>
+        <div class="verse"><xsl:apply-templates select="@id"/>
         <xsl:text>. </xsl:text>
-        <xsl:apply-templates/>
+        <xsl:apply-templates/></div>
         <!--<xsl:if test="following-sibling::v">
             <br/>
         </xsl:if>-->
