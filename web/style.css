@@ -7,21 +7,21 @@ body {
     justify-content: space-around;
     align-items: center;
     align-content: center;
-    
+
 }
-sidebar{
+sidebar {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     align-content: center;
-    order:0;
+    order: 0;
 }
 h1 {
     color: white;
     text-align: center;
     background-color: black;
- 
+
 }
 h2 {
     color: white;
@@ -29,7 +29,7 @@ h2 {
     background-color: black;
     margin-top: 2px;
     margin-bottom: 2px;
-   
+
 
 }
 h3 {
@@ -38,8 +38,17 @@ h3 {
     background-color: black;
     margin-top: 2px;
     margin-bottom: 2px;
-    
-  
+
+
+}
+h3.sidebar-header {
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    width: 200px;
+
 }
 p {
     color: white;
@@ -48,70 +57,70 @@ p {
     margin-top: 4px;
     margin-bottom: 4px;
     line-height: 120%;
-    
+
 
 }
 ul {
     color: white;
     font-size: 1.3em;
     background-color: rgba(00, 00, 00, 1);
-    
+
 
 
 
 }
 li {
     text-align: justify;
- 
-    
+
+
 
 }
 div {
-    height:98vh;
+    height: 98vh;
     overflow-y: scroll;
     height: 600px;
     width: 800px;
-   
+
 
 }
 div.text {
-    height:98vh;
+    height: 98vh;
     overflow-y: scroll;
     height: 200px;
     width: 400px;
-   
+
 
 }
-div.texts-filtering-box{
-    height:98vh;
+div.texts-filtering-box {
+    height: 98vh;
     overflow-y: scroll;
     height: 200px;
     width: 200px;
-   
+
 
 }
-div.texts-filtering-container{
-    height:98vh;
+div.texts-filtering-container {
+    height: 98vh;
     overflow-y: scroll;
     height: 200px;
     width: 200px;
-   
+
 
 }
-div.texts-filtering-container{
-    height:98vh;
+div.texts-filtering-container {
+    height: 98vh;
     overflow-y: scroll;
     height: 200px;
     width: 200px;
-   
+
 
 }
-div.attributes-filtering-box{
-    height:98vh;
+div.attributes-filtering-box {
+    height: 98vh;
     overflow-y: scroll;
     height: 200px;
     width: 200px;
-   
+
 
 }
 
@@ -120,41 +129,41 @@ div.attributes-filtering-box{
     background-repeat: no-repeat;
     background-size: 800px, 800px;
     display: block;
-  flex-grow: 0;
-  flex-shrink: 1;
-  flex-basis: auto;
-  align-self: auto;
-  order: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
 
-    
-   
+
+
 
 }
 .open {
     background: url("resize_open-book-2.jpg");
     background-repeat: no-repeat;
-     background-size: 800px, 800px;
+    background-size: 800px, 800px;
     display: block;
-  flex-grow: 0;
-  flex-shrink: 1;
-  flex-basis: auto;
-  align-self: auto;
-  order: 0;
-   
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+
 
 
 }
 .closed {
     background: url("resize_back-cover-2.jpg");
     background-repeat: no-repeat;
-  background-size: 790px, 900px;
-     display: block;
-  flex-grow: 0;
-  flex-shrink: 1;
-  flex-basis: auto;
-  align-self: auto;
-  order: 0;
-  
+    background-size: 790px, 900px;
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+
 }
 .menu {
     position: relative;
@@ -162,54 +171,106 @@ div.attributes-filtering-box{
     font-size: 1.5em;
     text-align: center;
     background-color: darkgreen;
-  display: block;
-  flex-grow: 0;
-  flex-shrink: 1;
-  flex-basis: auto;
-  align-self: center;
-  order: 2;
-    
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: center;
+    order: 2;
+
 
 }
-text{
+text {
     order: 0;
     display: block;
-  flex-grow: 0;
-  flex-shrink: 1;
-  flex-basis: auto;
-  align-self: flex-start;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: flex-start;
 }
-corpus{
-background: url("resize_open-book-2.jpg");
+corpus {
+    background: url("resize_open-book-2.jpg");
     background-repeat: no-repeat;
-     background-size: 800px, 800px;
+    background-size: 800px, 800px;
     display: block;
-  flex-grow: 0;
-  flex-shrink: 1;
-  flex-basis: auto;
-  align-self: center;
-  order: 1;
-    
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: center;
+    order: 1;
+
 }
-texts-filtering-box{
-   order: 1;
-  display: block; 
-   height: 100px;
-   width: 100px;
-  
-    
+texts-filtering-box {
+    order: 1;
+    display: block;
+    height: 100px;
+    width: 100px;
+
+
 }
-attributes-filtering-box{
-   order: 2;
-  display: block;
-height: 100px;
-   width: 100px;
-  
-    
+attributes-filtering-box {
+    order: 2;
+    display: block;
+    height: 100px;
+    width: 100px;
+
+
 }
 a:link {
     color: gold;
 }
 a:visited {
     color: white;
+}
+span.color.anger{
+    color: red;
+    font-weight:bold;
+}
+span.color.joy{
+    color: pink;
+    font-weight:bold;
+}
+span.color.contentment{
+    color: green;
+    font-weight:bold;
+}
+span.color.fear{
+    color: yellow;
+    font-weight:bold;
+}
+span.color.sorrow{
+    color: lightblue;
+    font-weight:bold;
+}
+span.color.pleading{
+    text-decoration: underline;     
+    text-decoration-color: orange;  
+}
+span.color.petitioning{
+    text-decoration: underline;     
+    text-decoration-color: #FF0099;  
+}
+span.color.violence{
+    text-decoration: underline;     
+    text-decoration-color: red;  
+}
+span.color.boasting{
+    text-decoration: underline;     
+    text-decoration-color: green;  
+}
+span.color.anxiety{
+    text-decoration: underline;     
+    text-decoration-color: lightblue;  
+}
+span.color.praise{
+    text-decoration: underline;     
+    text-decoration-color: lightpink;  
+}
+span.color.fear{
+    text-decoration: underline;     
+    text-decoration-color: yellow;  
+}
+span.color.righteousness{
+    text-decoration: underline;     
+    text-decoration-color: #CC80CC;  
 }
