@@ -13,7 +13,7 @@
                 <link rel="stylesheet" type="text/css" href="style.css"/>
                 <title>Psalms and Revelations</title>
             </head>
-            <body id="analysis" class="open">
+            <body>
                 <section class="sidebar">
                     <!--#include virtual="menu.xhtml"-->
                     <div class="text">
@@ -108,7 +108,7 @@
                         </div>
                     </div>
                 </section>
-                <div class="corpus">
+                <div class="corpus open">
                     <xsl:if test="$corpus//book/@id = 'PSA'">
                         
                             <h1>Psalms</h1>
@@ -135,7 +135,7 @@
             <xsl:apply-templates select="@id"/>
         </h2>
         <div class="chapter">
-            <xsl:apply-templates/>
+            <p><xsl:apply-templates/></p>
         </div>
         
     </xsl:template>
