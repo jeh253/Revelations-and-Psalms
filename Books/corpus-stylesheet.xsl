@@ -4,9 +4,9 @@
     version="3.0">
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
-    
+
     <xsl:variable name="corpus" as="document-node()+" select="collection('?select=*.xml')"/>
-    
+
     <xsl:template name="xsl:initial-template">
         <html>
             <head>
@@ -35,8 +35,7 @@
                         </div>
                         <div class="texts-filtering-container">
                             <h3 class="sidebar-header">Revelations</h3>
-                            <input type="checkbox" id="revelations" name="revelations"
-                                />
+                            <input type="checkbox" id="revelations" name="revelations"/>
                             <label for="revelations">Revelations</label>
                         </div>
                         <div class="texts-filtering-container">
@@ -49,60 +48,47 @@
                         <h2 class="sidebar-header">I want to look at:</h2>
                         <div class="attributes-filtering-container">
                             <h3 class="sidebar-header">Emotion</h3>
-                            <input type="checkbox" id="joy" name="joy"
-                                class="color"/>
+                            <input type="checkbox" id="joy" name="joy"/>
                             <label for="joy">Joy</label>
                             <br/>
-                            <input type="checkbox" id="sorrow" name="sorrow"
-                                class="color"/>
+                            <input type="checkbox" id="sorrow" name="sorrow"/>
                             <label for="sorrow">Sorrow</label>
                             <br/>
-                            <input type="checkbox" id="anger" name="anger"
-                                class="color"/>
+                            <input type="checkbox" id="anger" name="anger"/>
                             <label for="anger">Anger</label>
                             <br/>
-                            <input type="checkbox" id="contentment" name="contentment"
-                                 class="color"/>
+                            <input type="checkbox" id="contentment" name="contentment"/>
                             <label for="contentment">Contentment</label>
                             <br/>
-                            <input type="checkbox" id="fear" name="fear"
-                                class="color"/>
+                            <input type="checkbox" id="fear" name="fear"/>
                             <label for="fear">Fear</label>
                             <br/>
                         </div>
                         <div class="attributes-filtering-container">
                             <h3 class="sidebar-header">Tone</h3>
-                            <input type="checkbox" id="pleading" name="pleading"
-                                class="color"/>
+                            <input type="checkbox" id="pleading" name="pleading"/>
                             <label for="pleading">Pleading</label>
                             <br/>
-                            <input type="checkbox" id="petitioning" name="petitioning"
-                                 class="color"/>
+                            <input type="checkbox" id="petitioning" name="petitioning"/>
                             <label for="petitioning">Petitioning</label>
                             <br/>
-                            <input type="checkbox" id="violence" name="violence" 
-                                class="color"/>
+                            <input type="checkbox" id="violence" name="violence"/>
                             <label for="violence">Violence</label>
                             <br/>
-                            <input type="checkbox" id="boasting" name="boasting" 
-                                class="color"/>
+                            <input type="checkbox" id="boasting" name="boasting"/>
                             <label for="boasting">Boasting</label>
                             <br/>
-                            <input type="checkbox" id="anxiety" name="anxiety" 
-                                class="color"/>
+                            <input type="checkbox" id="anxiety" name="anxiety"/>
                             <label for="anxiety">Anxiety</label>
                             <br/>
-                            <input type="checkbox" id="praise" name="praise" 
-                                class="color"/>
+                            <input type="checkbox" id="praise" name="praise"/>
                             <label for="praise">Praise</label>
                             <br/>
-                            <input type="checkbox" id="fear2" name="fear2" 
-                                class="color"/>
+                            <input type="checkbox" id="fear2" name="fear2"/>
                             <label for="fear2">Fear</label>
                             <!-- slight problem here, we can't have duplicate IDs but we have two different 'fears' (in different areas) -->
                             <br/>
-                            <input type="checkbox" id="righteousness" name="righteousness"
-                                 class="color"/>
+                            <input type="checkbox" id="righteousness" name="righteousness"/>
                             <label for="righteousness">Righteousness</label>
                             <br/>
                         </div>
@@ -125,7 +111,7 @@
                 <!-- not sure if this is in the right place but
                     for the moment i'm gonna leave it here -->
                 <script src="filter.js"/>
-                
+
             </body>
         </html>
     </xsl:template>
@@ -135,9 +121,11 @@
             <xsl:apply-templates select="@id"/>
         </h2>
         <div class="chapter">
-            <p><xsl:apply-templates/></p>
+            <p>
+                <xsl:apply-templates/>
+            </p>
         </div>
-        
+
     </xsl:template>
     <xsl:template match="v">
         <xsl:apply-templates select="@id"/>
