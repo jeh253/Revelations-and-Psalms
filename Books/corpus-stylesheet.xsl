@@ -14,8 +14,9 @@
                 <title>Psalms and Revelations</title>
             </head>
             <body>
+                <xsl:comment>#include virtual="menu.xhtml"</xsl:comment>
                 <section class="sidebar">
-                    <!--#include virtual="menu.xhtml"-->
+
                     <div class="text">
                         <p> Not sure where to start? You can explore the corpus by clicking on any
                             individual tone or emotion, or you can combine them to see where they
@@ -29,17 +30,15 @@
                     <div class="texts-filtering-box">
                         <h2 class="sidebar-header">I want to view:</h2>
                         <div class="texts-filtering-container">
-                            <h3 class="sidebar-header">Psalms</h3>
+
                             <input type="checkbox" id="psalms" name="psalms"/>
                             <label for="psalms">Psalms</label>
-                        </div>
-                        <div class="texts-filtering-container">
-                            <h3 class="sidebar-header">Revelations</h3>
+
+                            <br/>
                             <input type="checkbox" id="revelations" name="revelations"/>
                             <label for="revelations">Revelations</label>
-                        </div>
-                        <div class="texts-filtering-container">
-                            <h3 class="sidebar-header">Both</h3>
+
+                            <br/>
                             <input type="checkbox" id="both" name="both"/>
                             <label for="both">Both</label>
                         </div>
@@ -63,8 +62,7 @@
                             <input type="checkbox" id="fear" name="fear"/>
                             <label for="fear">Fear</label>
                             <br/>
-                        </div>
-                        <div class="attributes-filtering-container">
+
                             <h3 class="sidebar-header">Tone</h3>
                             <input type="checkbox" id="pleading" name="pleading"/>
                             <label for="pleading">Pleading</label>

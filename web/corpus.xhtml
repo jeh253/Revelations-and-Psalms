@@ -3,7 +3,7 @@
       <link rel="stylesheet" type="text/css" href="style.css"/>
       <title>Psalms and Revelations</title>
    </head>
-   <body>
+   <body><!--#include virtual="menu.xhtml"-->
       <section class="sidebar">
          <div class="text">
             <p> Not sure where to start? You can explore the corpus by clicking on any
@@ -17,19 +17,12 @@
          </div>
          <div class="texts-filtering-box">
             <h2 class="sidebar-header">I want to view:</h2>
-            <div class="texts-filtering-container">
-               <h3 class="sidebar-header">Psalms</h3><input type="checkbox" id="psalms" name="psalms"/><label for="psalms">Psalms</label></div>
-            <div class="texts-filtering-container">
-               <h3 class="sidebar-header">Revelations</h3><input type="checkbox" id="revelations" name="revelations"/><label for="revelations">Revelations</label></div>
-            <div class="texts-filtering-container">
-               <h3 class="sidebar-header">Both</h3><input type="checkbox" id="both" name="both"/><label for="both">Both</label></div>
+            <div class="texts-filtering-container"><input type="checkbox" id="psalms" name="psalms"/><label for="psalms">Psalms</label><br/><input type="checkbox" id="revelations" name="revelations"/><label for="revelations">Revelations</label><br/><input type="checkbox" id="both" name="both"/><label for="both">Both</label></div>
          </div>
          <div class="attributes-filtering-box">
             <h2 class="sidebar-header">I want to look at:</h2>
             <div class="attributes-filtering-container">
-               <h3 class="sidebar-header">Emotion</h3><input type="checkbox" id="joy" name="joy"/><label for="joy">Joy</label><br/><input type="checkbox" id="sorrow" name="sorrow"/><label for="sorrow">Sorrow</label><br/><input type="checkbox" id="anger" name="anger"/><label for="anger">Anger</label><br/><input type="checkbox" id="contentment" name="contentment"/><label for="contentment">Contentment</label><br/><input type="checkbox" id="fear" name="fear"/><label for="fear">Fear</label><br/></div>
-            <div class="attributes-filtering-container">
-               <h3 class="sidebar-header">Tone</h3><input type="checkbox" id="pleading" name="pleading"/><label for="pleading">Pleading</label><br/><input type="checkbox" id="petitioning" name="petitioning"/><label for="petitioning">Petitioning</label><br/><input type="checkbox" id="violence" name="violence"/><label for="violence">Violence</label><br/><input type="checkbox" id="boasting" name="boasting"/><label for="boasting">Boasting</label><br/><input type="checkbox" id="anxiety" name="anxiety"/><label for="anxiety">Anxiety</label><br/><input type="checkbox" id="praise" name="praise"/><label for="praise">Praise</label><br/><input type="checkbox" id="fear2" name="fear2"/><label for="fear2">Fear</label><br/><input type="checkbox" id="righteousness" name="righteousness"/><label for="righteousness">Righteousness</label><br/></div>
+               <h3 class="sidebar-header">Emotion</h3><input type="checkbox" id="joy" name="joy"/><label for="joy">Joy</label><br/><input type="checkbox" id="sorrow" name="sorrow"/><label for="sorrow">Sorrow</label><br/><input type="checkbox" id="anger" name="anger"/><label for="anger">Anger</label><br/><input type="checkbox" id="contentment" name="contentment"/><label for="contentment">Contentment</label><br/><input type="checkbox" id="fear" name="fear"/><label for="fear">Fear</label><br/><h3 class="sidebar-header">Tone</h3><input type="checkbox" id="pleading" name="pleading"/><label for="pleading">Pleading</label><br/><input type="checkbox" id="petitioning" name="petitioning"/><label for="petitioning">Petitioning</label><br/><input type="checkbox" id="violence" name="violence"/><label for="violence">Violence</label><br/><input type="checkbox" id="boasting" name="boasting"/><label for="boasting">Boasting</label><br/><input type="checkbox" id="anxiety" name="anxiety"/><label for="anxiety">Anxiety</label><br/><input type="checkbox" id="praise" name="praise"/><label for="praise">Praise</label><br/><input type="checkbox" id="fear2" name="fear2"/><label for="fear2">Fear</label><br/><input type="checkbox" id="righteousness" name="righteousness"/><label for="righteousness">Righteousness</label><br/></div>
          </div>
       </section>
       <div class="corpus open">

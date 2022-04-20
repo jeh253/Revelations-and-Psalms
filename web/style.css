@@ -86,7 +86,7 @@ li {
 
 
 }
-div {
+div.corpus {
     height: 98vh;
     overflow-y: scroll;
     height: 600px;
@@ -94,40 +94,28 @@ div {
 
 
 }
+
 div.text {
     height: 98vh;
-    overflow-y: scroll;
-    height: 200px;
+    height: 300px;
     width: 400px;
 
 
 }
-div.texts-filtering-box {
-    height: 98vh;
-    overflow-y: scroll;
+.texts-filtering-box {
+    height: 100px;
+    width: 200px;
+    padding-top: 50px;
+
+}
+.texts-filtering-container {
     height: 200px;
     width: 200px;
 
 
 }
-div.texts-filtering-container {
-    height: 98vh;
-    overflow-y: scroll;
-    height: 200px;
-    width: 200px;
 
-
-}
-div.texts-filtering-container {
-    height: 98vh;
-    overflow-y: scroll;
-    height: 200px;
-    width: 200px;
-    
-
-
-}
-div.attributes-filtering-box {
+.attributes-filtering-box {
     height: 98vh;
     overflow-y: scroll;
     height: 200px;
@@ -200,7 +188,7 @@ text {
     flex-basis: auto;
     align-self: flex-start;
 }
-corpus {
+.corpus {/*is this doing anything?*/
     background: url("resize_open-book-2.jpg");
     background-repeat: no-repeat;
     background-size: 800px, 800px;
