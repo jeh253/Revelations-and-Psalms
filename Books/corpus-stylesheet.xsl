@@ -13,7 +13,7 @@
                 <link rel="stylesheet" type="text/css" href="style.css"/>
                 <title>Psalms and Revelations</title>
             </head>
-            <body>
+            <body id="analysis" class="open">
                 <section class="sidebar">
                     <!--#include virtual="menu.xhtml"-->
                     <div class="text">
