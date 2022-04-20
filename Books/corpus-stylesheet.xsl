@@ -124,7 +124,7 @@
                 </div>
                 <!-- not sure if this is in the right place but
                     for the moment i'm gonna leave it here -->
-                <script scr="colorcode.js"/>
+                <script src="filter.js"/>
                 
             </body>
         </html>
