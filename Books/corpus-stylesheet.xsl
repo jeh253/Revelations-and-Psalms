@@ -30,18 +30,18 @@
                         <h2 class="sidebar-header">I want to view:</h2>
                         <div class="texts-filtering-container">
                             <h3 class="sidebar-header">Psalms</h3>
-                            <input type="checkbox" id="psalms" name="psalms" checked="checked"/>
+                            <input type="checkbox" id="psalms" name="psalms"/>
                             <label for="psalms">Psalms</label>
                         </div>
                         <div class="texts-filtering-container">
                             <h3 class="sidebar-header">Revelations</h3>
                             <input type="checkbox" id="revelations" name="revelations"
-                                checked="checked"/>
+                                />
                             <label for="revelations">Revelations</label>
                         </div>
                         <div class="texts-filtering-container">
                             <h3 class="sidebar-header">Both</h3>
-                            <input type="checkbox" id="both" name="both" checked="checked"/>
+                            <input type="checkbox" id="both" name="both"/>
                             <label for="both">Both</label>
                         </div>
                     </div>
@@ -49,60 +49,60 @@
                         <h2 class="sidebar-header">I want to look at:</h2>
                         <div class="attributes-filtering-container">
                             <h3 class="sidebar-header">Emotion</h3>
-                            <input type="checkbox" id="joy" name="joy" checked="unchecked"
+                            <input type="checkbox" id="joy" name="joy"
                                 class="color"/>
                             <label for="joy">Joy</label>
                             <br/>
-                            <input type="checkbox" id="sorrow" name="sorrow" checked="checked"
+                            <input type="checkbox" id="sorrow" name="sorrow"
                                 class="color"/>
                             <label for="sorrow">Sorrow</label>
                             <br/>
-                            <input type="checkbox" id="anger" name="anger" checked="checked"
+                            <input type="checkbox" id="anger" name="anger"
                                 class="color"/>
                             <label for="anger">Anger</label>
                             <br/>
                             <input type="checkbox" id="contentment" name="contentment"
-                                checked="checked" class="color"/>
+                                 class="color"/>
                             <label for="contentment">Contentment</label>
                             <br/>
-                            <input type="checkbox" id="fear" name="fear" checked="checked"
+                            <input type="checkbox" id="fear" name="fear"
                                 class="color"/>
                             <label for="fear">Fear</label>
                             <br/>
                         </div>
                         <div class="attributes-filtering-container">
                             <h3 class="sidebar-header">Tone</h3>
-                            <input type="checkbox" id="pleading" name="pleading" checked="checked"
+                            <input type="checkbox" id="pleading" name="pleading"
                                 class="color"/>
                             <label for="pleading">Pleading</label>
                             <br/>
                             <input type="checkbox" id="petitioning" name="petitioning"
-                                checked="checked" class="color"/>
+                                 class="color"/>
                             <label for="petitioning">Petitioning</label>
                             <br/>
-                            <input type="checkbox" id="violence" name="violence" checked="checked"
+                            <input type="checkbox" id="violence" name="violence" 
                                 class="color"/>
                             <label for="violence">Violence</label>
                             <br/>
-                            <input type="checkbox" id="boasting" name="boasting" checked="checked"
+                            <input type="checkbox" id="boasting" name="boasting" 
                                 class="color"/>
                             <label for="boasting">Boasting</label>
                             <br/>
-                            <input type="checkbox" id="anxiety" name="anxiety" checked="checked"
+                            <input type="checkbox" id="anxiety" name="anxiety" 
                                 class="color"/>
                             <label for="anxiety">Anxiety</label>
                             <br/>
-                            <input type="checkbox" id="praise" name="praise" checked="checked"
+                            <input type="checkbox" id="praise" name="praise" 
                                 class="color"/>
                             <label for="praise">Praise</label>
                             <br/>
-                            <input type="checkbox" id="fear2" name="fear2" checked="checked"
+                            <input type="checkbox" id="fear2" name="fear2" 
                                 class="color"/>
                             <label for="fear2">Fear</label>
                             <!-- slight problem here, we can't have duplicate IDs but we have two different 'fears' (in different areas) -->
                             <br/>
                             <input type="checkbox" id="righteousness" name="righteousness"
-                                checked="checked" class="color"/>
+                                 class="color"/>
                             <label for="righteousness">Righteousness</label>
                             <br/>
                         </div>
