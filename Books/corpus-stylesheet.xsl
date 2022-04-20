@@ -110,16 +110,16 @@
                 </section>
                 <div class="corpus open">
                     <xsl:if test="$corpus//book/@id = 'PSA'">
-                        
+                        <div class="Psalms">
                             <h1>Psalms</h1>
                             <xsl:apply-templates select="$corpus//book[@id = 'PSA']//c"/>
-                        
+                        </div>
                     </xsl:if>
                     <xsl:if test="$corpus//book/@id = 'REV'">
-                        
+                        <div class="Revelations">
                             <h1>Revelations</h1>
                             <xsl:apply-templates select="$corpus//book[@id = 'REV']//c"/>
-                        
+                        </div>
                     </xsl:if>
                 </div>
                 <!-- not sure if this is in the right place but
