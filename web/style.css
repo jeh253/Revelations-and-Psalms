@@ -222,55 +222,55 @@ a:link {
 a:visited {
     color: white;
 }
-span.color.anger{
+span.highlight.anger{
     color: red;
     font-weight:bold;
 }
-span.color.joy{
+span.highlight.joy{
     color: pink;
     font-weight:bold;
 }
-span.color.contentment{
+span.highlight.contentment{
     color: green;
     font-weight:bold;
 }
-span.color.fear{
+span.highlight.fear{
     color: yellow;
     font-weight:bold;
 }
-span.color.sorrow{
+span.highlight.sorrow{
     color: lightblue;
     font-weight:bold;
 }
-span.color.pleading{
+span.highlight.pleading{
     text-decoration: underline;     
     text-decoration-color: orange;  
 }
-span.color.petitioning{
+span.highlight.petitioning{
     text-decoration: underline;     
     text-decoration-color: #FF0099;  
 }
-span.color.violence{
+span.highlight.violence{
     text-decoration: underline;     
     text-decoration-color: red;  
 }
-span.color.boasting{
+span.highlight.boasting{
     text-decoration: underline;     
     text-decoration-color: green;  
 }
-span.color.anxiety{
+span.highlight.anxiety{
     text-decoration: underline;     
     text-decoration-color: lightblue;  
 }
-span.color.praise{
+span.highlight.praise{
     text-decoration: underline;     
     text-decoration-color: lightpink;  
 }
-span.color.fear{
+span.highlight.fear{
     text-decoration: underline;     
     text-decoration-color: yellow;  
 }
-span.color.righteousness{
+span.highlight.righteousness{
     text-decoration: underline;     
     text-decoration-color: #CC80CC;  
 }
