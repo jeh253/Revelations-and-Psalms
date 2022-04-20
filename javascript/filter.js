@@ -1,7 +1,7 @@
 "use strict";
 
-const checkboxes = document.querySelectorAll('.texts-filtering-container > input');
-const readingCheckboxes = document.querySelectorAll('.texts-filtering-box > input');
+const checkboxes = document.querySelectorAll('.attributes-filtering-container > input');
+const readingCheckboxes = document.querySelectorAll('.texts-filtering-container > input');
 window.addEventListener('DOMContentLoaded', (event) => {
     /* Attach event listeners to checkboxes */
     for (var i = 0; i < checkboxes.length; i++) {
