@@ -123,6 +123,7 @@ div.texts-filtering-container {
     overflow-y: scroll;
     height: 200px;
     width: 200px;
+    
 
 
 }
@@ -211,22 +212,7 @@ corpus {
     order: 1;
 
 }
-texts-filtering-box {
-    order: 1;
-    display: block;
-    height: 100px;
-    width: 100px;
 
-
-}
-attributes-filtering-box {
-    order: 2;
-    display: block;
-    height: 100px;
-    width: 100px;
-
-
-}
 a:link {
     color: gold;
 }
