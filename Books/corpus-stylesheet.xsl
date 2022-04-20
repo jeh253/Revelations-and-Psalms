@@ -140,15 +140,15 @@
         
     </xsl:template>
     <xsl:template match="v">
-        <div class="verse"><xsl:apply-templates select="@id"/>
+        <xsl:apply-templates select="@id"/>
         <xsl:text>. </xsl:text>
-        <xsl:apply-templates/></div>
-        <!--<xsl:if test="following-sibling::v">
+        <xsl:apply-templates/>
+        <xsl:if test="following-sibling::v">
             <br/>
-        </xsl:if>-->
+        </xsl:if>
     </xsl:template>
     <xsl:template match="emo_lang">
-        <span class="{@emotion} {@tone} color">
+        <span class="{@emotion} {@tone}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
