@@ -36,76 +36,72 @@
 
                             <br/>
                             <input type="checkbox" id="revelations" name="revelations"/>
-                            <label for="revelations">Revelations</label>
-
-                            <br/>
-                            <input type="checkbox" id="both" name="both"/>
-                            <label for="both">Both</label>
+                            <label for="revelations">Revelations</label>     
                         </div>
                     </div>
-                    <div class="attributes-filtering-box">
-                        <h2 class="sidebar-header">I want to look at:</h2>
-                        <div class="emotion-filtering-container">
-                            <h3 class="sidebar-header">Emotion</h3>
-                            <input type="checkbox" id="joy" name="joy"/>
-                            <label for="joy">Joy</label>
-                            <br/>
-                            <input type="checkbox" id="sorrow" name="sorrow"/>
-                            <label for="sorrow">Sorrow</label>
-                            <br/>
-                            <input type="checkbox" id="anger" name="anger"/>
-                            <label for="anger">Anger</label>
-                            <br/>
-                            <input type="checkbox" id="contentment" name="contentment"/>
-                            <label for="contentment">Contentment</label>
-                            <br/>
-                            <input type="checkbox" id="fearE" name="fearE"/>
-                            <label for="fearE">Fear</label>
-                            <br/>
-<<<<<<< Updated upstream
-
-=======
+                    <div class="attribute-filtering-box">
+                        <div class="emotion-filtering-box">
+                            <h2 class="sidebar-header">I want to look at:</h2>
+                            <div class="emotion-filtering-container">
+                                <h3 class="sidebar-header">Emotion</h3>
+                                <input type="checkbox" id="joy" name="joy"/>
+                                <label for="joy">Joy</label>
+                                <br/>
+                                <input type="checkbox" id="sorrow" name="sorrow"/>
+                                <label for="sorrow">Sorrow</label>
+                                <br/>
+                                <input type="checkbox" id="anger" name="anger"/>
+                                <label for="anger">Anger</label>
+                                <br/>
+                                <input type="checkbox" id="contentment" name="contentment"/>
+                                <label for="contentment">Contentment</label>
+                                <br/>
+                                <input type="checkbox" id="fearE" name="fearE"/>
+                                <label for="fearE">Fear</label>
+                                <br/>
+                            </div>
                         </div>
-                        <div class="tone-filtering-container">
->>>>>>> Stashed changes
-                            <h3 class="sidebar-header">Tone</h3>
-                            <input type="checkbox" id="pleading" name="pleading"/>
-                            <label for="pleading">Pleading</label>
-                            <br/>
-                            <input type="checkbox" id="petitioning" name="petitioning"/>
-                            <label for="petitioning">Petitioning</label>
-                            <br/>
-                            <input type="checkbox" id="violence" name="violence"/>
-                            <label for="violence">Violence</label>
-                            <br/>
-                            <input type="checkbox" id="boasting" name="boasting"/>
-                            <label for="boasting">Boasting</label>
-                            <br/>
-                            <input type="checkbox" id="anxiety" name="anxiety"/>
-                            <label for="anxiety">Anxiety</label>
-                            <br/>
-                            <input type="checkbox" id="praise" name="praise"/>
-                            <label for="praise">Praise</label>
-                            <br/>
-                            <input type="checkbox" id="fear2" name="fear2"/>
-                            <label for="fear2">Fear</label>
-                            <!-- slight problem here, we can't have duplicate IDs but we have two different 'fears' (in different areas) -->
-                            <br/>
-                            <input type="checkbox" id="righteousness" name="righteousness"/>
-                            <label for="righteousness">Righteousness</label>
-                            <br/>
+                        <div class="tone-filtering-box">
+                            <div class="tone-filtering-container">
+                                <h3 class="sidebar-header">Tone</h3>
+                                <input type="checkbox" id="pleading" name="pleading"/>
+                                <label for="pleading">Pleading</label>
+                                <br/>
+                                <input type="checkbox" id="petitioning" name="petitioning"/>
+                                <label for="petitioning">Petitioning</label>
+                                <br/>
+                                <input type="checkbox" id="violence" name="violence"/>
+                                <label for="violence">Violence</label>
+                                <br/>
+                                <input type="checkbox" id="boasting" name="boasting"/>
+                                <label for="boasting">Boasting</label>
+                                <br/>
+                                <input type="checkbox" id="anxiety" name="anxiety"/>
+                                <label for="anxiety">Anxiety</label>
+                                <br/>
+                                <input type="checkbox" id="praise" name="praise"/>
+                                <label for="praise">Praise</label>
+                                <br/>
+                                <input type="checkbox" id="fear2" name="fear2"/>
+                                <label for="fear2">Fear</label>
+                                <!-- slight problem here, we can't have duplicate IDs but we have two different 'fears' (in different areas) -->
+                                <br/>
+                                <input type="checkbox" id="righteousness" name="righteousness"/>
+                                <label for="righteousness">Righteousness</label>
+                                <br/>
+                            </div>
                         </div>
                     </div>
                 </section>
                 <div class="corpus open">
                     <xsl:if test="$corpus//book/@id = 'PSA'">
-                        <div class="Psalms">
+                        <div class="corpora psalms">
                             <h1>Psalms</h1>
                             <xsl:apply-templates select="$corpus//book[@id = 'PSA']//c"/>
                         </div>
                     </xsl:if>
                     <xsl:if test="$corpus//book/@id = 'REV'">
-                        <div class="Revelations">
+                        <div class="corpora revelations">
                             <h1>Revelations</h1>
                             <xsl:apply-templates select="$corpus//book[@id = 'REV']//c"/>
                         </div>
@@ -139,16 +135,18 @@
         </xsl:if>
     </xsl:template>
     <xsl:template match="emo_lang">
-        <xsl:choose>
-            <xsl:when test="@emotion='fear'">
-                <span class="fearE {@tone}">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-            <xsl:otherwise>
-                <span class="{@emotion} {@tone}"></span>
-            </xsl:otherwise>
-        </xsl:choose>
+
+        <xsl:if test="@emotion = 'fear'">
+            <span class="fearE {@tone}">
+                <xsl:apply-templates/>
+            </span>
+        </xsl:if>
+
+        <span class="{@emotion} {@tone}">
+            <xsl:apply-templates/>
+        </span>
+
+
         <!--<span class="{@emotion} {@tone}">
             <xsl:apply-templates/>
         </span>-->

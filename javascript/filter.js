@@ -37,6 +37,7 @@ function filter(){
     var check_array = Array.from(readingCheckboxes).filter(item => item.checked).map(item => item.id)
     
     const corpora = document.getElementsByClassName('corpora');
+    console.log(corpora);
     for(var i = 0; i < corpora.length; i++){
         corpora[i].style.display = 'none';
         if(Array.from(corpora[i].classList).some(item => check_array.includes(item))){

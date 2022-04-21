@@ -115,14 +115,35 @@ div.text {
 
 }
 
-.attributes-filtering-box {
+.attribute-filtering-box {
     height: 98vh;
     overflow-y: scroll;
     height: 200px;
     width: 200px;
-
-
+    
 }
+/*.tone-filtering-box {
+    height: 98vh;
+    overflow-y: scroll;
+    height: 200px;
+    width: 200px;
+    
+}
+
+.emotion-filtering-container {
+    height: 98vh;
+    overflow-y: scroll;
+    height: 200px;
+    width: 200px;
+    
+}
+.tone-filtering-container {
+    height: 98vh;
+    overflow-y: scroll;
+    height: 200px;
+    width: 200px;
+    
+}*/
 
 .cover {
     background: url("resize_front-cover-2.jpg");
@@ -208,55 +229,55 @@ a:link {
 a:visited {
     color: white;
 }
-span.highlight.anger{
+span.high.anger{
     color: red;
     font-weight:bold;
 }
-span.highlight.joy{
+span.high.joy{
     color: pink;
     font-weight:bold;
 }
-span.highlight.contentment{
+span.high.contentment{
     color: green;
     font-weight:bold;
 }
-span.highlight.fear{
+span.high.fearE{
     color: yellow;
     font-weight:bold;
 }
-span.highlight.sorrow{
+span.high.sorrow{
     color: lightblue;
     font-weight:bold;
 }
-span.highlight.pleading{
+span.light.pleading{
     text-decoration: underline;     
     text-decoration-color: orange;  
 }
-span.highlight.petitioning{
+span.light.petitioning{
     text-decoration: underline;     
     text-decoration-color: #FF0099;  
 }
-span.highlight.violence{
+span.light.violence{
     text-decoration: underline;     
     text-decoration-color: red;  
 }
-span.highlight.boasting{
+span.light.boasting{
     text-decoration: underline;     
     text-decoration-color: green;  
 }
-span.highlight.anxiety{
+span.light.anxiety{
     text-decoration: underline;     
     text-decoration-color: lightblue;  
 }
-span.highlight.praise{
+span.light.praise{
     text-decoration: underline;     
     text-decoration-color: lightpink;  
 }
-span.highlight.fear{
+span.light.fear{
     text-decoration: underline;     
     text-decoration-color: yellow;  
 }
-span.highlight.righteousness{
+span.light.righteousness{
     text-decoration: underline;     
     text-decoration-color: #CC80CC;  
 }
