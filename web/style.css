@@ -1,7 +1,7 @@
 body {
     overflow-y: hidden;
     overflow-x: hidden;
-    background-color: #c4def6;
+    background-color: #5a849f;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -29,43 +29,43 @@ sidebar {
     order: 0;
 }
 h1 {
-    color: white;
+    color: beige;
     text-align: center;
-    background-color: black;
+    background-color: #451F0C;
     font-family: Verdana, humanist, sans-serif;
 
 }
 h2 {
-    color: white;
+    color: beige;
     text-align: center;
-    background-color: black;
+    background-color: #451F0C;
     margin-top: 2px;
     margin-bottom: 2px;
     font-family: Verdana, humanist, sans-serif;
 
 }
 h3 {
-    color: white;
+    color: beige;
     text-align: center;
-    background-color: black;
+    background-color: #451F0C;
     margin-top: 2px;
     margin-bottom: 2px;
     font-family: Verdana, humanist, sans-serif;
 
 }
 h3.sidebar-header {
-    color: white;
+    color: beige;
     text-align: center;
-    background-color: black;
+    background-color: #451F0C;
     margin-top: 2px;
     margin-bottom: 2px;
     width: 200px;
     font-family: Verdana, humanist, sans-serif;
 }
 p {
-    color: white;
+    color: beige;
     font-size: 1.3em;
-    background-color: black;
+    background-color: #451F0C;
     margin-top: 4px;
     margin-bottom: 4px;
     line-height: 120%;
@@ -74,9 +74,9 @@ p {
 
 }
 ul {
-    color: white;
+    color: beige;
     font-size: 1.3em;
-    background-color: rgba(00, 00, 00, 1);
+    background-color: #451F0C;
     font-family: Verdana, humanist, sans-serif;
 
 
@@ -149,28 +149,6 @@ div.text {
     width: 200px;
     
 }
-/*.tone-filtering-box {
-    height: 98vh;
-    overflow-y: scroll;
-    height: 200px;
-    width: 200px;
-    
-}
-
-.emotion-filtering-container {
-    height: 98vh;
-    overflow-y: scroll;
-    height: 200px;
-    width: 200px;
-    
-}
-.tone-filtering-container {
-    height: 98vh;
-    overflow-y: scroll;
-    height: 200px;
-    width: 200px;
-    
-}*/
 
 .cover {
     background: url("resize_front-cover-2.jpg");
@@ -218,7 +196,7 @@ div.text {
     position: relative;
     font-size: 1.5em;
     text-align: center;
-    background-color: black;
+    background-color: #451F0C;
     display: block;
     flex-grow: 0;
     flex-shrink: 1;
@@ -243,22 +221,8 @@ th, td {
 table{
     width: 100%;
     border: 1px solid;
-    background: black;
+    background: #451F0C;
 }
-/*is this doing anything? corpus{
-    background: url("resize_open-book-2.jpg");
-    background-repeat: no-repeat;
-    background-size: 800px, 800px;
-    display: block;
-    flex-grow: 0;
-    flex-shrink: 1;
-    flex-basis: auto;
-    align-self: center;
-    order: 1;
-
-}
- * I don't think it is anymore, but I'll keep it here in case it is.
- */
 
 a:link {
     color: gold;
