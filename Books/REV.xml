@@ -48,7 +48,7 @@
 			<v id="16" bcv="REV.1.16">He had seven stars in his right hand. <emo_lang
 					emotion="anger" tone="violence">Out of his mouth proceeded a sharp two-edged
 					sword.</emo_lang> His face was like the sun shining at its brightest.</v>
-			<v id="17" bcv="REV.1.17">When I saw him, <emo_lang emotion="?" tone="praise">I fell at
+			<v id="17" bcv="REV.1.17">When I saw him, <emo_lang tone="praise">I fell at
 					his feet like a dead man.</emo_lang> He laid his right hand on me,
 					saying,“<emo_lang emotion="contentment" tone="petitioning">Don’t be
 					afraid.</emo_lang> I am the first and the last,</v>
@@ -64,7 +64,7 @@
 			<v id="1" bcv="REV.2.1">“To the angel of the assembly in Ephesus write:“He who holds the
 				seven stars in his right hand, he who walks among the seven golden lamp stands says
 				these things:</v>
-			<v id="2" bcv="REV.2.2">“I know your works, and your <emo_lang emotion="sorror"
+			<v id="2" bcv="REV.2.2">“I know your works, and your <emo_lang emotion="sorrow"
 					>toil</emo_lang> and <emo_lang emotion="contentment">perseverance</emo_lang>,
 				and that <emo_lang emotion="anger" tone="righteousness">you can’t tolerate evil men,
 					and have tested those who call themselves apostles, and they are not, and found
@@ -640,7 +640,7 @@
 			<v id="6" bcv="REV.14.6">I saw an angel flying in mid heaven, having an eternal Good
 				News to proclaim to those who dwell on the earth, and to every nation, tribe,
 				language, and people.</v>
-			<v id="7" bcv="REV.14.7">He said with a loud voice, “<emo_lang emotion="fear?" tone="petitioning"><!--tone or emotion could be commanding/demanding? -->Fear the Lord, and give him glory</emo_lang>;
+			<v id="7" bcv="REV.14.7">He said with a loud voice, “<emo_lang emotion="fear" tone="petitioning"><!--tone or emotion could be commanding/demanding? -->Fear the Lord, and give him glory</emo_lang>;
 				for the hour of his judgment has come. Worship him who made the heaven, the earth,
 				the sea, and the springs of waters!”</v>
 			<v id="8" bcv="REV.14.8">Another, a second angel, followed, saying, “Babylon the great

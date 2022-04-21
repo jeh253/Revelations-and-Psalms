@@ -6,5 +6,5 @@ v = element v {mixed{id, bcv, (emo_lang)*}}
 id = attribute id {text}
 bcv = attribute bcv {text}
 emo_lang = element emo_lang{emotion?, tone?, mixed{(emo_lang*)}}
-emotion = attribute emotion {text}
+emotion = attribute emotion {list {(("joy" | "contentment" | "sorrow" | "anger" | "fear"))}}
 tone = attribute tone {list {(("righteousness" | "pleading" | "petitioning" | "anxiety" | "violence" | "praise" | "fear" | "boasting")+)}}
