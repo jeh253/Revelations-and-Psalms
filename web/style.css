@@ -94,6 +94,30 @@ div.corpus {
 
 
 }
+div.cover {
+    height: 98vh;
+    overflow-y: scroll;
+    height: 600px;
+    width: 800px;
+
+
+}
+div.open {
+    height: 98vh;
+    overflow-y: scroll;
+    height: 600px;
+    width: 800px;
+
+
+}
+div.closed {
+    height: 98vh;
+    overflow-y: scroll;
+    height: 600px;
+    width: 750px;
+
+
+}
 
 div.text {
     height: 98vh;
