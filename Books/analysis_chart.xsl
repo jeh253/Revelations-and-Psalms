@@ -31,7 +31,7 @@
     </xsl:template>
     <xsl:template match="book[@id = 'REV']">
         <tr>
-            <th>Emotions/Tones</th>
+            <th>Emotions</th>
             <th>Count</th>
         </tr>
         <tr>
@@ -63,6 +63,10 @@
             <td>
                 <xsl:value-of select="count(//emo_lang[@emotion eq 'fear'])"/>
             </td>
+        </tr>
+        <tr>
+            <th>Tones</th>
+            <th>Count</th>
         </tr>
         <tr>
             <td>Petitioning</td>
@@ -115,7 +119,7 @@
     </xsl:template>
     <xsl:template match="book[@id = 'PSA']">
         <tr>
-            <th>Emotions/Tones</th>
+            <th>Emotions</th>
             <th>Count</th>
         </tr>
         <tr>
@@ -147,6 +151,10 @@
             <td>
                 <xsl:value-of select="count(//emo_lang[@emotion eq 'fear'])"/>
             </td>
+        </tr>
+        <tr>
+            <th>Tones</th>
+            <th>Count</th>
         </tr>
         <tr>
             <td>Petitioning</td>
