@@ -1,7 +1,7 @@
 body {
     overflow-y: hidden;
     overflow-x: hidden;
-    background-color: #F7F8F1;
+    background-color: lightblue;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -213,10 +213,9 @@ div.text {
 }
 .menu {
     position: relative;
-    transform: rotate(90deg);
     font-size: 1.5em;
     text-align: center;
-    background-color: darkgreen;
+    background-color: black;
     display: block;
     flex-grow: 0;
     flex-shrink: 1;
