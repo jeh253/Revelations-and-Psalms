@@ -234,6 +234,15 @@ text {
     flex-basis: auto;
     align-self: flex-start;
 }
+th, td {
+  border: 1px solid;
+    color: white;
+}
+table{
+    width: 100%;
+    border: 1px solid;
+    background: black;
+}
 /*is this doing anything? corpus{
     background: url("resize_open-book-2.jpg");
     background-repeat: no-repeat;
