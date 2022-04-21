@@ -1,7 +1,7 @@
 body {
     overflow-y: hidden;
     overflow-x: hidden;
-    background-color: lightblue;
+    background-color: #c4def6;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
