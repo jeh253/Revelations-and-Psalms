@@ -37,79 +37,79 @@
         <tr>
             <td>Anger</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@emotion['anger'])]"/>
+                <xsl:value-of select="count(//emo_lang[@emotion eq 'anger'])"/>
             </td>
         </tr>
         <tr>
             <td>Joy</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@emotion['joy'])]"/>
+                <xsl:value-of select="count(//emo_lang[@emotion eq 'joy'])"/>
             </td>
         </tr>
         <tr>
             <td>Contentment</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@emotion['contentment'])]"/>
+                <xsl:value-of select="count(//emo_lang[@emotion eq 'contentment'])"/>
             </td>
         </tr>
         <tr>
             <td>Sorrow</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@emotion['sorrow'])]"/>
+                <xsl:value-of select="count(//emo_lang[@emotion eq 'sorrow'])"/>
             </td>
         </tr>
         <tr>
             <td>Fear</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@emotion['fear'])]"/>
+                <xsl:value-of select="count(//emo_lang[@emotion eq 'fear'])"/>
             </td>
         </tr>
         <tr>
             <td>Petitioning</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['petitioning'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'petitioning'])"/>
             </td>
         </tr>
         <tr>
             <td>Pleading</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['pleading'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'pleading'])"/>
             </td>
         </tr>
         <tr>
             <td>Violence</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['violence'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'violence'])"/>
             </td>
         </tr>
         <tr>
             <td>Boasting</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['boasting'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'boasting'])"/>
             </td>
         </tr>
         <tr>
             <td>Anxiety</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['anxiety'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'anxiety'])"/>
             </td>
         </tr>
         <tr>
             <td>Praise</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['praise'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'praise'])"/>
             </td>
         </tr>
         <tr>
             <td>Fear (tone)</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['fear'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'fear'])"/>
             </td>
         </tr>
         <tr>
             <td>Righteousness</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['righteousness'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'righteousness'])"/>
             </td>
         </tr>
     </xsl:template>
@@ -121,79 +121,79 @@
         <tr>
             <td>Anger</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@emotion['anger'])]"/>
+                <xsl:value-of select="count(//emo_lang[@emotion eq 'anger'])"/>
             </td>
         </tr>
         <tr>
             <td>Joy</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@emotion['joy'])]"/>
+                <xsl:value-of select="count(//emo_lang[@emotion eq 'joy'])"/>
             </td>
         </tr>
         <tr>
             <td>Contentment</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@emotion['contentment'])]"/>
+                <xsl:value-of select="count(//emo_lang[@emotion eq 'contentment'])"/>
             </td>
         </tr>
         <tr>
             <td>Sorrow</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@emotion['sorrow'])]"/>
+                <xsl:value-of select="count(//emo_lang[@emotion eq 'sorrow'])"/>
             </td>
         </tr>
         <tr>
             <td>Fear</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@emotion['fear'])]"/>
+                <xsl:value-of select="count(//emo_lang[@emotion eq 'fear'])"/>
             </td>
         </tr>
         <tr>
             <td>Petitioning</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['petitioning'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'petitioning'])"/>
             </td>
         </tr>
         <tr>
             <td>Pleading</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['pleading'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'pleading'])"/>
             </td>
         </tr>
         <tr>
             <td>Violence</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['violence'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'violence'])"/>
             </td>
         </tr>
         <tr>
             <td>Boasting</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['boasting'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'boasting'])"/>
             </td>
         </tr>
         <tr>
             <td>Anxiety</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['anxiety'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'anxiety'])"/>
             </td>
         </tr>
         <tr>
             <td>Praise</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['praise'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'praise'])"/>
             </td>
         </tr>
         <tr>
             <td>Fear (tone)</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['fear'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'fear'])"/>
             </td>
         </tr>
         <tr>
             <td>Righteousness</td>
             <td>
-                <xsl:value-of select="[count(//emo_lang/@tone['righteousness'])]"/>
+                <xsl:value-of select="count(//emo_lang[@tone eq 'righteousness'])"/>
             </td>
         </tr>
     </xsl:template>
