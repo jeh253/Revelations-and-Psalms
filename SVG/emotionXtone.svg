@@ -1,0 +1,355 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="75 100 1000 1000"
+     width="100%">
+   <g transform="translate(100, 1000)">
+      <line x1="50" x2="900" y1="0" y2="0" stroke="black"/>
+      <line x1="50" x2="50" y1="0" y2="-550" stroke="black"/>
+      <text x="475"
+            y="-600"
+            stroke="black"
+            fill="black"
+            text-anchor="middle"
+            font-size="20">
+                    Emotion and Tone Intersections</text>
+      <text x="475"
+            y="60"
+            fill="black"
+            stroke="black"
+            font-size="20"
+            text-anchor="middle">
+                    Tone</text>
+      <text x="250"
+            y="-75"
+            transform="rotate(-90)"
+            stroke="black"
+            fill="black"
+            font-size="20"
+            text-anchor="middle">
+                    Emotion</text>
+      <line x1="50"
+            x2="900"
+            y1="-100"
+            y2="-100"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="40" y="-98" stroke="black" text-anchor="end">joy</text>
+      <line x1="50"
+            x2="900"
+            y1="-200"
+            y2="-200"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="40" y="-198" stroke="black" text-anchor="end">contentment</text>
+      <line x1="50"
+            x2="900"
+            y1="-300"
+            y2="-300"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="40" y="-298" stroke="black" text-anchor="end">anger</text>
+      <line x1="50"
+            x2="900"
+            y1="-400"
+            y2="-400"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="40" y="-398" stroke="black" text-anchor="end">fear</text>
+      <line x1="50"
+            x2="900"
+            y1="-500"
+            y2="-500"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="40" y="-498" stroke="black" text-anchor="end">sorrow</text>
+      <line x1="150"
+            x2="150"
+            y1="0"
+            y2="-550"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="150" y="20" stroke="black" text-anchor="middle">praise</text>
+      <circle cx="150"
+              cy="-100"
+              r="77.20331999850447"
+              fill="purple"
+              opacity=".75"/>
+      <text x="150" y="-95" text-anchor="middle" stroke="black">749</text>
+      <circle cx="150"
+              cy="-200"
+              r="38.16107610236958"
+              fill="purple"
+              opacity=".75"/>
+      <text x="150" y="-195" text-anchor="middle" stroke="black">183</text>
+      <circle cx="150"
+              cy="-300"
+              r="19.339444569737623"
+              fill="purple"
+              opacity=".75"/>
+      <text x="150" y="-295" text-anchor="middle" stroke="black">47</text>
+      <circle cx="150"
+              cy="-400"
+              r="9.356025796273888"
+              fill="purple"
+              opacity=".75"/>
+      <text x="150" y="-395" text-anchor="middle" stroke="black">11</text>
+      <circle cx="150"
+              cy="-500"
+              r="8.920620580763856"
+              fill="purple"
+              opacity=".75"/>
+      <text x="150" y="-495" text-anchor="middle" stroke="black">10</text>
+      <line x1="250"
+            x2="250"
+            y1="0"
+            y2="-550"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="250" y="20" stroke="black" text-anchor="middle">righteousness</text>
+      <circle cx="250"
+              cy="-100"
+              r="41.07362166615077"
+              fill="purple"
+              opacity=".75"/>
+      <text x="250" y="-95" text-anchor="middle" stroke="black">212</text>
+      <circle cx="250"
+              cy="-200"
+              r="29.98708769569344"
+              fill="purple"
+              opacity=".75"/>
+      <text x="250" y="-195" text-anchor="middle" stroke="black">113</text>
+      <circle cx="250"
+              cy="-300"
+              r="52.396782041793315"
+              fill="purple"
+              opacity=".75"/>
+      <text x="250" y="-295" text-anchor="middle" stroke="black">345</text>
+      <circle cx="250"
+              cy="-400"
+              r="18.062879984608916"
+              fill="purple"
+              opacity=".75"/>
+      <text x="250" y="-395" text-anchor="middle" stroke="black">41</text>
+      <circle cx="250"
+              cy="-500"
+              r="13.81976597885342"
+              fill="purple"
+              opacity=".75"/>
+      <text x="250" y="-495" text-anchor="middle" stroke="black">24</text>
+      <line x1="350"
+            x2="350"
+            y1="0"
+            y2="-550"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="350" y="20" stroke="black" text-anchor="middle">fear</text>
+      <circle cx="350"
+              cy="-100"
+              r="15.191269449366247"
+              fill="purple"
+              opacity=".75"/>
+      <text x="350" y="-95" text-anchor="middle" stroke="black">29</text>
+      <circle cx="350"
+              cy="-200"
+              r="17.61681409986482"
+              fill="purple"
+              opacity=".75"/>
+      <text x="350" y="-195" text-anchor="middle" stroke="black">39</text>
+      <circle cx="350"
+              cy="-300"
+              r="10.925484305920792"
+              fill="purple"
+              opacity=".75"/>
+      <text x="350" y="-295" text-anchor="middle" stroke="black">15</text>
+      <circle cx="350"
+              cy="-400"
+              r="2.8209479177387813"
+              fill="purple"
+              opacity=".75"/>
+      <text x="350" y="-395" text-anchor="middle" stroke="black">1</text>
+      <line x1="450"
+            x2="450"
+            y1="0"
+            y2="-550"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="450" y="20" stroke="black" text-anchor="middle">anxiety</text>
+      <circle cx="450"
+              cy="-100"
+              r="14.104739588693906"
+              fill="purple"
+              opacity=".75"/>
+      <text x="450" y="-95" text-anchor="middle" stroke="black">25</text>
+      <circle cx="450"
+              cy="-200"
+              r="29.45156090686586"
+              fill="purple"
+              opacity=".75"/>
+      <text x="450" y="-195" text-anchor="middle" stroke="black">109</text>
+      <circle cx="450"
+              cy="-300"
+              r="26.76186174229157"
+              fill="purple"
+              opacity=".75"/>
+      <text x="450" y="-295" text-anchor="middle" stroke="black">90</text>
+      <circle cx="450"
+              cy="-400"
+              r="3.989422804014327"
+              fill="purple"
+              opacity=".75"/>
+      <text x="450" y="-395" text-anchor="middle" stroke="black">2</text>
+      <circle cx="450"
+              cy="-500"
+              r="3.989422804014327"
+              fill="purple"
+              opacity=".75"/>
+      <text x="450" y="-495" text-anchor="middle" stroke="black">2</text>
+      <line x1="550"
+            x2="550"
+            y1="0"
+            y2="-550"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="550" y="20" stroke="black" text-anchor="middle">violence</text>
+      <circle cx="550"
+              cy="-100"
+              r="42.68868817851167"
+              fill="purple"
+              opacity=".75"/>
+      <text x="550" y="-95" text-anchor="middle" stroke="black">229</text>
+      <circle cx="550"
+              cy="-200"
+              r="18.712051592547777"
+              fill="purple"
+              opacity=".75"/>
+      <text x="550" y="-195" text-anchor="middle" stroke="black">44</text>
+      <circle cx="550"
+              cy="-300"
+              r="18.4981925508298"
+              fill="purple"
+              opacity=".75"/>
+      <text x="550" y="-295" text-anchor="middle" stroke="black">43</text>
+      <circle cx="550"
+              cy="-400"
+              r="13.231418571003069"
+              fill="purple"
+              opacity=".75"/>
+      <text x="550" y="-395" text-anchor="middle" stroke="black">22</text>
+      <circle cx="550"
+              cy="-500"
+              r="7.463526651802308"
+              fill="purple"
+              opacity=".75"/>
+      <text x="550" y="-495" text-anchor="middle" stroke="black">7</text>
+      <line x1="650"
+            x2="650"
+            y1="0"
+            y2="-550"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="650" y="20" stroke="black" text-anchor="middle">petitioning</text>
+      <circle cx="650"
+              cy="-100"
+              r="21.668112103298046"
+              fill="purple"
+              opacity=".75"/>
+      <text x="650" y="-95" text-anchor="middle" stroke="black">59</text>
+      <circle cx="650"
+              cy="-200"
+              r="31.412746571571088"
+              fill="purple"
+              opacity=".75"/>
+      <text x="650" y="-195" text-anchor="middle" stroke="black">124</text>
+      <circle cx="650"
+              cy="-300"
+              r="19.339444569737623"
+              fill="purple"
+              opacity=".75"/>
+      <text x="650" y="-295" text-anchor="middle" stroke="black">47</text>
+      <circle cx="650"
+              cy="-400"
+              r="22.56758334191025"
+              fill="purple"
+              opacity=".75"/>
+      <text x="650" y="-395" text-anchor="middle" stroke="black">64</text>
+      <circle cx="650"
+              cy="-500"
+              r="13.81976597885342"
+              fill="purple"
+              opacity=".75"/>
+      <text x="650" y="-495" text-anchor="middle" stroke="black">24</text>
+      <line x1="750"
+            x2="750"
+            y1="0"
+            y2="-550"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="750" y="20" stroke="black" text-anchor="middle">pleading</text>
+      <circle cx="750"
+              cy="-100"
+              r="29.04343640802591"
+              fill="purple"
+              opacity=".75"/>
+      <text x="750" y="-95" text-anchor="middle" stroke="black">106</text>
+      <circle cx="750"
+              cy="-200"
+              r="26.160394784772457"
+              fill="purple"
+              opacity=".75"/>
+      <text x="750" y="-195" text-anchor="middle" stroke="black">86</text>
+      <circle cx="750"
+              cy="-300"
+              r="6.90988298942671"
+              fill="purple"
+              opacity=".75"/>
+      <text x="750" y="-295" text-anchor="middle" stroke="black">6</text>
+      <circle cx="750"
+              cy="-400"
+              r="4.886025119029199"
+              fill="purple"
+              opacity=".75"/>
+      <text x="750" y="-395" text-anchor="middle" stroke="black">3</text>
+      <circle cx="750"
+              cy="-500"
+              r="6.90988298942671"
+              fill="purple"
+              opacity=".75"/>
+      <text x="750" y="-495" text-anchor="middle" stroke="black">6</text>
+      <line x1="850"
+            x2="850"
+            y1="0"
+            y2="-550"
+            stroke="grey"
+            stroke-dasharray="2"/>
+      <text x="850" y="20" stroke="black" text-anchor="middle">boasting</text>
+      <circle cx="850"
+              cy="-100"
+              r="15.450968080927582"
+              fill="purple"
+              opacity=".75"/>
+      <text x="850" y="-95" text-anchor="middle" stroke="black">30</text>
+      <circle cx="850"
+              cy="-200"
+              r="18.9234939151512"
+              fill="purple"
+              opacity=".75"/>
+      <text x="850" y="-195" text-anchor="middle" stroke="black">45</text>
+      <circle cx="850"
+              cy="-300"
+              r="24.753717516845768"
+              fill="purple"
+              opacity=".75"/>
+      <text x="850" y="-295" text-anchor="middle" stroke="black">77</text>
+      <circle cx="850"
+              cy="-400"
+              r="9.356025796273888"
+              fill="purple"
+              opacity=".75"/>
+      <text x="850" y="-395" text-anchor="middle" stroke="black">11</text>
+      <circle cx="850"
+              cy="-500"
+              r="6.307831305050401"
+              fill="purple"
+              opacity=".75"/>
+      <text x="850" y="-495" text-anchor="middle" stroke="black">5</text>
+   </g>
+</svg>
