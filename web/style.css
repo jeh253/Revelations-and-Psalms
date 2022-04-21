@@ -123,7 +123,7 @@ div.text {
     height: 98vh;
     height: 300px;
     width: 400px;
-
+    padding: 10px;
 
 }
 .texts-filtering-box {
@@ -234,7 +234,7 @@ text {
     flex-basis: auto;
     align-self: flex-start;
 }
-.corpus {/*is this doing anything?*/
+/*is this doing anything? corpus{
     background: url("resize_open-book-2.jpg");
     background-repeat: no-repeat;
     background-size: 800px, 800px;
@@ -246,6 +246,8 @@ text {
     order: 1;
 
 }
+ * I don't think it is anymore, but I'll keep it here in case it is.
+ */
 
 a:link {
     color: gold;
