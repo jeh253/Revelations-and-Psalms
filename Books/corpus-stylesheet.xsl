@@ -45,7 +45,7 @@
                     </div>
                     <div class="attributes-filtering-box">
                         <h2 class="sidebar-header">I want to look at:</h2>
-                        <div class="attributes-filtering-container">
+                        <div class="emotion-filtering-container">
                             <h3 class="sidebar-header">Emotion</h3>
                             <input type="checkbox" id="joy" name="joy"/>
                             <label for="joy">Joy</label>
@@ -59,10 +59,15 @@
                             <input type="checkbox" id="contentment" name="contentment"/>
                             <label for="contentment">Contentment</label>
                             <br/>
-                            <input type="checkbox" id="fear" name="fear"/>
-                            <label for="fear">Fear</label>
+                            <input type="checkbox" id="fearE" name="fearE"/>
+                            <label for="fearE">Fear</label>
                             <br/>
+<<<<<<< Updated upstream
 
+=======
+                        </div>
+                        <div class="tone-filtering-container">
+>>>>>>> Stashed changes
                             <h3 class="sidebar-header">Tone</h3>
                             <input type="checkbox" id="pleading" name="pleading"/>
                             <label for="pleading">Pleading</label>
@@ -134,8 +139,18 @@
         </xsl:if>
     </xsl:template>
     <xsl:template match="emo_lang">
-        <span class="{@emotion} {@tone}">
+        <xsl:choose>
+            <xsl:when test="@emotion='fear'">
+                <span class="fearE {@tone}">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <span class="{@emotion} {@tone}"></span>
+            </xsl:otherwise>
+        </xsl:choose>
+        <!--<span class="{@emotion} {@tone}">
             <xsl:apply-templates/>
-        </span>
+        </span>-->
     </xsl:template>
 </xsl:stylesheet>
