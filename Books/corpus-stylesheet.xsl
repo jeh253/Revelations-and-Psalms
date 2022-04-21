@@ -135,20 +135,17 @@
         </xsl:if>
     </xsl:template>
     <xsl:template match="emo_lang">
-
-        <xsl:if test="@emotion = 'fear'">
-            <span class="fearE {@tone}">
-                <xsl:apply-templates/>
-            </span>
-        </xsl:if>
-
-        <span class="{@emotion} {@tone}">
-            <xsl:apply-templates/>
-        </span>
-
-
-        <!--<span class="{@emotion} {@tone}">
-            <xsl:apply-templates/>
-        </span>-->
+        <xsl:choose>
+            <xsl:when test="@emotion = 'fear'">
+                <span class="fearE {@tone}">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <span class="{@emotion} {@tone}">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 </xsl:stylesheet>
