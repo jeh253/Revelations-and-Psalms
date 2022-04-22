@@ -3,7 +3,7 @@ body {
     overflow-x: hidden;
     background-color: #5a849f;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     align-content: center;
