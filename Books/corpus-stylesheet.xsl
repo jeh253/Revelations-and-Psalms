@@ -22,7 +22,7 @@
                             individual tone or emotion, or you can combine them to see where they
                             overlap! If you would like to look at one specific book in particular,
                             check the box specified “Psalms” or “Revelations”. If you would like to
-                            look at the corpus as a whole, check the box labeled “All”. Emotions and
+                            look at the corpus as a whole, check both boxes. Emotions and
                             tones can be checked independently of each other, but for best results,
                             they should be checked together. Once checked, emotions will show up as
                             color coded text, and tones will be underlined with color. </p>
