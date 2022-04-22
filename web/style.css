@@ -108,9 +108,9 @@ div.cover {
 
 }
 div.open {
-    height: 98vh;
+    
     overflow-y: scroll;
-    height: 600px;
+    height: 630px;
     width: 800px;
     
 }
