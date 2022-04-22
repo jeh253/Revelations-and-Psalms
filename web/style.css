@@ -228,6 +228,9 @@ table{
     border: 1px solid;
     background: #451F0C;
 }
+svg{
+    background:white;
+}
 
 a:link {
     color: gold;
