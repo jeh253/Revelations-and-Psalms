@@ -156,7 +156,7 @@ div.text {
 }
 
 .cover {
-    background: url("resize_front-cover-2.jpg");
+    background: url("resize_open-book-2.jpg");
     background-repeat: no-repeat;
     background-size: 800px, 800px;
     display: block;
@@ -186,7 +186,7 @@ div.text {
 
 }
 .closed {
-    background: url("resize_back-cover-2.jpg");
+    background: url("resize_open-book-2.jpg");
     background-repeat: no-repeat;
     background-size: 790px, 900px;
     display: block;
