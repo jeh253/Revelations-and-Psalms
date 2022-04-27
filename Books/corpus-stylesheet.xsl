@@ -15,6 +15,7 @@
             </head>
             <body>
                 <xsl:comment>#include virtual="menu.xhtml"</xsl:comment>
+                <div class="readingView">
                 <section class="sidebar">
 
                     <div class="text">
@@ -110,7 +111,7 @@
                 <!-- not sure if this is in the right place but
                     for the moment i'm gonna leave it here -->
                 <script src="filter.js"/>
-
+                </div>
             </body>
         </html>
     </xsl:template>
