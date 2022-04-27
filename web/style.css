@@ -1,7 +1,8 @@
 body {
+    background: url("resize_open-book-2.jpg");
     overflow-y: hidden;
     overflow-x: hidden;
-    background-color: #5a849f;
+    
     display: flex;
     flex-direction: column-reverse;
     justify-content: space-around;
@@ -28,17 +29,25 @@ sidebar {
     align-content: center;
     order: 0;
 }
+readingView {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    order: 0;
+}
 h1 {
     color: beige;
     text-align: center;
-    background-color: #451F0C;
+    
     font-family: Verdana, humanist, sans-serif;
 
 }
 h2 {
     color: beige;
     text-align: center;
-    background-color: #451F0C;
+    
     margin-top: 2px;
     margin-bottom: 2px;
     font-family: Verdana, humanist, sans-serif;
@@ -47,7 +56,7 @@ h2 {
 h3 {
     color: beige;
     text-align: center;
-    background-color: #451F0C;
+    
     margin-top: 2px;
     margin-bottom: 2px;
     font-family: Verdana, humanist, sans-serif;
@@ -65,7 +74,7 @@ h3.sidebar-header {
 p {
     color: beige;
     font-size: 1.3em;
-    background-color: #451F0C;
+    
     margin-top: 4px;
     margin-bottom: 4px;
     line-height: 120%;
@@ -76,7 +85,7 @@ p {
 ul {
     color: beige;
     font-size: 1.3em;
-    background-color: #451F0C;
+   
     font-family: Verdana, humanist, sans-serif;
 
 
@@ -156,9 +165,8 @@ div.text {
 }
 
 .cover {
-    background: url("resize_open-book-2.jpg");
-    background-repeat: no-repeat;
-    background-size: 800px, 800px;
+    background-color: #5a849f;
+    
     display: block;
     flex-grow: 0;
     flex-shrink: 1;
@@ -171,9 +179,7 @@ div.text {
 
 }
 .open {
-    background: url("resize_open-book-2.jpg");
-    background-repeat: no-repeat;
-    background-size: 800px, 800px;
+    background-color: #5a849f;  
     display: block;
     flex-grow: 0;
     flex-shrink: 1;
@@ -186,9 +192,7 @@ div.text {
 
 }
 .closed {
-    background: url("resize_open-book-2.jpg");
-    background-repeat: no-repeat;
-    background-size: 790px, 900px;
+    background-color: #5a849f;
     display: block;
     flex-grow: 0;
     flex-shrink: 1;
@@ -201,7 +205,7 @@ div.text {
     position: relative;
     font-size: 1.5em;
     text-align: center;
-    background-color: #451F0C;
+    background-color: #5a849f;
     display: block;
     flex-grow: 0;
     flex-shrink: 1;
