@@ -9,8 +9,7 @@ body {
     align-content: center;
 
 }
-body.readingView {
-    background: url("resize_open-book-2.jpg");
+div.readingView {
     overflow-y: hidden;
     overflow-x: hidden;
     display: flex;
@@ -38,6 +37,7 @@ sidebar {
     align-items: center;
     align-content: center;
     order: 0;
+    
 }
 h1 {
     color: beige;
@@ -67,7 +67,7 @@ h3 {
 h3.sidebar-header {
     color: beige;
     text-align: center;
-    background-color: #451F0C;
+    background-color: #5a849f;
     margin-top: 2px;
     margin-bottom: 2px;
     width: 200px;
@@ -135,37 +135,50 @@ div.closed {
 }
 
 div.text {
-    height: 300px;
+    height: 260px;
     overflow-y: scroll;
-    width: 400px;
+    width: 300px;
     padding: 10px;
     background-color: #5a849f;
+    font-size: 12px;
+    margin-right: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 
 }
 .texts-filtering-box {
     height: 150px;
-    width: 150px;
+    width: 300px;
     order:1;
     padding: 10px;
     padding-bottom: 10px;
     background-color: #5a849f;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
 
 }
 .texts-filtering-container {
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 300px;
     order:2;
     padding: 10px;
     padding-bottom: 10px;
+    margin-right: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .attribute-filtering-box {
     
     overflow-y: scroll;
     height: 150px;
-    width: 200px;
+    width: 300px;
     padding: 10px;
     background-color: #5a849f;
+    margin-right: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     
 }
 
@@ -227,6 +240,7 @@ text {
     flex-shrink: 1;
     flex-basis: auto;
     align-self: flex-start;
+    
 }
 th, td {
   border: 1px solid;
