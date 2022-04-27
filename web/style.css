@@ -1,10 +1,20 @@
 body {
     background: url("resize_open-book-2.jpg");
     overflow-y: hidden;
-    overflow-x: hidden;
-    
+    overflow-x: hidden;    
     display: flex;
     flex-direction: column-reverse;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+
+}
+body.readingView {
+    background: url("resize_open-book-2.jpg");
+    overflow-y: hidden;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     align-content: center;
@@ -24,14 +34,6 @@ body.analysis {
 sidebar {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    order: 0;
-}
-readingView {
-    display: flex;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
     align-content: center;
@@ -137,6 +139,7 @@ div.text {
     overflow-y: scroll;
     width: 400px;
     padding: 10px;
+    background-color: #5a849f;
 
 }
 .texts-filtering-box {
@@ -145,6 +148,7 @@ div.text {
     order:1;
     padding: 10px;
     padding-bottom: 10px;
+    background-color: #5a849f;
 
 }
 .texts-filtering-container {
@@ -161,6 +165,7 @@ div.text {
     height: 150px;
     width: 200px;
     padding: 10px;
+    background-color: #5a849f;
     
 }
 
