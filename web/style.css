@@ -80,7 +80,8 @@ p {
     margin-bottom: 4px;
     line-height: 120%;
     font-family: Verdana, humanist, sans-serif;
-
+padding-left: 10px;
+    padding-top:10px;
 
 }
 ul {
