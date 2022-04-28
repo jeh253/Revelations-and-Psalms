@@ -182,6 +182,7 @@ div.text {
     
 }
 
+
 .cover {
     background-color: #5a849f;
     
@@ -320,50 +321,64 @@ span.light.righteousness{
 
 label[for = "joy"]{
     color: pink;
+    background: #696969;
 }
+
 label[for = "sorrow"]{
     color: lightblue;
+    background: #696969;
 }
 label[for = "anger"]{
     color: red;
+    background: #696969;
 }
 label[for = "contentment"]{
     color: green;
+    background: #A9A9A9;
 }
 label[for = "fearE"]{
     color: yellow;
+    background: #696969;
 }
 label[for = "pleading"]{
     text-decoration: underline;     
-    text-decoration-color: orange; 
+    text-decoration-color: orange;
+    background: #A9A9A9;
 }
 label[for = "petitioning"]{
     text-decoration: underline;     
-    text-decoration-color: #FF0099; 
+    text-decoration-color: #FF0099;
+    background: #A9A9A9;
 }
 label[for = "violence"]{
     text-decoration: underline;     
-    text-decoration-color: red; 
+    text-decoration-color: red;
+    background: #A9A9A9;
 }
 label[for = "boasting"]{
     text-decoration: underline;     
-    text-decoration-color: green; 
+    text-decoration-color: green;
+    background: #A9A9A9;
 }
 label[for = "anxiety"]{
     text-decoration: underline;     
-    text-decoration-color: lightblue; 
+    text-decoration-color: lightblue;
+    background: #A9A9A9;
 }
 label[for = "praise"]{
     text-decoration: underline;     
-    text-decoration-color: lightpink; 
+    text-decoration-color: lightpink;
+    background: #A9A9A9;
 }
 label[for = "fear2"]{
     text-decoration: underline;     
-    text-decoration-color: yellow; 
+    text-decoration-color: yellow;
+    background: #A9A9A9;
 }
 label[for = "righteousness"]{
     text-decoration: underline;     
-    text-decoration-color: #CC80CC; 
+    text-decoration-color: #CC80CC;
+    background: #A9A9A9;
 }
 
 
