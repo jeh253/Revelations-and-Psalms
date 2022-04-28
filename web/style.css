@@ -253,14 +253,15 @@ table{
 svg{
     background:white;
     margin-left: 50px;
-    margin-top: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 a:link {
-    color: gold;
+    color: white;
 }
 a:visited {
-    color: white;
+    color: gold;
 }
 span.high.anger{
     color: red;
