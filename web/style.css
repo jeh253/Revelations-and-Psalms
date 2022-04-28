@@ -75,8 +75,7 @@ h3.sidebar-header {
 }
 p {
     color: beige;
-    font-size: 1.3em;
-    
+    font-size: 1.3em;   
     margin-top: 4px;
     margin-bottom: 4px;
     line-height: 120%;
@@ -141,7 +140,7 @@ div.text {
     padding: 10px;
     background-color: #5a849f;
     font-size: 12px;
-    margin-right: 100px;
+    margin-right: 50px;
     margin-top: 5px;
     margin-bottom: 5px;
 
@@ -164,7 +163,7 @@ div.text {
     order:2;
     padding: 10px;
     padding-bottom: 10px;
-    margin-right: 100px;
+    margin-right: 50px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -176,7 +175,7 @@ div.text {
     width: 300px;
     padding: 10px;
     background-color: #5a849f;
-    margin-right: 100px;
+    margin-right: 50px;
     margin-top: 5px;
     margin-bottom: 5px;
     
@@ -252,6 +251,8 @@ table{
 }
 svg{
     background:white;
+    margin-left: 50px;
+    margin-top: 200px;
 }
 
 a:link {
