@@ -317,50 +317,51 @@ span.light.righteousness{
     text-decoration: underline;     
     text-decoration-color: #CC80CC;  
 }
-label.joy{
+
+label[for = "joy"]{
     color: pink;
 }
-label.sorrow{
+label[for = "sorrow"]{
     color: lightblue;
 }
-label.anger{
+label[for = "anger"]{
     color: red;
 }
-label.contentment{
+label[for = "contentment"]{
     color: green;
 }
-label.fearE{
+label[for = "fearE"]{
     color: yellow;
 }
-label.pleading{
+label[for = "pleading"]{
     text-decoration: underline;     
     text-decoration-color: orange; 
 }
-label.petitioning{
+label[for = "petitioning"]{
     text-decoration: underline;     
     text-decoration-color: #FF0099; 
 }
-label.violence{
+label[for = "violence"]{
     text-decoration: underline;     
     text-decoration-color: red; 
 }
-label.boasting{
+label[for = "boasting"]{
     text-decoration: underline;     
     text-decoration-color: green; 
 }
-label.anxiety{
+label[for = "anxiety"]{
     text-decoration: underline;     
     text-decoration-color: lightblue; 
 }
-label.praise{
+label[for = "praise"]{
     text-decoration: underline;     
     text-decoration-color: lightpink; 
 }
-label.fear2{
+label[for = "fear2"]{
     text-decoration: underline;     
     text-decoration-color: yellow; 
 }
-label.righteousness{
+label[for = "righteousness"]{
     text-decoration: underline;     
     text-decoration-color: #CC80CC; 
 }
