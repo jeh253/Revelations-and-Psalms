@@ -246,11 +246,11 @@ th, td {
     color: white;
 }
 table{
-    width: 100%;
+    width: 80%;
     border: 1px solid;
     background: #451F0C;
-    margin-left:20px;
-    margin-right:20px;
+    margin-left:10px;
+    
 }
 svg{
     background:white;
